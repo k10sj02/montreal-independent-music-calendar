@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
-from montreal_independent_music_calendar import boomboom_events, build_calendar, ckut_events, deduplicate, has_things_events, merge_state, wherehouse_events
+from montreal_independent_music_calendar import boomboom_events, build_calendar, ckut_events, deduplicate, has_things_events, merge_state, quai_des_brumes_events, wherehouse_events
 
 
 class FakeFetcher:
@@ -50,6 +50,21 @@ def test_wherehouse_selected_venues_and_deduplication():
     got = wherehouse_events(FakeFetcher({"wherehouse.dev":page}), date(2026,10,10), date(2026,11,1))
     assert [event.title for event in got] == ["Club SAT"]
     assert len(deduplicate([got[0], got[0]])) == 1
+
+
+def test_quai_des_brumes_official_listing():
+    page = '''<article class="mec-event-article mec-toggle-202610-58">
+      <h3 class="mec-event-title"><a data-event-id="5186" href="https://quaidesbrumes.ca/evenements/scopa/">SCOPA + Béatrules</a></h3>
+      <div class="mec-event-description">Spectacle gratuit</div>
+      <span class="mec-start-date-label">14 Oct</span>
+      <span class="mec-start-time">9:00 pm</span><span class="mec-end-time">1:00 am</span>
+    </article>'''
+    got = quai_des_brumes_events(FakeFetcher({"calendrier": page}), date(2026, 10, 10), date(2026, 11, 1))
+    assert got[0].source_id == "5186"
+    assert got[0].start == "2026-10-14T21:00:00-04:00"
+    assert got[0].end == "2026-10-15T01:00:00-04:00"
+    assert got[0].address.startswith("4481")
+    assert got[0].description.startswith("FREE")
 
 
 def test_ics_and_stable_state(tmp_path: Path):

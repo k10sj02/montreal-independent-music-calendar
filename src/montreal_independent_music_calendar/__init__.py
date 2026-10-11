@@ -19,6 +19,7 @@ HAS_THINGS = "https://montreal.hasthings.com/api/events"
 CKUT = "https://ckut.ca/events/"
 BOOMBOOM = "https://boomboom.today/"
 WHEREHOUSE = "https://wherehouse.dev/"
+QUAI_DES_BRUMES = "https://quaidesbrumes.ca/calendrier/"
 USER_AGENT = "MontrealIndependentMusicCalendar/1.0 (+https://github.com/k10sj02/montreal-independent-music-calendar)"
 VENUES = {
     "casa-del-popolo": ("Casa del Popolo", "4873 boul. Saint-Laurent, Montréal, QC"),
@@ -43,6 +44,7 @@ WHEREHOUSE_VENUES = {
     "union française de montréal", "union francaise de montreal",
 }
 WHEREHOUSE_ORGANIZERS = re.compile(r"\b(?:Homegrown Harvest|Parquette|Flush|Wizard Tribe|No Reiner|Khaos Techn(?:ics|ikas)|Arder)\b", re.I)
+QUAI_DES_BRUMES_ADDRESS = "4481 rue Saint-Denis, Montréal, QC H2J 2L2"
 
 
 @dataclass(frozen=True)
@@ -224,6 +226,51 @@ def wherehouse_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEve
     return output
 
 
+def quai_des_brumes_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEvent]:
+    """Read the venue's official Modern Events Calendar listing."""
+    soup = BeautifulSoup(fetcher.get(QUAI_DES_BRUMES), "html.parser")
+    output: list[MusicEvent] = []
+    for card in soup.select("article.mec-event-article"):
+        title_link = card.select_one(".mec-event-title a[data-event-id]")
+        day_node = card.select_one(".mec-start-date-label")
+        time_node = card.select_one(".mec-start-time")
+        month_class = next((name for name in card.get("class", []) if re.fullmatch(r"mec-toggle-\d{6}-\d+", name)), None)
+        if not title_link or not day_node or not time_node or not month_class:
+            continue
+        year, month = int(month_class[11:15]), int(month_class[15:17])
+        day_match = re.search(r"\d{1,2}", day_node.get_text(" ", strip=True))
+        if not day_match:
+            continue
+        clock = datetime.strptime(time_node.get_text(" ", strip=True).upper(), "%I:%M %p").time()
+        begins = datetime(year, month, int(day_match.group()), clock.hour, clock.minute, tzinfo=TIMEZONE)
+        if not start <= begins.date() <= end:
+            continue
+        finish = None
+        end_node = card.select_one(".mec-end-time")
+        if end_node:
+            end_clock = datetime.strptime(end_node.get_text(" ", strip=True).upper(), "%I:%M %p").time()
+            candidate = datetime.combine(begins.date(), end_clock, TIMEZONE)
+            if candidate < begins:
+                candidate += timedelta(days=1)
+            if candidate > begins:
+                finish = candidate
+        description_node = card.select_one(".mec-event-description")
+        description = description_node.get_text(" ", strip=True) if description_node else ""
+        if re.search(r"\b(?:gratuit|free)\b", description, re.I):
+            description = "FREE · " + description
+        elif re.search(r"(?:contribution|prix) libre|par donation|by donation", description, re.I):
+            description = "BY DONATION · " + description
+        output.append(MusicEvent(
+            source="quai-des-brumes", source_id=title_link["data-event-id"],
+            title=title_link.get_text(" ", strip=True), start=begins.isoformat(),
+            end=finish.isoformat() if finish else None, venue="Quai des Brumes",
+            address=QUAI_DES_BRUMES_ADDRESS, url=title_link["href"], description=description,
+        ))
+    if not output:
+        raise RuntimeError("No current Quai des Brumes events found")
+    return output
+
+
 def deduplicate(events: list[MusicEvent]) -> list[MusicEvent]:
     unique: dict[tuple[str, str], MusicEvent] = {}
     for event in events:
@@ -292,7 +339,7 @@ def main() -> None:
     fetcher = Fetcher()
     sources, errors = {}, {}
     collected: list[MusicEvent] = []
-    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events), ("electronic-and-raves", boomboom_events), ("underground-venues", wherehouse_events)):
+    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events), ("quai-des-brumes", quai_des_brumes_events), ("electronic-and-raves", boomboom_events), ("underground-venues", wherehouse_events)):
         try:
             events = loader(fetcher, now.date(), final_day)
             collected.extend(events)
