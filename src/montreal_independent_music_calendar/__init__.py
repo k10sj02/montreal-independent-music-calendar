@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import unicodedata
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -17,6 +18,7 @@ TIMEZONE = ZoneInfo("America/Toronto")
 HAS_THINGS = "https://montreal.hasthings.com/api/events"
 CKUT = "https://ckut.ca/events/"
 BOOMBOOM = "https://boomboom.today/"
+WHEREHOUSE = "https://wherehouse.dev/"
 USER_AGENT = "MontrealIndependentMusicCalendar/1.0 (+https://github.com/k10sj02/montreal-independent-music-calendar)"
 VENUES = {
     "casa-del-popolo": ("Casa del Popolo", "4873 boul. Saint-Laurent, Montréal, QC"),
@@ -34,6 +36,13 @@ BOOMBOOM_ADDRESSES = {
     "sans soleil": "52 rue Saint-Zotique E, Montréal, QC",
     "salon daomé": "4465 boul. Saint-Laurent, Montréal, QC",
 }
+WHEREHOUSE_VENUES = {
+    "sat", "newspeak", "salon daomé", "stereo", "stereobar", "bar datcha",
+    "le red room", "esc", "sans soleil", "theatre fairmount", "théâtre fairmount",
+    "cabaret berlin", "bain mathieu", "club pelicano", "taverna",
+    "union française de montréal", "union francaise de montreal",
+}
+WHEREHOUSE_ORGANIZERS = re.compile(r"\b(?:Homegrown Harvest|Parquette|Flush|Wizard Tribe|No Reiner|Khaos Techn(?:ics|ikas)|Arder)\b", re.I)
 
 
 @dataclass(frozen=True)
@@ -171,6 +180,59 @@ def boomboom_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEvent
     return output
 
 
+def wherehouse_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEvent]:
+    """Select only the requested underground venues from Wherehouse's data."""
+    html = fetcher.get(WHEREHOUSE)
+    chunks: list[str] = []
+    pattern = r'self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)'
+    for match in re.finditer(pattern, html):
+        try:
+            chunks.append(json.loads(match.group(1)))
+        except json.JSONDecodeError:
+            continue
+    records: list[dict] | None = None
+    for chunk in chunks:
+        position = chunk.find('"events":[')
+        if position >= 0:
+            records = json.JSONDecoder().raw_decode(chunk, position + len('"events":'))[0]
+            break
+    if records is None:
+        raise RuntimeError("Wherehouse event data was not found")
+    output: list[MusicEvent] = []
+    for item in records:
+        venue = item.get("venue", "").strip()
+        signal = " | ".join([item.get("title", ""), item.get("source", ""), *(item.get("tags") or [])])
+        if venue.casefold() not in WHEREHOUSE_VENUES and not WHEREHOUSE_ORGANIZERS.search(signal):
+            continue
+        if not item.get("startAt"):
+            continue
+        begins = datetime.fromisoformat(item["startAt"].replace("Z", "+00:00")).astimezone(TIMEZONE)
+        if not start <= begins.date() <= end:
+            continue
+        finish_value = item.get("endAt")
+        finish = datetime.fromisoformat(finish_value.replace("Z", "+00:00")).astimezone(TIMEZONE) if finish_value else None
+        url = item.get("officialUrl") or item.get("sourceUrl") or WHEREHOUSE
+        genres = item.get("genres") or ([item["genre"]] if item.get("genre") else [])
+        output.append(MusicEvent(
+            source="wherehouse", source_id=item.get("databaseId") or item["id"], title=item["title"],
+            start=begins.isoformat(), end=finish.isoformat() if finish else None,
+            venue=venue or "Montréal", address=item.get("addressHint") or "Montréal, QC", url=url,
+            description=" · ".join(filter(None, [", ".join(genres), item.get("summary", ""), "Discovered via Wherehouse"])),
+        ))
+    if not output:
+        raise RuntimeError("No selected Wherehouse events found")
+    return output
+
+
+def deduplicate(events: list[MusicEvent]) -> list[MusicEvent]:
+    unique: dict[tuple[str, str], MusicEvent] = {}
+    for event in events:
+        normalized = unicodedata.normalize("NFKD", event.title.casefold())
+        title_key = "".join(character for character in normalized if character.isalnum())
+        unique.setdefault((title_key, event.start[:16]), event)
+    return list(unique.values())
+
+
 def merge_state(current: list[MusicEvent], state_path: Path, now: datetime) -> list[MusicEvent]:
     old = {}
     if state_path.exists():
@@ -230,7 +292,7 @@ def main() -> None:
     fetcher = Fetcher()
     sources, errors = {}, {}
     collected: list[MusicEvent] = []
-    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events), ("electronic-and-raves", boomboom_events)):
+    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events), ("electronic-and-raves", boomboom_events), ("underground-venues", wherehouse_events)):
         try:
             events = loader(fetcher, now.date(), final_day)
             collected.extend(events)
@@ -239,8 +301,7 @@ def main() -> None:
             errors[name] = str(exc)
     if not collected:
         raise RuntimeError("No current events found; refusing to publish an empty calendar")
-    by_uid = {event.uid: event for event in collected}
-    events = merge_state(list(by_uid.values()), root / "data/state.json", now)
+    events = merge_state(deduplicate(collected), root / "data/state.json", now)
     public = root / "public"
     public.mkdir(exist_ok=True)
     (public / "montreal-independent-music.ics").write_bytes(build_calendar(events, now))

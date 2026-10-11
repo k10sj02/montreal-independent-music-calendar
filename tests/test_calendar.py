@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
-from montreal_independent_music_calendar import boomboom_events, build_calendar, ckut_events, has_things_events, merge_state
+from montreal_independent_music_calendar import boomboom_events, build_calendar, ckut_events, deduplicate, has_things_events, merge_state, wherehouse_events
 
 
 class FakeFetcher:
@@ -40,6 +40,16 @@ def test_boomboom_electronic_events_and_filters():
     got = boomboom_events(FakeFetcher({"boomboom.today": page}), date(2026,10,10), date(2026,10,20))
     assert [event.title for event in got] == ["Flørist at Système"]
     assert got[0].address.startswith("7119")
+
+
+def test_wherehouse_selected_venues_and_deduplication():
+    records = [{"id":"sat-1","databaseId":"db-1","title":"Club SAT","venue":"SAT","startAt":"2026-10-20T02:00:00Z","endAt":"2026-10-20T07:00:00Z","genres":["Bass"],"officialUrl":"https://sat.qc.ca/event","addressHint":"1201 Saint-Laurent"}, {"id":"arena-1","databaseId":"db-2","title":"Arena Show","venue":"Bell Centre","startAt":"2026-10-20T02:00:00Z"}]
+    chunk = json.dumps({"events":records}, separators=(",", ":"))
+    encoded = json.dumps(chunk)
+    page = f'<script>self.__next_f.push([1,{encoded}])</script>'
+    got = wherehouse_events(FakeFetcher({"wherehouse.dev":page}), date(2026,10,10), date(2026,11,1))
+    assert [event.title for event in got] == ["Club SAT"]
+    assert len(deduplicate([got[0], got[0]])) == 1
 
 
 def test_ics_and_stable_state(tmp_path: Path):
