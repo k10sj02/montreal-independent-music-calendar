@@ -2,13 +2,13 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="An independent calendar of Montréal music and listening events.">
 <title>Montréal Independent Music Calendar</title>
-<style>body{font:18px/1.6 system-ui,sans-serif;max-width:750px;margin:60px auto;padding:20px;color:#222}h1{line-height:1.15}a{color:#0645ad}code{overflow-wrap:anywhere;background:#f4f4f4;padding:.15em .3em}</style></head>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font-size:16px;padding:8px}@media(max-width:600px){body{margin:20px auto}}</style></head>
 <body><h1>Montréal Independent Music Calendar</h1>
-<h2>About</h2>
-<p>A practical, automatically updated calendar for independent music in Montréal. It brings together smaller venues, experimental concerts, electronic nights, raves, community listings, and local organizers in one place. Every event links back to its original listing so you can check details before going.</p>
+<p>A simple, automatically refreshed calendar for less-mainstream concerts, listening sessions, and experimental music around Montréal.</p>
 <p>Current sources include Casa del Popolo, La Sala Rossa, La Sotterenea, P’tit Ours, CKUT, Quai des Brumes, Resident Advisor-linked electronic events and raves, Le Système, SAT, Newspeak, Stereo, Datcha, Salon Daomé, Red Room, ESC, Sans Soleil, Fairmount, Cabaret Berlin, and published Suoni, Ursa, and Akousma listings.</p>
-<p><a href="montreal-independent-music.ics">Subscribe in Apple Calendar</a> · <a href="montreal-independent-music.ics">Download calendar</a></p>
+<p><a id="subscription" href="montreal-independent-music.ics">Subscribe in Apple Calendar</a> · <a href="montreal-independent-music.ics">Download calendar</a></p>
 <p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
-<p><code>https://k10sj02.github.io/montreal-independent-music-calendar/montreal-independent-music.ics</code></p>
+<input id="url" aria-label="Calendar subscription URL" readonly>
 <p><a href="status.json">Last refresh status</a> · <a href="https://github.com/k10sj02/montreal-independent-music-calendar">Source code</a></p>
-<p>Refreshes every six hours. Check the official event link before attending.</p></body></html>
+<p>Refreshes every six hours; your calendar app controls how quickly changes appear. Check the original listing before attending.</p>
+<script>const u=new URL('montreal-independent-music.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script></body></html>
