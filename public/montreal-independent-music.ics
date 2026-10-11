@@ -9,7 +9,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 SUMMARY:All Night Boogie Band & Mr. Pinstripes
 DTSTART;TZID=America/Toronto:20261009T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:16e6d8cf5150e8ef719939e98f74@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Next Level Alumni Show
 DTSTART;TZID=America/Toronto:20261009T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:2856d820aa1835a6d73eb003f047@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bleu Nuit (lancement d'album) + Ellemetue @La Sotterenea
 DTSTART;TZID=America/Toronto:20261009T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:df4d9dfacd6bcffd8ccd006f3926@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Punch Club MTL 160e édition
 DTSTART;TZID=America/Toronto:20261009T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:4bdd5d0378c834d48aa06dff4503@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: REUBEN AND THE DARK + IAN JARVIS
 DTSTART;TZID=America/Toronto:20261010T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:4a8ffe54060446b6d727d5e63b0d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: The Forever Tour 2026 - WESLEY JO
  SEPH + Invité(e)s
 DTSTART;TZID=America/Toronto:20261010T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:801a6dd92ec2cc05c0b594c7ed8a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Worst Dad Ever presents\; Ben Stager and Holly Mclachlan
 DTSTART;TZID=America/Toronto:20261010T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f49157058e9cd02c10ab76629180@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canicule Tropicale
 DTSTART;TZID=America/Toronto:20261010T220000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:8937af6f26a1f9e58c304b2a65af@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Punjabi Opera and Folk Music by Centre for the Performing Arts and
   Immigrant Workers Centre
 DTSTART;TZID=America/Toronto:20261011T173000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:4535c138d0aad78fbbe46dc75286@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Live Score for Faust by Tall Shadows ft Monty plays A Trip to the 
  Moon and Abulzooz' Near End
 DTSTART;TZID=America/Toronto:20261011T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:fd790dfab2f9fc014d44d88929ae@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roman Muñoz quartet Enchantement album release
 DTSTART;TZID=America/Toronto:20261011T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:fc6a39eec301cc8342e35d9fcf5e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -150,7 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2444*PRINTING
 DTSTART;TZID=America/Toronto:20261011T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c7ce93ae60bf5a634779db3f6612@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les Trippers: Spectacle Action de Grâces
 DTSTART;TZID=America/Toronto:20261012T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:cd5e903d27f05b2fdd45c0721c50@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 3P's Live
 DTSTART;TZID=America/Toronto:20261013T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:5a9a1ecf1b24f3dc5f544135e20c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Badvril + Shirehead + Kerri
 DTSTART;TZID=America/Toronto:20261013T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:44b32686f89f7f00b6df319a43fc@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anna Johnson with Beast and Christ's Big Naturals
 DTSTART;TZID=America/Toronto:20261013T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f71bba7f1a210f9640ee13729152@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C'est une soirée PJ !
 DTSTART;TZID=America/Toronto:20261014T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:14e4f849b5664041856f56053e62@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Goddamsels w/ special guests Cam & Jay
 DTSTART;TZID=America/Toronto:20261014T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:fb23d8944436221ce0198c317070@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:PHENOMENA - même rauque l'espérance ne s'amenuise pas - dada & t
  homas
 DTSTART;TZID=America/Toronto:20261015T190000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:bf49319c8979b2f4fdd9c58149c6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kraba Album Launch
 DTSTART;TZID=America/Toronto:20261015T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d2c90738899c5e309790b61a9060@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mellow Casualty Live
 DTSTART;TZID=America/Toronto:20261015T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:74cb6ee1d926ad5d40ff417c6aa0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -283,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA Échec et DADA - Le cabaret du déclin
 DTSTART;TZID=America/Toronto:20261016T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:662e16c5a02fadba638d7f9d4852@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -299,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cumbia Control a la Casa del Popolo
 DTSTART;TZID=America/Toronto:20261016T213000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:6c374149e77d01ebabfd48a47723@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -311,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261017T140000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:fb51ccabad61501cb2081c6391c2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -327,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mia Kelly - Big Time Roller Coaster Feeling Tour
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:8645924b9ca7d979e87b938eba51@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:732a5896e0b82acc35a8fc298398@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -355,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: IAN SWEET+ Invité(e)s
 DTSTART;TZID=America/Toronto:20261017T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:0227b4510aa44afec02e32d5bcab@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Indie Rock · Rock · Data: Has Things (hasthings.com)\, ODbL 
@@ -367,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261018T140000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:70f9b684f30ef9eedaec62b31602@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261018T190000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:8fc1d2569dcdabf351a6f3147c0a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -399,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eternal Cycle
 DTSTART;TZID=America/Toronto:20261018T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:a4b9d4064bdf9332249bcdf45d2c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -413,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HESTIAA X ELLAA and BAANUMOON
 DTSTART;TZID=America/Toronto:20261018T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:714d2c38ed42e332b7adbcc11316@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -427,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shapeshifter Album Release Tour
 DTSTART;TZID=America/Toronto:20261019T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d28779a3e09624207b18f9409126@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -441,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hearts of Palm\, Holy Pony\, FIA
 DTSTART;TZID=America/Toronto:20261019T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f0a758573a59cc2c8c7ac21feff4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -453,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rose Adam
 DTSTART;TZID=America/Toronto:20261019T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:e0d30a4df1471ead04748c31780d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -465,7 +465,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dinette + Friends
 DTSTART;TZID=America/Toronto:20261020T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:5b10f672dec4e39a721361649d3d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Flooding + Bloodsports + Fionavai
  r
 DTSTART;TZID=America/Toronto:20261020T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:9fb1da4a4a320fd498f28835fa32@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -491,7 +491,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Townie\, Talel Mcbriar\, Ben Vallee
 DTSTART;TZID=America/Toronto:20261020T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:b590750a18159603db550e13ab5c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -503,7 +503,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Dead Gowns
 DTSTART;TZID=America/Toronto:20261021T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:67f1618579de2b99819f0658f32e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -517,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Édouard Tremblay-Grenier \, Francois Roberge
 DTSTART;TZID=America/Toronto:20261021T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:80fce4fc78f43d3198496ae76bcc@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Laura Cortese & The Dance Cards +
   Paruline
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:84fe491223b73a4494076f44dc72@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -543,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:MADRID EXIT - 'STRANGERS' LANCEMENT D'ALBUM/ALBUM LAUNCH - w/ Mula
  n
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f1d884fa75db5cf3e997c8942501@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MODO-LIVE Presents... GTA LIVE FM Featuring Double Experience
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d879e8239c632d1067b97b4831b4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -569,7 +569,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Hues of Blues
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:4aed824928b5595763e6081cd22f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:CJLO Funding Drive Launch Party w/ Good Feeling\, Taupe\, and The 
  Wesleys
 DTSTART;TZID=America/Toronto:20261023T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:279349aa52bfe74eedff6de224fe@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:WEFUNK 30-Year Anniversary Party | Friday\, October 23\, 2026
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:cb20365f200fc345908ddd5f5292@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:CKUT's legendary hip-hop show\, WEFUNK is turning 30 and we're
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:WEFUNK 30th Anniversary Party
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:17a1f24e9912ce14201637a9cd1e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Hip Hop / Rap · Data: Has Things (hasthings.com)\, ODbL 1.0\n
@@ -622,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plus! + Starcrusher + Lost Faculty + Good Question
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c5b25739b039c0c19d7885a625f8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -636,7 +636,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Take Me Home The Tour
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:541d9bceb3e80b33aa277b43a84e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -648,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VÍZ Lancement d'album Ég/Üres & Three Days سه روز
 DTSTART;TZID=America/Toronto:20261024T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:4de65d04f2f0f9e1fbd8ee62249f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -660,7 +660,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ensemble Urbain Musique: Transformations
 DTSTART;TZID=America/Toronto:20261025T190000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:6b6fc943758cfdb377746a18f914@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -672,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QMP: Williwaw / New Origin invite Susanna Hood
 DTSTART;TZID=America/Toronto:20261025T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:223351448714cc3b167a29ce7678@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -684,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Album Launch: Bilal Nasser With Quatuore Memoire / Jessica Moss
 DTSTART;TZID=America/Toronto:20261025T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c898fd676c5128ad7a65f05df6f3@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -696,7 +696,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jennifer Castle And Kacy Lee Anderson Live In Concert
 DTSTART;TZID=America/Toronto:20261025T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:98c98a3e3784d8deab9a8d2ee236@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -708,7 +708,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lancement de Recueil - La Steppe
 DTSTART;TZID=America/Toronto:20261026T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:65ad7fafb93db709e1f508c1320e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -722,7 +722,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:lilac GTA release show
 DTSTART;TZID=America/Toronto:20261026T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f1df36a084b9ce4d2194010e5963@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -734,7 +734,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:re:configuré
 DTSTART;TZID=America/Toronto:20261027T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:3705749179d86c73c76a463560f6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -746,7 +746,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANGUILLES (lancement de EP) + HÔTE
 DTSTART;TZID=America/Toronto:20261027T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:831501e51e268e34d1e22d907220@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -760,7 +760,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOVA + Salomé Perli
 DTSTART;TZID=America/Toronto:20261027T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d1c81f3fad2312395f40327262cd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Architek Percussion: a 15 year retrospective | une rétrospective 
  de 15 ans
 DTSTART;TZID=America/Toronto:20261028T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:adc7c1d37a5344d4dcf9ed896852@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -787,7 +787,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spooky Tunes Halloween Cabaret
 DTSTART;TZID=America/Toronto:20261028T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:a61b2342cb44d873b97feba40505@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -801,7 +801,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mali Obomsawin
 DTSTART;TZID=America/Toronto:20261028T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:0c8f07f6199471ea74c166ad794f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -815,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Patrick Prévost - Lancement de l'album Gribouillis
 DTSTART;TZID=America/Toronto:20261029T202500
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:862368040b0e259caf1b480d862b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -827,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Desbarats and Bennett Mitchell
 DTSTART;TZID=America/Toronto:20261029T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:916a9534e838147e27c8f953707f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Saint Willow - Album Launch & Halloween show - with Oiseau de Proi
  e and Mindreader
 DTSTART;TZID=America/Toronto:20261030T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:b6de7a434f34138ef47a97bd759e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -855,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:Ella Aslin: For the Life of Me Tour with Bella Galasso and Grace C
  lark
 DTSTART;TZID=America/Toronto:20261030T201500
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:3c3ed3e47e9c54154252e38bde6c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -870,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Horror Halloween : Poolgirl\, Blue Linen\, Shunk\, Best Fish
   Foreve
 DTSTART;TZID=America/Toronto:20261030T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:357a358a1a99a90016187147a04b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -882,7 +882,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quest Master + Vespéral + more
 DTSTART;TZID=America/Toronto:20261030T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:b38d7cbf61d501ba4ea9dc8c83ac@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -894,7 +894,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baile Macabre
 DTSTART;TZID=America/Toronto:20261031T223000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:bf298828a4a60e1097149f5e4866@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -907,7 +907,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ancrage - Alexandra Moreno (lancement)
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:982576c280cac0a02e7cda272263@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -919,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Couvo + Kerri + Rachel Law
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:9e16aeb807a2a08d25c9532f19c0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -933,7 +933,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oscar Robertson et Philippe Noël
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:8a0c3c221cc7b62a5cf9f0456eb1@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -945,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdit Les Chiens
 DTSTART;TZID=America/Toronto:20261103T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:cd08dfb9b12b78663eaea3cd7d90@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -958,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black et Pop Montréal présentent: SWEEPING PROMI
  SES +HÉLÈNE BARBIER + KNITTING
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:138c7c09021b4e4aaff5f20b38bd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: PAPER WINGS + THE PUDDING CHÔMEU
  R
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:90d89cfb11892627f069b4948ebf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -985,7 +985,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeping Promises
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:9ee5e5bc93c974f8abb451f0e3a5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -998,7 +998,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keenan Trevon: Flowers After Dark Tour
 DTSTART;TZID=America/Toronto:20261105T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:959a4c0cb04d3102e057e853c585@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1012,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Francos vs Anglos (20 ans de slam)
 DTSTART;TZID=America/Toronto:20261105T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:804ea28801762e1a66670abd1ac2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1024,7 +1024,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JONQUILLE (lancement) + CHLOÉ JARA-BUTO
 DTSTART;TZID=America/Toronto:20261106T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:27042e5a2e2723fca5364bb8db5b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -1036,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boyhood + Julesy + Vitamin Pink
 DTSTART;TZID=America/Toronto:20261106T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c0018c5476279de63baaecff3d7f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1048,7 +1048,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Outfit EP Release Show w/ HRT + Bad Faith Actor
 DTSTART;TZID=America/Toronto:20261106T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d68cce3c08325bbe20ac5d29ceb0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1060,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Long Vowel 100 - Montreal Noise Complaint
 DTSTART;TZID=America/Toronto:20261107T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:33b9ae52672edcf59d736155a47d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1073,7 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:Dumb Crush Live at Ptit Ours
 DTSTART;TZID=America/Toronto:20261107T200000
 DTEND;TZID=America/Toronto:20261107T230000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:9cad9b1b9957c5d2f212ae09e8c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1086,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente Diles que no me maten + pascalepas
  cale + ARDO
 DTSTART;TZID=America/Toronto:20261107T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:a572b1ea8fdfd7eb6332faa92441@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1098,7 +1098,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wired Mother + Czech Hotel + The Shoppe
 DTSTART;TZID=America/Toronto:20261107T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:6d538a269af9adc8b42c1c9e79e0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1110,7 +1110,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN_NA\, NUMONIA and AUCHTOROK (OTT)
 DTSTART;TZID=America/Toronto:20261108T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:447ebd800064f97b559cd109a01d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1122,7 +1122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ARK IDENTITY with SUUNCAAT
 DTSTART;TZID=America/Toronto:20261108T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:a59287edeb49c2ba4aa027582ddb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1134,7 +1134,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A night of music with Sam Ripat & McMillan
 DTSTART;TZID=America/Toronto:20261109T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:58bbbd159e488f9bd8eb9b3dcfff@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1146,7 +1146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:sports. + ARMOIRE + HALF PAST APRIL
 DTSTART;TZID=America/Toronto:20261109T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:7e805b0e92f9736b736e1181994e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1158,7 +1158,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jessica Rhaye\, Bill Preeper & Sandy MacKay
 DTSTART;TZID=America/Toronto:20261110T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c5c6eecefc421d641102b54966ea@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1170,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOÉ LIRA (lancement) + LAPELÚDA
 DTSTART;TZID=America/Toronto:20261110T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:d6c01b8b02c1fc52ee3d7eb0c1d4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -1182,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L'homme Invisible & Laflamme
 DTSTART;TZID=America/Toronto:20261111T190000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:63ea49c01033761d4280880d3347@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1194,7 +1194,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ike Dweck
 DTSTART;TZID=America/Toronto:20261111T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:665af2948bd26fa382b02743532d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1206,7 +1206,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duu (lancement) + Nana Quinn
 DTSTART;TZID=America/Toronto:20261112T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:091fce0af1a250f8ec9f71831594@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -1218,7 +1218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daniel James McFadyen
 DTSTART;TZID=America/Toronto:20261113T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:f15f8ef139705ec15943bf59fea8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1230,7 +1230,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marc McLaughlin + invité(e)
 DTSTART;TZID=America/Toronto:20261113T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:a073cbb9f40affa1e666e8e94f70@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1242,7 +1242,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:clay pigeon & Fruit Snack Double Album Release Show
 DTSTART;TZID=America/Toronto:20261113T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:dd8c8caa0a125f0b21aba7fd7dd0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1256,7 +1256,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dub Permanence
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:625f103b0229e7e69feb3201a3a8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1268,7 +1268,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kindsight and special guests
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:c3a26e666c49ca94e44e5be2befb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1280,7 +1280,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Vamp - Martin Saint - The Mirrors
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:0d46284aca61f97a929d7d5b3474@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1292,7 +1292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ukraine Anarchists Solidarity Show
 DTSTART;TZID=America/Toronto:20261115T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:3f8bd6d0772cd8aa2e4f56dcc195@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1304,7 +1304,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon Mckiel and Isla Craig live at P'tit Ours
 DTSTART;TZID=America/Toronto:20261115T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:6434a1bcfa33049f1ad93e874a64@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1316,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: James Ivy
 DTSTART;TZID=America/Toronto:20261116T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:8a5205b88cc6f38c37160f776696@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1330,7 +1330,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Billet Journalier - Mardi
 DTSTART;TZID=America/Toronto:20261117T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:22b6c3399aea279b3c3a66282324@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -1342,7 +1342,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2120
 DTSTART;TZID=America/Toronto:20261118T220000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:87b7f2e3dc30f22da021205acf71@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1354,7 +1354,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mario2 & Cosmic Dog Fog WLS
 DTSTART;TZID=America/Toronto:20261118T221500
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:db626cad0105da6554f6f6270854@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1366,7 +1366,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:blesse lancement d'album "Transit"
 DTSTART;TZID=America/Toronto:20261119T220000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:30ba6b5c88ceed8e2516e22d4001@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:good shows & M Pour Montréal présentent: MARCI avec invités sp
  éciaux
 DTSTART;TZID=America/Toronto:20261119T220000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:e8953220e46a0e6350e46b013713@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1391,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Royal Mountain présente : Le Ren\, Bells Larsen & Janky Bungag
 DTSTART;TZID=America/Toronto:20261119T223000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:1db557f4d028d27e9c13809307c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1404,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:M for Mothland - Xela Edna\, Birds of Prrrey\, Still Depths\, TVOD
  \, BALACLAVA
 DTSTART;TZID=America/Toronto:20261120T203000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:124f251710b101745375719e9851@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1418,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANYMA ORA'\, Merina Gris & papaya noon
 DTSTART;TZID=America/Toronto:20261120T223000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:238a7fbc39eeb3ba5a611e8fe6f0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1430,7 +1430,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irdens Exantus\, Naïma Frank & Dori (LUX)
 DTSTART;TZID=America/Toronto:20261120T223000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:3f6e61a3653e3834aaa7e88a802a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1442,7 +1442,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bob Wiseman with special guest Joshua Marc Séguin
 DTSTART;TZID=America/Toronto:20261122T193000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:e23db20fbda27f3e0c322cf621cf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1454,7 +1454,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noche de Flamenco
 DTSTART;TZID=America/Toronto:20261126T200000
-DTSTAMP:20261010T222023Z
+DTSTAMP:20261011T020027Z
 UID:3765826b13ec311a06d8d040deca@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
