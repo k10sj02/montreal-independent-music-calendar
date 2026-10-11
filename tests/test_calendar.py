@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
-from montreal_independent_music_calendar import build_calendar, ckut_events, has_things_events, merge_state
+from montreal_independent_music_calendar import boomboom_events, build_calendar, ckut_events, has_things_events, merge_state
 
 
 class FakeFetcher:
@@ -29,6 +29,17 @@ def test_ckut_event_and_overnight_end():
     got = ckut_events(FakeFetcher({"/events/wefunk":detail,"events/":listing}), date(2026,10,10), date(2026,11,1))
     assert got[0].venue == "La Sala Rossa"
     assert datetime.fromisoformat(got[0].end).date() == date(2026,10,24)
+
+
+def test_boomboom_electronic_events_and_filters():
+    page = '''<div id="event-list">
+      <div class="event"><h3><a href="/events/1806">Flørist at Système</a></h3><div class="meta">sam. 10 oct. 2026 22:00 · <a class="location">Système</a></div></div>
+      <div class="event"><h3><a href="/events/1">Duplicate show</a></h3><div class="meta">sam. 10 oct. 2026 20:00 · <a class="location">Casa del Popolo</a></div></div>
+      <div class="event"><h3><a href="/events/2">Voyant marabout</a></h3><div class="meta">sam. 10 oct. 2026 10:30 · <a class="location">Parc</a></div></div>
+    </div>'''
+    got = boomboom_events(FakeFetcher({"boomboom.today": page}), date(2026,10,10), date(2026,10,20))
+    assert [event.title for event in got] == ["Flørist at Système"]
+    assert got[0].address.startswith("7119")
 
 
 def test_ics_and_stable_state(tmp_path: Path):

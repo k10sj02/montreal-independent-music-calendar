@@ -16,6 +16,7 @@ from icalendar import Calendar, Event
 TIMEZONE = ZoneInfo("America/Toronto")
 HAS_THINGS = "https://montreal.hasthings.com/api/events"
 CKUT = "https://ckut.ca/events/"
+BOOMBOOM = "https://boomboom.today/"
 USER_AGENT = "MontrealIndependentMusicCalendar/1.0 (+https://github.com/k10sj02/montreal-independent-music-calendar)"
 VENUES = {
     "casa-del-popolo": ("Casa del Popolo", "4873 boul. Saint-Laurent, Montréal, QC"),
@@ -24,6 +25,15 @@ VENUES = {
     "ptit-ours": ("P'tit Ours", "5589 av. du Parc, Montréal, QC"),
 }
 DISCOVERY = re.compile(r"\b(?:Suoni Per Il Popolo|CKUT|Ursa(?: Mtl)?|Akousma)\b", re.I)
+FRENCH_MONTHS = {"janv": 1, "févr": 2, "mars": 3, "avr": 4, "mai": 5, "juin": 6, "juil": 7, "août": 8, "sept": 9, "oct": 10, "nov": 11, "déc": 12}
+BOOMBOOM_DUPLICATE_VENUES = {"casa del popolo", "la sala rossa", "la sotterenea", "p'tit ours"}
+BOOMBOOM_ADDRESSES = {
+    "système": "7119 rue Saint-Hubert, Montréal, QC H2S 2N1",
+    "le système": "7119 rue Saint-Hubert, Montréal, QC H2S 2N1",
+    "bar datcha": "98 av. Laurier O, Montréal, QC",
+    "sans soleil": "52 rue Saint-Zotique E, Montréal, QC",
+    "salon daomé": "4465 boul. Saint-Laurent, Montréal, QC",
+}
 
 
 @dataclass(frozen=True)
@@ -122,6 +132,45 @@ def ckut_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEvent]:
     return output
 
 
+def boomboom_events(fetcher: Fetcher, start: date, end: date) -> list[MusicEvent]:
+    """Read Montréal's electronic-event index, which includes RA-linked events."""
+    soup = BeautifulSoup(fetcher.get(BOOMBOOM), "html.parser")
+    output: list[MusicEvent] = []
+    for card in soup.select("#event-list .event"):
+        title_link = card.select_one("h3 a[href^='/events/']")
+        meta = card.select_one(".meta")
+        venue_node = card.select_one(".meta .location")
+        if not title_link or not meta or not venue_node:
+            continue
+        title = title_link.get_text(" ", strip=True)
+        venue = venue_node.get_text(" ", strip=True)
+        if venue.casefold() in BOOMBOOM_DUPLICATE_VENUES:
+            continue
+        # A rare spam listing can enter this community index; reject obvious
+        # service advertisements while retaining daytime and outdoor parties.
+        if re.search(r"voyant|marabout|retour affectif|paiement après résultat", title, re.I):
+            continue
+        match = re.search(r"\b(\d{1,2})\s+(janv|févr|mars|avr|mai|juin|juil|août|sept|oct|nov|déc)\.\s+(\d{4})\s+(\d{1,2}):(\d{2})", meta.get_text(" ", strip=True), re.I)
+        if not match:
+            continue
+        day, month, year, hour, minute = match.groups()
+        begins = datetime(int(year), FRENCH_MONTHS[month.lower()], int(day), int(hour), int(minute), tzinfo=TIMEZONE)
+        if not start <= begins.date() <= end:
+            continue
+        path = title_link["href"]
+        event_id = path.rstrip("/").rsplit("/", 1)[-1]
+        address = BOOMBOOM_ADDRESSES.get(venue.casefold(), "Montréal, QC")
+        output.append(MusicEvent(
+            source="boomboom", source_id=event_id, title=title,
+            start=begins.isoformat(), end=None, venue=venue, address=address,
+            url=f"https://boomboom.today{path}",
+            description="Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+        ))
+    if not output:
+        raise RuntimeError("No current electronic events found")
+    return output
+
+
 def merge_state(current: list[MusicEvent], state_path: Path, now: datetime) -> list[MusicEvent]:
     old = {}
     if state_path.exists():
@@ -181,7 +230,7 @@ def main() -> None:
     fetcher = Fetcher()
     sources, errors = {}, {}
     collected: list[MusicEvent] = []
-    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events)):
+    for name, loader in (("venues-and-festivals", has_things_events), ("ckut", ckut_events), ("electronic-and-raves", boomboom_events)):
         try:
             events = loader(fetcher, now.date(), final_day)
             collected.extend(events)
