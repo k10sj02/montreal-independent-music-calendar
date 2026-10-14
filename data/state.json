@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T00:57:46.443289-04:00",
+  "updated": "2026-10-14T07:58:04.082338-04:00",
   "events": {
     "44b32686f89f7f00b6df319a43fc@montreal-independent-music": {
       "source": "has-things",
@@ -1366,6 +1366,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b0e99f5999069d47e78f63510f66@montreal-independent-music": {
+      "source": "has-things",
+      "source_id": "378d324e-260d-4d2a-b6ca-7ad5ec1c29c8",
+      "title": "Gabriel Béland en spectacle",
+      "start": "2026-11-28T20:00:00-05:00",
+      "end": null,
+      "venue": "Casa del Popolo",
+      "address": "4873 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://www.venuepilot.co/en/events/169093/orders/new",
+      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "cb20365f200fc345908ddd5f5292@montreal-independent-music": {
       "source": "ckut",
       "source_id": "wefunk-30-year-anniversary-party-friday-october-23-2026",
@@ -1376,6 +1389,162 @@
       "address": "4848 boul. Saint-Laurent, Montréal, QC",
       "url": "https://ckut.ca/events/wefunk-30-year-anniversary-party-friday-october-23-2026/",
       "description": "CKUT's legendary hip-hop show, WEFUNK is turning 30 and we're throwing a party to celebrate!",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "8a02fcb2b6529e1bfdbd4ecf9da1@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5186",
+      "title": "SCOPA + Béatrules",
+      "start": "2026-10-14T21:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/scopa-beatrules/",
+      "description": "Lancement du EP de SCOPA\r\nPremière partie de Béatrice Lortie ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3dc09bc761c7777f358aad51cc07@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5184",
+      "title": "5@7 Abel",
+      "start": "2026-10-15T17:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/57-abel/",
+      "description": "Rentrée Montréalaise pour Abel !\r\nTout juste débarqué dans la métropole, ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "6e7f2b65075ed8dd062a8748ba13@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5234",
+      "title": "Ramon Chicharron",
+      "start": "2026-10-16T21:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flepointdevente.com%2Fbillets%2Fj24261016001%3Ffbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFiU3NwR0diUVFZdG1yZ24wc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhTI2WOGpcjeVMx2Cccz0xeszMwjRh73XrAmA3e7e5DMPVc-QIX1NlIkha83_aem_VfOPDlXJ-ORBXk0qH3rIqA&h=AUDPT-oNQ7zeVy6NpklyoEXnBozhl9tMucsOND76sPynIsTzUpmh0CbIojkIEZjH8I9lb_qmBTkfvrSETpbAMPK3kegQHJSlwXO8tC2LX1lpbirrB_Yprl8L4l-GUs9Ucgkowt2yNmQSLuJceC8&__tn__=q&c%5B0%5D=AUBOhD8nB9-N9FykqQfHQesqrm4zVDUhq8rQiYk2DvGMxRMsSOwBpPfC6Jts7cHXu5E4G6wEKb1w6VdjZ7yQeOAz19T6YTL9rQle2WnybXTNsXUVoQNA0p0Dqdgpa9ceHY_VOuu7pMiPpz0CfoiL5hetpWTcH2UOJcc",
+      "description": "Ramon Chicharron présente 𝒩𝑜𝒸𝒽𝑒 𝒹𝑒 𝒸𝓊𝓂𝒷𝒾𝒶𝓈, une soirée consacrée à ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e98ca32d3db21e5d018105e9c74d@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5236",
+      "title": "Sumak Brass Band",
+      "start": "2026-10-17T21:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/sumak-brass-band-10/",
+      "description": "Sumak Brass Band est un quintet de cuivres balkanique qui ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0f9f41aac67203eb9c678850b9f0@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5182",
+      "title": "PIERRO + Thierry TF",
+      "start": "2026-10-18T21:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://thepointofsale.com/tickets/pierro-quai-des-brumes?lang=en&fbclid=IwY2xjawUWqThwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR710SaURjBaYg6xDcpdAT9TsVPqs5KiMuxmbJIlWiVxDYonpEpGt9DmHj2EyQ_aem_7JFN3HOYp_SzfUn5qEbY6Q",
+      "description": "PIERRO présente son nouvel album : Balles de plomb pour ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "88a761e08a82ce371fb58cb87fc6@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5170",
+      "title": "Kaëlla",
+      "start": "2026-10-21T20:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://thepointofsale.com/tickets/kaella-qdb-octobre?lang=fr",
+      "description": "Venez à la rencontre de l’autrice-compositrice-interprète Kaëlla. C’est l’occasion à ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1c7f47e052ebeabe292f06efbf88@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5178",
+      "title": "5@7 David Höff + invités – Lancement Aucun Regret",
+      "start": "2026-10-22T17:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/57-david-hoff-invites-lancement-aucun-regret/",
+      "description": "Où était David ?\r\n\"Su'a 20 entre Baie-St-Paul et St-Hyacinthe!\r\nQuelque part ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "84f6e9309d53da24bc49b14e55fd@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5238",
+      "title": "5@7 Stéphane Lafleur",
+      "start": "2026-10-25T17:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://lepointdevente.com/billets/sephafleurdeplogue",
+      "description": "Stéphane Lafleur est cinéaste, musicien et auteur d’un recueil de ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "40a6fc9b3b0ff1376006f2d1f848@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5176",
+      "title": "Orkestar Kriminal",
+      "start": "2026-10-29T21:00:00-04:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://events.com/r/en_US/tickets/orkestar-kriminal--quai-des-brumes-montreal-october-1075598?fbclid=IwY2xjawUWp59wZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4k-CQz_NoX9Mf6L78h-ONDrAOW2sO_T0g4-jYZDLxj-TyvH7hO93LCQxTejw_aem_9YhXQQjuifcR98oJlhm1aQ",
+      "description": "ORKESTAR KRIMINAL\r\nGrands spécialistes de l’improvisation, les 10 membres d’Orkestar Kriminal ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "28c435c338a7bbd22845424f1b25@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5174",
+      "title": "CCF16 – LeParc + Tempête Solaire",
+      "start": "2026-11-07T21:30:00-05:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://lepointdevente.com/billets/qdb261107001?lang=fr",
+      "description": "CCF présente LEPARC + TEMPÊTE SOLAIRE [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "975826edfec83ccdfd94180fcc15@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5172",
+      "title": "CCF26 – Kat Pereira + Chénier",
+      "start": "2026-11-14T21:30:00-05:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://lepointdevente.com/billets/qdb261114001?lang=fr&fbclid=IwY2xjawUWcNtwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5NHf2UcPbbaCbmmwsAiAaI0W1idBpnsNVywMnTI5xvo0FtEYUn4tvFr8GQMQ_aem_d0KYDZP84lhFXAyyUnDhsw",
+      "description": "CCF présente CHÉNIER + KAT PEREIRA [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "6c5b0783b7532c18e90c9aad756e@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5252",
+      "title": "M pour Montréal / Groover Music – Museums + Basht. (IRL)",
+      "start": "2026-11-19T21:00:00-05:00",
+      "end": null,
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/m-pour-montreal-groover-music-museums-basht-irl/",
+      "description": "Groover présente :\r\nMuseums\r\nBasht (IRL) — présenté par LIIFT\r\n\r\nUn concert présenté ...",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2588,6 +2757,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "86b59904cf42cb6cabbf3417235a@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2236",
+      "title": "Dahomey T-Dance - Don Barbarino, Uzi, Pattes de Velour",
+      "start": "2026-10-25T18:00:00-04:00",
+      "end": null,
+      "venue": "Salon Daomé",
+      "address": "4465 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://boomboom.today/events/2236",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "271b25a2e1a0453f3b8c69a96f4f@montreal-independent-music": {
       "source": "boomboom",
       "source_id": "1832",
@@ -2662,19 +2844,6 @@
       "venue": "Le Red Room",
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2030",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f3171697c4ebea817cbe18e7ee79@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1872",
-      "title": "À Gogo",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": null,
-      "venue": "Système, 719 Rue Saint-Hubert",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1872",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -3628,6 +3797,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "f3171697c4ebea817cbe18e7ee79@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1872",
+      "title": "À Gogo",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": null,
+      "venue": "Système, 719 Rue Saint-Hubert",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1872",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "5a9a1ecf1b24f3dc5f544135e20c@montreal-independent-music": {
       "source": "has-things",
       "source_id": "9ee50e36-93bf-4747-879a-f38c97146ee2",
@@ -3638,8 +3820,8 @@
       "address": "4848 boul. Saint-Laurent, Montréal, QC",
       "url": "https://tickets.venuepilot.com/e/1h-checazzvo-penserinif-gmail-com-2026-10-13-la-sala-rossa-montreal-5b6f50",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6f3b844cbbf317cdd099216f0c67@montreal-independent-music": {
       "source": "boomboom",
@@ -3651,19 +3833,6 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1945",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "b0e99f5999069d47e78f63510f66@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "378d324e-260d-4d2a-b6ca-7ad5ec1c29c8",
-      "title": "Gabriel Béland en spectacle",
-      "start": "2026-11-28T20:00:00-05:00",
-      "end": null,
-      "venue": "Casa del Popolo",
-      "address": "4873 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/169093/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
       "missing_runs": 2
     },
@@ -3678,7 +3847,7 @@
       "url": "https://www.venuepilot.co/en/events/191940/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7e350ebccd90cdac6cacaa253125@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3690,8 +3859,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://quaidesbrumes.ca/evenements/57-karl-rozankovic-florence-beauquier-leger-roman-munoz-jules-payettes/",
       "description": "Karl Rozankovic PianoFlorence Beauquier Leger SaxophoneRoman Munoz GuitareJules Payettes Drums ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
+      "status": "CANCELLED",
+      "missing_runs": 3
     },
     "a62e6437dc8ace0ecb14fd387012@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3703,138 +3872,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://quaidesbrumes.ca/evenements/micros-ouvert-debrume-ton-quai-2/",
       "description": "Viens dé-brumer ton esprit entre ami·es au mardi micros ouvert ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "8a02fcb2b6529e1bfdbd4ecf9da1@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5186",
-      "title": "SCOPA + Béatrules",
-      "start": "2026-10-14T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/scopa-beatrules/",
-      "description": "Lancement du EP de SCOPA\r\nPremière partie de Béatrice Lortie ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "3dc09bc761c7777f358aad51cc07@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5184",
-      "title": "5@7 Abel",
-      "start": "2026-10-15T17:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/57-abel/",
-      "description": "Rentrée Montréalaise pour Abel !\r\nTout juste débarqué dans la métropole, ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "6e7f2b65075ed8dd062a8748ba13@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5234",
-      "title": "Ramon Chicharron",
-      "start": "2026-10-16T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Flepointdevente.com%2Fbillets%2Fj24261016001%3Ffbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFiU3NwR0diUVFZdG1yZ24wc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhTI2WOGpcjeVMx2Cccz0xeszMwjRh73XrAmA3e7e5DMPVc-QIX1NlIkha83_aem_VfOPDlXJ-ORBXk0qH3rIqA&h=AUDPT-oNQ7zeVy6NpklyoEXnBozhl9tMucsOND76sPynIsTzUpmh0CbIojkIEZjH8I9lb_qmBTkfvrSETpbAMPK3kegQHJSlwXO8tC2LX1lpbirrB_Yprl8L4l-GUs9Ucgkowt2yNmQSLuJceC8&__tn__=q&c%5B0%5D=AUBOhD8nB9-N9FykqQfHQesqrm4zVDUhq8rQiYk2DvGMxRMsSOwBpPfC6Jts7cHXu5E4G6wEKb1w6VdjZ7yQeOAz19T6YTL9rQle2WnybXTNsXUVoQNA0p0Dqdgpa9ceHY_VOuu7pMiPpz0CfoiL5hetpWTcH2UOJcc",
-      "description": "Ramon Chicharron présente 𝒩𝑜𝒸𝒽𝑒 𝒹𝑒 𝒸𝓊𝓂𝒷𝒾𝒶𝓈, une soirée consacrée à ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "e98ca32d3db21e5d018105e9c74d@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5236",
-      "title": "Sumak Brass Band",
-      "start": "2026-10-17T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/sumak-brass-band-10/",
-      "description": "Sumak Brass Band est un quintet de cuivres balkanique qui ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "0f9f41aac67203eb9c678850b9f0@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5182",
-      "title": "PIERRO + Thierry TF",
-      "start": "2026-10-18T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://thepointofsale.com/tickets/pierro-quai-des-brumes?lang=en&fbclid=IwY2xjawUWqThwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR710SaURjBaYg6xDcpdAT9TsVPqs5KiMuxmbJIlWiVxDYonpEpGt9DmHj2EyQ_aem_7JFN3HOYp_SzfUn5qEbY6Q",
-      "description": "PIERRO présente son nouvel album : Balles de plomb pour ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "88a761e08a82ce371fb58cb87fc6@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5170",
-      "title": "Kaëlla",
-      "start": "2026-10-21T20:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://thepointofsale.com/tickets/kaella-qdb-octobre?lang=fr",
-      "description": "Venez à la rencontre de l’autrice-compositrice-interprète Kaëlla. C’est l’occasion à ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "1c7f47e052ebeabe292f06efbf88@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5178",
-      "title": "5@7 David Höff + invités – Lancement Aucun Regret",
-      "start": "2026-10-22T17:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/57-david-hoff-invites-lancement-aucun-regret/",
-      "description": "Où était David ?\r\n\"Su'a 20 entre Baie-St-Paul et St-Hyacinthe!\r\nQuelque part ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "84f6e9309d53da24bc49b14e55fd@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5238",
-      "title": "5@7 Stéphane Lafleur",
-      "start": "2026-10-25T17:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://lepointdevente.com/billets/sephafleurdeplogue",
-      "description": "Stéphane Lafleur est cinéaste, musicien et auteur d’un recueil de ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "40a6fc9b3b0ff1376006f2d1f848@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5176",
-      "title": "Orkestar Kriminal",
-      "start": "2026-10-29T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://events.com/r/en_US/tickets/orkestar-kriminal--quai-des-brumes-montreal-october-1075598?fbclid=IwY2xjawUWp59wZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4k-CQz_NoX9Mf6L78h-ONDrAOW2sO_T0g4-jYZDLxj-TyvH7hO93LCQxTejw_aem_9YhXQQjuifcR98oJlhm1aQ",
-      "description": "ORKESTAR KRIMINAL\r\nGrands spécialistes de l’improvisation, les 10 membres d’Orkestar Kriminal ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
-    },
-    "28c435c338a7bbd22845424f1b25@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5174",
-      "title": "CCF16 – LeParc + Tempête Solaire",
-      "start": "2026-11-07T21:30:00-05:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://lepointdevente.com/billets/qdb261107001?lang=fr",
-      "description": "CCF présente LEPARC + TEMPÊTE SOLAIRE [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
-      "status": "CONFIRMED",
-      "missing_runs": 2
+      "status": "CANCELLED",
+      "missing_runs": 3
     },
     "3a4294215f9e26ff0e2a6ece41a5@montreal-independent-music": {
       "source": "has-things",
@@ -3847,7 +3886,7 @@
       "url": "https://www.venuepilot.co/en/events/193896/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "02c639746bf9949c452efbbcf77f@montreal-independent-music": {
       "source": "has-things",
@@ -3860,7 +3899,7 @@
       "url": "https://www.venuepilot.co/en/events/174999/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "0d0b46aee8ac5e9489713b0dace5@montreal-independent-music": {
       "source": "has-things",
@@ -3873,7 +3912,7 @@
       "url": "https://www.venuepilot.co/en/events/180061/orders/new",
       "description": "Pop · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "ee678c9fbe21c22af677ca1d7bf7@montreal-independent-music": {
       "source": "boomboom",
@@ -3886,7 +3925,7 @@
       "url": "https://boomboom.today/events/1991",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "6afed644af8070f9738690dd4c27@montreal-independent-music": {
       "source": "boomboom",
@@ -3899,7 +3938,7 @@
       "url": "https://boomboom.today/events/1912",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "08719cc7b3af6627b61f99210f62@montreal-independent-music": {
       "source": "wherehouse",
@@ -3912,7 +3951,7 @@
       "url": "https://app.discotech.me/events/38287973-subnoir-yaya-noel-syana-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Subnoir: Yaya, Noel, Syana at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "2b10c056d0de32391435634ec96a@montreal-independent-music": {
       "source": "wherehouse",
@@ -3925,7 +3964,7 @@
       "url": "https://www.rave.ca/en/event/57095/",
       "description": "House · Kinetic is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "36c3ab5bb89aa5ec56370f019665@montreal-independent-music": {
       "source": "wherehouse",
@@ -3938,7 +3977,7 @@
       "url": "https://www.rave.ca/en/event/56606/",
       "description": "Disco · Mundo Disko X Stereo: Horse Meat Disco (Day Dance) is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "ebaac8b33fbb913476bb828ba065@montreal-independent-music": {
       "source": "wherehouse",
@@ -3951,7 +3990,7 @@
       "url": "https://www.rave.ca/en/event/56897/",
       "description": "House · Canned Heat With Roland Gonzales is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "19f42213b0d6414d19a73ea9ff32@montreal-independent-music": {
       "source": "boomboom",
@@ -3964,7 +4003,7 @@
       "url": "https://boomboom.today/events/2211",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "9d0dacb7763285a1e2747fa81175@montreal-independent-music": {
       "source": "wherehouse",
@@ -3977,7 +4016,7 @@
       "url": "https://www.rave.ca/en/event/57094/",
       "description": "House, Techno, Bass · Rave It Like The '90s (Extended) is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "4955daeefc5107c2a51262b50109@montreal-independent-music": {
       "source": "wherehouse",
@@ -3990,7 +4029,7 @@
       "url": "https://app.discotech.me/events/38287972-datcha-nonstop-ramzilla-gi-gi-tess-roby-and-numa-gama-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Datcha NONSTOP: Ramzilla, Gi Gi, Tess Roby & Numa Gama at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     }
   }
 }
