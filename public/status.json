@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-13T18:48:29.197276-04:00",
+  "generated": "2026-10-14T00:57:46.443289-04:00",
   "count": 293,
-  "cancelled": 16,
+  "cancelled": 14,
   "sources": {
-    "venues-and-festivals": 106,
+    "venues-and-festivals": 105,
     "ckut": 1,
-    "electronic-and-raves": 99,
+    "electronic-and-raves": 100,
     "underground-venues": 88
   },
   "errors": {
