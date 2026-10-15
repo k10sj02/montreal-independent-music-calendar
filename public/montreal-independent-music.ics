@@ -7,75 +7,9 @@ X-WR-CALNAME:Montréal Independent Music
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:The 3P's Live
-DTSTART;TZID=America/Toronto:20261013T193000
-DTSTAMP:20261014T214401Z
-UID:5a9a1ecf1b24f3dc5f544135e20c@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
- ickets.venuepilot.com/e/1h-checazzvo-penserinif-gmail-com-2026-10-13-la-sa
- la-rossa-montreal-5b6f50
-LOCATION:La Sala Rossa\, 4848 boul. Saint-Laurent\, Montréal\, QC
-STATUS:CANCELLED
-URL:https://tickets.venuepilot.com/e/1h-checazzvo-penserinif-gmail-com-202
- 6-10-13-la-sala-rossa-montreal-5b6f50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Skies Turn Black Présente: Badvril + Shirehead + Kerri
-DTSTART;TZID=America/Toronto:20261013T200000
-DTSTAMP:20261014T214401Z
-UID:44b32686f89f7f00b6df319a43fc@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
- ww.universe.com/events/badvril-tickets-8R7Y45
-LOCATION:P'tit Ours\, 5589 av. du Parc\, Montréal\, QC
-STATUS:CONFIRMED
-URL:https://www.universe.com/events/badvril-tickets-8R7Y45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anna Johnson with Beast and Christ's Big Naturals
-DTSTART;TZID=America/Toronto:20261013T203000
-DTSTAMP:20261014T214401Z
-UID:f71bba7f1a210f9640ee13729152@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
- ickets.venuepilot.com/e/1h-anna-johnson-annarwjohnson-gmail-com-2026-10-13
- -casa-del-popolo-montreal-ec46ff
-LOCATION:Casa del Popolo\, 4873 boul. Saint-Laurent\, Montréal\, QC
-STATUS:CONFIRMED
-URL:https://tickets.venuepilot.com/e/1h-anna-johnson-annarwjohnson-gmail-c
- om-2026-10-13-casa-del-popolo-montreal-ec46ff
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Micros ouvert – Débrume ton Quai
-DTSTART;TZID=America/Toronto:20261013T210000
-DTSTAMP:20261014T214401Z
-UID:a62e6437dc8ace0ecb14fd387012@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Viens dé-brumer ton esprit entre ami·es au mardi micros ouve
- rt ...\nSource: https://quaidesbrumes.ca/evenements/micros-ouvert-debrume-
- ton-quai-2/
-LOCATION:Quai des Brumes\, 4481 rue Saint-Denis\, Montréal\, QC H2J 2L2
-STATUS:CANCELLED
-URL:https://quaidesbrumes.ca/evenements/micros-ouvert-debrume-ton-quai-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:5:14 Sessions with Jon Wait [All Night Long - Free]
-DTSTART;TZID=America/Toronto:20261013T220000
-DTSTAMP:20261014T214401Z
-UID:6f3b844cbbf317cdd099216f0c67@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Electronic / nightlife listing. The event page links to the or
- iginal ticket source\, including Resident Advisor when available.\nSource:
-  https://boomboom.today/events/1945
-LOCATION:Le Red Room\, 2037 Saint-Denis\, Montréal\, Montréal\, QC
-STATUS:CANCELLED
-URL:https://boomboom.today/events/1945
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:C'est une soirée PJ !
 DTSTART;TZID=America/Toronto:20261014T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:14e4f849b5664041856f56053e62@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -87,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAMIA
 DTSTART;TZID=America/Toronto:20261014T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8dce77422430e08f21712888e485@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -100,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Goddamsels w/ special guests Cam & Jay
 DTSTART;TZID=America/Toronto:20261014T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:fb23d8944436221ce0198c317070@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -114,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCOPA + Béatrules
 DTSTART;TZID=America/Toronto:20261014T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8a02fcb2b6529e1bfdbd4ecf9da1@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Lancement du EP de SCOPA\nPremière partie de Béatrice Lortie
@@ -126,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOWN2TECHNO: Every Wednesday
 DTSTART;TZID=America/Toronto:20261014T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:14e17714084021dad7f119f1c2ec@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -139,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOWN2TECHNO: Every Wednesday
 DTSTART;TZID=America/Toronto:20261014T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:19f42213b0d6414d19a73ea9ff32@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -152,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Down2Techno: N0vatek\, EMN\, P3co
 DTSTART;TZID=America/Toronto:20261014T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f0a927540a930fcae675b3b33f7b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Down2Techno: N0vatek\, EMN\, P3co is a music event a
@@ -165,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5@7 Abel
 DTSTART;TZID=America/Toronto:20261015T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3dc09bc761c7777f358aad51cc07@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Rentrée Montréalaise pour Abel !\nTout juste débarqué dans
@@ -177,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAVOIR FAIRE - OPENING NIGHT
 DTSTART;TZID=America/Toronto:20261015T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:70e5d30416897b976c83e7a4d508@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -191,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:PHENOMENA - même rauque l'espérance ne s'amenuise pas - dada & t
  homas
 DTSTART;TZID=America/Toronto:20261015T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bf49319c8979b2f4fdd9c58149c6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -208,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Spy
 DTSTART;TZID=America/Toronto:20261015T190000
 DTEND;TZID=America/Toronto:20261015T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8301fe8c4fe088ffb8781d60db0e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · spy EMPTY SHELL CASING SPITE HOUSE BOGEY INVITÉ(E)S 
@@ -221,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kraba Album Launch
 DTSTART;TZID=America/Toronto:20261015T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d2c90738899c5e309790b61a9060@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -235,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:N.I.N.E: Collision
 DTSTART;TZID=America/Toronto:20261015T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:55e1d7ad7f6d48cc8417c98618f7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -248,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mellow Casualty Live
 DTSTART;TZID=America/Toronto:20261015T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:74cb6ee1d926ad5d40ff417c6aa0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -260,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Antdot\, Mezz\, Hudare
 DTSTART;TZID=America/Toronto:20261015T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3be7ff28cccd687963605f034a49@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -273,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DJ Mag presents Sub Focus
 DTSTART;TZID=America/Toronto:20261015T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:cfb3c4e4133390ca97f362b538d6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -286,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dark Matter x Shadya's EP x Chez.Kito.Kat Records
 DTSTART;TZID=America/Toronto:20261015T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d126c5645b03cb314bed15015f6b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -299,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tangerine
 DTSTART;TZID=America/Toronto:20261015T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8c9ada8f956d496f7c291fffc8e1@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -313,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Panatekk: Laf Homme (NYC)\, Ekitwanda\, Juju le Moko
 DTSTART;TZID=America/Toronto:20261015T230000
 DTEND;TZID=America/Toronto:20261016T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ba9f8212c4c74d3759e9e488346e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -328,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Panatekk: venus in bed\, Ekitwanda\, Juju le Moko
 DTSTART;TZID=America/Toronto:20261015T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0aa02ca39aef421e2c3ad2ea1eb8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -341,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco THURSDAYS: Good You?\, French Vanilia
 DTSTART;TZID=America/Toronto:20261015T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ed4a34f584459c30282fe2538aeb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -354,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steve Angello - Parc Jean-Drapeau
 DTSTART;TZID=America/Toronto:20261016T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d722e35848ce3407189b9a120ba2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -367,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA Échec et DADA - Le cabaret du déclin
 DTSTART;TZID=America/Toronto:20261016T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:662e16c5a02fadba638d7f9d4852@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -383,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sélecteurs vinyles
 DTSTART;TZID=America/Toronto:20261016T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:fb9b99dac471e601897be3e11519@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -396,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ramon Chicharron
 DTSTART;TZID=America/Toronto:20261016T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6e7f2b65075ed8dd062a8748ba13@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Ramon Chicharron présente 𝒩𝑜𝒸𝒽𝑒 𝒹𝑒 𝒸
@@ -425,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cumbia Control a la Casa del Popolo
 DTSTART;TZID=America/Toronto:20261016T213000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6c374149e77d01ebabfd48a47723@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -437,7 +371,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bootlegger x MANHUNT After Party + Zine Launch
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4341ae6ae3d9d1ece2dc3b2c5bee@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -450,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crescenzo (All Night Long)
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a91411f797c620f2835afa379d5b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -464,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Crescenzo | [All Night]
 DTSTART;TZID=America/Toronto:20261016T220000
 DTEND;TZID=America/Toronto:20261017T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f5dfc22e0730d318d30108aa5c2b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Crescenzo | [All Night] is a music event at Stereobar
@@ -479,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NWHR Invites Anabasine // Breakcheck // Destiny
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:529671120b5fd776d90db6cf7e78@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -492,7 +426,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Overdrive
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2e5b665a6c3b5f1f44975fad27db@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -505,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unconsecrated
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9de2a5ffe897eccb6f306b0e9dac@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Unconsecrated is a music event at Le Red Roo
@@ -518,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VEXORA: UNCONSECRATED
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6524e78256be74c9b37d6d8a4a58@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -531,7 +465,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Versatile
 DTSTART;TZID=America/Toronto:20261016T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:eedaeca7f78bf51845b7d2bd6341@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -544,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stacy Kidd + Mandiz & Max Hebert
 DTSTART;TZID=America/Toronto:20261016T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3714b8a918cb65ae87b15c137baa@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -557,7 +491,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Datcha NONSTOP: Rabzi\, Bwi-Bwi\, Silktits\, 99hp
 DTSTART;TZID=America/Toronto:20261016T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8f449d7e9414cd00c8aa6d89b38b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -571,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:L.P. Rhythm
 DTSTART;TZID=America/Toronto:20261016T230000
 DTEND;TZID=America/Toronto:20261017T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:18ff411cb17b32e6a62257556356@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · L.P. Rhythm FLYTZ · Discovered via Wherehou
@@ -583,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L.P. Rhythm - Montréal
 DTSTART;TZID=America/Toronto:20261016T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9930aab0a8e81791e14cc3b951cb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -597,7 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 16
 DTSTART;TZID=America/Toronto:20261016T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:79cb20c3ba298fe43eb6eb25c67b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -610,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco FRIDAY: Groovy Castle
 DTSTART;TZID=America/Toronto:20261016T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:08669a8254803b0b69cfedaaca2e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -624,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Dvs1 | Ostrich
 DTSTART;TZID=America/Toronto:20261016T235500
 DTEND;TZID=America/Toronto:20261017T100000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:10819414b186e934d4cab2e740c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · DVS1| OSTRICH • Veuillez noter que les numéros de
@@ -640,7 +574,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DVS1 - Ostrich
 DTSTART;TZID=America/Toronto:20261016T235900
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9f73ba018110e6568d532c1c21c3@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -653,7 +587,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SPECIAL DAY PARTY: FELLA'S Q TIPS
 DTSTART;TZID=America/Toronto:20261017T120000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:86d7f47e7c0cd1ca11defacd5c0f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -666,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heures ouvrables 006 - Amir day club
 DTSTART;TZID=America/Toronto:20261017T140000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1f794def9c00752744aa16ed2e47@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -679,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261017T140000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:fb51ccabad61501cb2081c6391c2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -695,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:dj_dave____ at Bar Le Ritz
 DTSTART;TZID=America/Toronto:20261017T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6c560b72312fad987a55de0e5fe7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -709,7 +643,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mia Kelly - Big Time Roller Coaster Feeling Tour
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8645924b9ca7d979e87b938eba51@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -721,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:732a5896e0b82acc35a8fc298398@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -737,7 +671,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sélecteurs vinyles
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b49f6d8e3c9af3eadb354a2f7c1f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -750,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco SATURDAY EXTENDED
 DTSTART;TZID=America/Toronto:20261017T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c64b2fc3788ae809e07d72af4e4f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -763,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: IAN SWEET+ Invité(e)s
 DTSTART;TZID=America/Toronto:20261017T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0227b4510aa44afec02e32d5bcab@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Indie Rock · Rock · Data: Has Things (hasthings.com)\, ODbL 
@@ -776,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:EQ\, meat computer & sa!koro - Good Shows x Cheap Thrill x Heavy T
  rip
 DTSTART;TZID=America/Toronto:20261017T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b184e3758a192e90c59d11863e11@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -789,7 +723,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sumak Brass Band
 DTSTART;TZID=America/Toronto:20261017T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e98ca32d3db21e5d018105e9c74d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Sumak Brass Band est un quintet de cuivres balkanique qui ...
@@ -801,7 +735,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afrohub
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3850de505cbcd13b9161da63138e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Afrobeat · On October 17\, Afrohub takes over the Satosphere 
@@ -814,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CLEO LEIGH\, Dj Hermano\, Excalibur
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:598c3ee605d592c80e048219c1ca@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -828,7 +762,7 @@ BEGIN:VEVENT
 SUMMARY:Camu Camu
 DTSTART;TZID=America/Toronto:20261017T220000
 DTEND;TZID=America/Toronto:20261018T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:90ccb7b219dd130644e9348a67bc@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Bass · Camu Camu is a music event at Esc. Check the official 
@@ -841,7 +775,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DUBWISE MEETING #9 - Yarra Sound invite King Shiloh (NL)
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:fdd9013347db5316d049e0cdab0e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -854,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dillstradamus
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:63ffd66e38e12caafb43c685ec0b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -868,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:Hypnotists vs. Wizard
 DTSTART;TZID=America/Toronto:20261017T220000
 DTEND;TZID=America/Toronto:20261018T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f3e4d77b826bf8125bbf9a87c5af@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Hypnotists vs. Wizard INVITÉ(E)S · Discove
@@ -881,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LEAFY + more
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:25c4987f2fe858dad28eab43ddb6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · LEAFY + more is a music event at Le Red Room
@@ -894,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Dorade - EDITION 4
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5844ff8b0cb566f1ab01e0daefc2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -907,7 +841,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 17
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d50b4275b9f310be1b622b55ee75@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -920,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Proper MTL at entre _nous
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:158f5fba024924b69bdc49a64d03@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -933,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SWEA(T): LaFHomme\, JASHIM\, EvidenceDoll\, Zellers
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:22c3c2b2654cdb3b305db3a10626@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -946,7 +880,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soul Of Zoo b2b Tyler W
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7368b76acbf6e0ed94f976f0265d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -959,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:leafy.mp3 at Le Red Room
 DTSTART;TZID=America/Toronto:20261017T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1f65d31ca41b25b5537ae7c27a6d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -972,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guillaume Michaud & Ced Ullberg
 DTSTART;TZID=America/Toronto:20261017T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:67ed36afb6a1e220537e2f2e3052@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -985,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AFROTONIK Dance Party
 DTSTART;TZID=America/Toronto:20261017T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e087ccb6ab6006b8d029ba5bcf1e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -998,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Dish (All Night Long)
 DTSTART;TZID=America/Toronto:20261017T235900
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e04de154a03935f5183afc1bf043@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1011,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bianca at NWHR
 DTSTART;TZID=America/Toronto:20261018T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7d3d51b875b21fc65bcf15acdb3d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1024,7 +958,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261018T140000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:70f9b684f30ef9eedaec62b31602@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -1040,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metatron x Metonymy Press Fundraiser
 DTSTART;TZID=America/Toronto:20261018T150000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8e978455ce302b154a74c714570f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1053,7 +987,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piknic Électronik MTL #20: Eli Brown
 DTSTART;TZID=America/Toronto:20261018T160000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:de17498f06665e5924516d094b98@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1066,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arder: Toobris
 DTSTART;TZID=America/Toronto:20261018T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a8d5997f192ac40b97725257e860@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1079,7 +1013,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHENOMENA - Cartes blanches transatlantiques
 DTSTART;TZID=America/Toronto:20261018T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8fc1d2569dcdabf351a6f3147c0a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://f
@@ -1095,7 +1029,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eternal Cycle
 DTSTART;TZID=America/Toronto:20261018T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a4b9d4064bdf9332249bcdf45d2c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1110,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Bodaishin | Oli Vez | Pinch & Héléna
 DTSTART;TZID=America/Toronto:20261018T200000
 DTEND;TZID=America/Toronto:20261019T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c7d67f72c174947c61b2d1fd95be@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Bodaishin | Oli Vez | Pinch & Héléna is a music eve
@@ -1125,7 +1059,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna
 DTSTART;TZID=America/Toronto:20261018T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:23ef38425b68e39040763a04c26c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1138,7 +1072,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sans Soleil
 DTSTART;TZID=America/Toronto:20261018T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4ac35dcfd16ee30c2e42dfa6b33d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1152,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:Sans Soleil: Rhizomatic
 DTSTART;TZID=America/Toronto:20261018T200000
 DTEND;TZID=America/Toronto:20261019T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bc428556160f02d7fef8f70c7241@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Sans Soleil: Rhizomatic is a music event at Sans Sole
@@ -1165,7 +1099,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HESTIAA X ELLAA and BAANUMOON
 DTSTART;TZID=America/Toronto:20261018T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:714d2c38ed42e332b7adbcc11316@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1179,7 +1113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 18
 DTSTART;TZID=America/Toronto:20261018T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:87497d4e81896d824feb854c1df0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1192,7 +1126,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIERRO + Thierry TF
 DTSTART;TZID=America/Toronto:20261018T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0f9f41aac67203eb9c678850b9f0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:PIERRO présente son nouvel album : Balles de plomb pour ...\n
@@ -1210,7 +1144,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electro Oasis (every Sunday) *Free with RSVP ticket*
 DTSTART;TZID=America/Toronto:20261018T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:26f7893d35d142c37b155ca2e464@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1224,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:COMPLET/SOLD OUT -- PHENOMENA - Cabaret féministe pas gentil du t
  out V
 DTSTART;TZID=America/Toronto:20261019T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d6869d05c0be0c6e400bca0d43c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1236,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shapeshifter Album Release Tour
 DTSTART;TZID=America/Toronto:20261019T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d28779a3e09624207b18f9409126@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1250,7 +1184,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hearts of Palm\, Holy Pony\, FIA
 DTSTART;TZID=America/Toronto:20261019T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f0a758573a59cc2c8c7ac21feff4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1262,7 +1196,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rose Adam
 DTSTART;TZID=America/Toronto:20261019T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e0d30a4df1471ead04748c31780d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1274,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dana and Alden at Le Fairmount
 DTSTART;TZID=America/Toronto:20261020T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7e64c2146f73172367c9409b5f71@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1288,7 +1222,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebecca Black at Club Soda
 DTSTART;TZID=America/Toronto:20261020T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f77bd5769e3ab2ef34f00326c41c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1302,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dinette + Friends
 DTSTART;TZID=America/Toronto:20261020T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5b10f672dec4e39a721361649d3d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1316,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Flooding + Bloodsports + Fionavai
  r
 DTSTART;TZID=America/Toronto:20261020T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9fb1da4a4a320fd498f28835fa32@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1328,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Townie\, Talel Mcbriar\, Ben Vallee
 DTSTART;TZID=America/Toronto:20261020T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b590750a18159603db550e13ab5c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1340,7 +1274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5:14 Sessions with Pyromane [All Night Long - Free]
 DTSTART;TZID=America/Toronto:20261020T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2cb8b57019fc25c7b4286ece3e6a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1353,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 21
 DTSTART;TZID=America/Toronto:20261021T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:217eb3192b0a5e6a617a638d0209@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1366,7 +1300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival Akousma
 DTSTART;TZID=America/Toronto:20261021T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:634a57509e9984f5e492587c5410@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1379,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Dead Gowns + Sunray Minor
 DTSTART;TZID=America/Toronto:20261021T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:67f1618579de2b99819f0658f32e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1393,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaëlla
 DTSTART;TZID=America/Toronto:20261021T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:88a761e08a82ce371fb58cb87fc6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Venez à la rencontre de l’autrice-compositrice-interprète 
@@ -1406,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Édouard Tremblay-Grenier \, Francois Roberge
 DTSTART;TZID=America/Toronto:20261021T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:80fce4fc78f43d3198496ae76bcc@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1418,7 +1352,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0MIZS X PALMEER (FR)
 DTSTART;TZID=America/Toronto:20261021T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1417b3fc2e18a134760520037727@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1431,7 +1365,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Down2Techno: K657\, Kazar\, Vaselina
 DTSTART;TZID=America/Toronto:20261021T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:865fb946c1d53007b904998d48a9@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Down2Techno: K657\, Kazar\, Vaselina is a music even
@@ -1444,7 +1378,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:down2techno
 DTSTART;TZID=America/Toronto:20261021T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:03b1da6791d488455da3f140c255@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1457,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EUPHORIUM: AMAZONIA
 DTSTART;TZID=America/Toronto:20261022T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ec5ec0342ebeae19a96c9be645c9@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1470,7 +1404,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5@7 David Höff + invités – Lancement Aucun Regret
 DTSTART;TZID=America/Toronto:20261022T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1c7f47e052ebeabe292f06efbf88@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Où était David ?\n"Su'a 20 entre Baie-St-Paul et St-Hyacinth
@@ -1484,7 +1418,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drink n Draw
 DTSTART;TZID=America/Toronto:20261022T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4da2ad08946bd7ee2e5a65243a4b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1497,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:___pet___ avec ladyliana
 DTSTART;TZID=America/Toronto:20261022T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5f2dd11a8e433247440901be66bf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1512,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:james K and Eliana Glass
 DTSTART;TZID=America/Toronto:20261022T190000
 DTEND;TZID=America/Toronto:20261022T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:509c982992a29b7a6347c719a734@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · james K and Eliana Glass at Théâtre Fairmount. Offi
@@ -1526,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:SUR MESURE\, DANS LE DÔME x ICI Musique - ANYMA ORA’
 DTSTART;TZID=America/Toronto:20261022T193000
 DTEND;TZID=America/Toronto:20261022T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:754ee7a4e0ba9e66ab22c9001a07@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · On October 22\, Radio-Canada and the SAT invite you t
@@ -1544,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: Laura Cortese & The Dance Cards +
   Paruline
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:84fe491223b73a4494076f44dc72@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1557,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:MADRID EXIT - 'STRANGERS' LANCEMENT D'ALBUM/ALBUM LAUNCH - w/ Mula
  n
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f1d884fa75db5cf3e997c8942501@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -1571,7 +1505,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MODO-LIVE Presents... GTA LIVE FM Featuring Double Experience
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d879e8239c632d1067b97b4831b4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1583,7 +1517,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Hues of Blues
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4aed824928b5595763e6081cd22f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1595,7 +1529,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco THURSDAY: Alléa\, Eldi\, Legare
 DTSTART;TZID=America/Toronto:20261022T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5a810405c5b400b8d8bb4790ab9e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1609,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:G L O W Z I\, Raylhem & Jey Syano
 DTSTART;TZID=America/Toronto:20261022T220000
 DTEND;TZID=America/Toronto:20261023T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9ea25b3265f380dfb87d43e72873@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -1624,7 +1558,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 22
 DTSTART;TZID=America/Toronto:20261022T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6017694b0d9d61ae5df7a96b7777@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1637,7 +1571,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RABOTEK: G L O W Z I\, Raylhem\, Jey Syano\, DJ Prospekt
 DTSTART;TZID=America/Toronto:20261022T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ebadcae811f856c22b5a06a53799@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1650,7 +1584,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seeya at beyon_aldana
 DTSTART;TZID=America/Toronto:20261023T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:26694a22dbd7226480572b223016@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1663,7 +1597,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:dnb_collider_
 DTSTART;TZID=America/Toronto:20261023T100000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:575621aa546132b5996149b65a36@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1677,7 +1611,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Club Pop-Up
 DTSTART;TZID=America/Toronto:20261023T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:deb854c0b8419aae3e834197f0e4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1690,7 +1624,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sélecteurs vinyles
 DTSTART;TZID=America/Toronto:20261023T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6e91a482db41749dd19a8568c22c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1704,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:CJLO Funding Drive Launch Party w/ Good Feeling\, Taupe\, and The 
  Wesleys
 DTSTART;TZID=America/Toronto:20261023T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:279349aa52bfe74eedff6de224fe@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1716,7 +1650,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Isaac Swann + Pierre Hujoel
 DTSTART;TZID=America/Toronto:20261023T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d1e7e20ca2d5c89cffc04d646df7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -1729,7 +1663,7 @@ BEGIN:VEVENT
 SUMMARY:All Your Favorites\, Back Again
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:374666cfe33e5219017d82f473a2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · All Your Favorites\, Back Again is a music e
@@ -1742,7 +1676,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOS: Moonrise - Guillaume Michaud\, Latour\, Okliis
 DTSTART;TZID=America/Toronto:20261023T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:72f31803a12d3c858e2930afbaa6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1755,7 +1689,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 23
 DTSTART;TZID=America/Toronto:20261023T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6c6f07ed30cc6004949b135a71c0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1768,7 +1702,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNFACED with Azyr
 DTSTART;TZID=America/Toronto:20261023T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6d79e9e18e9bd632d2b8735d8490@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1782,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:WEFUNK 30-Year Anniversary Party | Friday\, October 23\, 2026
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:cb20365f200fc345908ddd5f5292@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:CKUT's legendary hip-hop show\, WEFUNK is turning 30 and we're
@@ -1797,7 +1731,7 @@ BEGIN:VEVENT
 SUMMARY:WEFUNK 30th Anniversary Party
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:17a1f24e9912ce14201637a9cd1e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Hip Hop / Rap · Data: Has Things (hasthings.com)\, ODbL 1.0\n
@@ -1810,7 +1744,7 @@ BEGIN:VEVENT
 SUMMARY:WHIPPED CREAM
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:587c3ddba5aa2126e031c2bd56f5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · WHIPPED CREAM INVITÉ(E)S · Discovered via 
@@ -1823,7 +1757,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WHIPPED CREAM - Montréal
 DTSTART;TZID=America/Toronto:20261023T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:805a1d2e62b15aaff631e08a4bf7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1837,7 +1771,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YGM x Stereo Bar
 DTSTART;TZID=America/Toronto:20261023T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7620739ac2bc7dc17fcd9415c879@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1851,7 +1785,7 @@ BEGIN:VEVENT
 SUMMARY:Ygm X Sb: Metizo | Matt Brancatella | Dust-e-1
 DTSTART;TZID=America/Toronto:20261023T220000
 DTEND;TZID=America/Toronto:20261024T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4a527d578b405e8ffe7757e7280f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Ygm X Sb: Metizo | Matt Brancatella | Dust-e-1 is a m
@@ -1867,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:Rave It Like The '90s (Extended)
 DTSTART;TZID=America/Toronto:20261023T223000
 DTEND;TZID=America/Toronto:20261024T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9d0dacb7763285a1e2747fa81175@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno\, Bass · Rave It Like The '90s (Extended) is a
@@ -1881,7 +1815,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rave It Like the '90s (Extended)
 DTSTART;TZID=America/Toronto:20261023T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3c618e391e5ecb266b92ec72b111@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1894,7 +1828,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CRIMEWAVE
 DTSTART;TZID=America/Toronto:20261023T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:282dc7586b5cf6b2f73dc65e5860@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1907,7 +1841,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Datcha NONSTOP: Ramzilla\, Gi Gi\, Tess Roby & Numa Gama
 DTSTART;TZID=America/Toronto:20261023T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c36af296233e7c52431d44c36fb6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1921,7 +1855,7 @@ BEGIN:VEVENT
 SUMMARY:Datcha NONSTOP: Ramzilla\, Gi Gi\, Tess Roby & Numa Gama
 DTSTART;TZID=America/Toronto:20261023T230000
 DTEND;TZID=America/Toronto:20261024T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4955daeefc5107c2a51262b50109@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -1938,7 +1872,7 @@ BEGIN:VEVENT
 SUMMARY:Schrotthagen
 DTSTART;TZID=America/Toronto:20261023T230000
 DTEND;TZID=America/Toronto:20261024T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:554265472546209420f6cbbe10a0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Hard Techno\, Techno\, Trance · Neon presents Schrotthagen at
@@ -1953,7 +1887,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco FRIDAY
 DTSTART;TZID=America/Toronto:20261023T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:039c1b6224e24ba0ea36c5ec1479@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1967,7 +1901,7 @@ BEGIN:VEVENT
 SUMMARY:Ida Engberg | Onyvaa
 DTSTART;TZID=America/Toronto:20261023T235500
 DTEND;TZID=America/Toronto:20261024T090000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:29d116bfca6d5f5dd3f90b62c12e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · IDA ENGBERG | ONYVAA • Veuillez noter que les num
@@ -1983,7 +1917,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ida Engberg - ONYVAA
 DTSTART;TZID=America/Toronto:20261023T235900
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:666e236527a7e42ce53cf1c3a2a9@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -1996,7 +1930,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHIEF G BDAY BASH
 DTSTART;TZID=America/Toronto:20261024T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3b0070886d62939169b1ab79286c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2009,7 +1943,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aguma + Safia Nihil + IRL + Element Kuuda - DOUBLE RELEASE PARTY
 DTSTART;TZID=America/Toronto:20261024T180000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d3aee1ce4d47fe5f8402dca55223@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2022,7 +1956,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plus! + Starcrusher + Lost Faculty + Good Question
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c5b25739b039c0c19d7885a625f8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2036,7 +1970,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sélecteurs vinyles
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9f78fee97ee3b2de14edc2609a17@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2049,7 +1983,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Take Me Home The Tour
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:541d9bceb3e80b33aa277b43a84e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2061,7 +1995,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vino Disco SATURDAY EXTENDED
 DTSTART;TZID=America/Toronto:20261024T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:93a6544c2cfe4487722a795900f1@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2074,7 +2008,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VÍZ Lancement d'album Ég/Üres & Three Days سه روز
 DTSTART;TZID=America/Toronto:20261024T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4de65d04f2f0f9e1fbd8ee62249f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2086,7 +2020,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:METAMORPHOSIS with DJ Sprinter: Communal Art Expo & Rave
 DTSTART;TZID=America/Toronto:20261024T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0e6717fa1d89bc3fc29d9ae95b59@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2099,7 +2033,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chief G Bday Bash
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8ded35f12b94ca2f75e367e88fec@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Chief G Bday Bash is a music event at Le Red
@@ -2112,7 +2046,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DARK AREA
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:df6166715623d446f4d4ebf7d688@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2125,7 +2059,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSR/CITY X
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ef9c18bc52333fed9b66d0d33ccc@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2138,7 +2072,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mall Grab
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9d1da3b1b09feb7af52eee118a6b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · (Avec) Courage! presents: Mall Grab · Discovered via
@@ -2150,7 +2084,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mall Grab - Montréal
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:74e8c7717d76e5886ca8a55ee8c2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2164,7 +2098,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NWHR Invites Volvox [NYC]
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:4a185388eedeba65eae460f19ede@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2177,7 +2111,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nick Cheo - Montréal
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1a1d0c80a3c77beb1cfcaa3089f0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2191,7 +2125,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 24
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:721a75deebf297e825b0b44531d2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2204,7 +2138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Subnoir: Yaya\, Noel\, Syana
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d55011a08809c5aa734268462603@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2218,7 +2152,7 @@ BEGIN:VEVENT
 SUMMARY:Subnoir: Yaya\, Noel\, Syana
 DTSTART;TZID=America/Toronto:20261024T220000
 DTEND;TZID=America/Toronto:20261025T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:08719cc7b3af6627b61f99210f62@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -2233,7 +2167,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ugo Banchi (All Night Long)
 DTSTART;TZID=America/Toronto:20261024T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:899986dc3fce176470c3374a5ae7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2247,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:Ugo Banchi [All Night]
 DTSTART;TZID=America/Toronto:20261024T220000
 DTEND;TZID=America/Toronto:20261025T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0364e115e1a4fcc599643d1f702e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Ugo Banchi [All Night] is a music event at Stereobar.
@@ -2262,7 +2196,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinetic
 DTSTART;TZID=America/Toronto:20261024T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b986480e7563ba57f0bdb5310be6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2276,7 +2210,7 @@ BEGIN:VEVENT
 SUMMARY:Kinetic
 DTSTART;TZID=America/Toronto:20261024T223000
 DTEND;TZID=America/Toronto:20261025T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2b10c056d0de32391435634ec96a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Kinetic is a music event at Salon Daomé. Check the o
@@ -2290,7 +2224,7 @@ BEGIN:VEVENT
 SUMMARY:@NICKCHEO the *TOUR* the *MOVIE*
 DTSTART;TZID=America/Toronto:20261024T230000
 DTEND;TZID=America/Toronto:20261025T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6c80dd54b3252c2533ff0bd1246e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Nick Cheo INVITÉ(E)S · Discovered via Wher
@@ -2304,7 +2238,7 @@ BEGIN:VEVENT
 SUMMARY:Luch
 DTSTART;TZID=America/Toronto:20261024T235500
 DTEND;TZID=America/Toronto:20261025T090000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a9aa2a011a9f55b83dbb84ba02be@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · LUCH • Veuillez noter que les numéros de 
@@ -2320,7 +2254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luch (All Night Long)
 DTSTART;TZID=America/Toronto:20261024T235900
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a8ca7987ab847ba1a108c93ccd55@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2333,7 +2267,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PROPER MTL: MORE FYAH
 DTSTART;TZID=America/Toronto:20261025T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ee678c9fbe21c22af677ca1d7bf7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2346,7 +2280,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roller Dance Halloween 2026
 DTSTART;TZID=America/Toronto:20261025T130000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:55582f34a14ee6f54bc274f02e8a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Roller Dance is back at the SAT for a special Hallowe
@@ -2361,7 +2295,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5@7 Stéphane Lafleur
 DTSTART;TZID=America/Toronto:20261025T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:84f6e9309d53da24bc49b14e55fd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Stéphane Lafleur est cinéaste\, musicien et auteur d’un re
@@ -2375,7 +2309,7 @@ BEGIN:VEVENT
 SUMMARY:Mundo Disko X Stereo: Horse Meat Disco (Day Dance)
 DTSTART;TZID=America/Toronto:20261025T170000
 DTEND;TZID=America/Toronto:20261026T235900
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:36c3ab5bb89aa5ec56370f019665@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Disco · Mundo Disko X Stereo: Horse Meat Disco (Day Dance) is
@@ -2388,7 +2322,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mundo Disko x Stereo: Horse Meat Disco (Day Dance)
 DTSTART;TZID=America/Toronto:20261025T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ec598711deb1a6e019308275f024@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2401,7 +2335,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dahomey T-Dance - Don Barbarino\, Uzi\, Pattes de Velour
 DTSTART;TZID=America/Toronto:20261025T180000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:86b59904cf42cb6cabbf3417235a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2414,7 +2348,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ensemble Urbain Musique: Transformations
 DTSTART;TZID=America/Toronto:20261025T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6b6fc943758cfdb377746a18f914@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2426,7 +2360,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QMP: Williwaw / New Origin invite Susanna Hood
 DTSTART;TZID=America/Toronto:20261025T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:223351448714cc3b167a29ce7678@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2438,7 +2372,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Album Launch: Bilal Nasser With Quatuore Memoire / Jessica Moss
 DTSTART;TZID=America/Toronto:20261025T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c898fd676c5128ad7a65f05df6f3@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2451,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:Canned Heat With Roland Gonzales
 DTSTART;TZID=America/Toronto:20261025T200000
 DTEND;TZID=America/Toronto:20261026T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:ebaac8b33fbb913476bb828ba065@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Canned Heat With Roland Gonzales is a music event at 
@@ -2464,7 +2398,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canned Heat with Roland Gonzales
 DTSTART;TZID=America/Toronto:20261025T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:271b25a2e1a0453f3b8c69a96f4f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2477,7 +2411,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jennifer Castle And Kacy Lee Anderson Live In Concert
 DTSTART;TZID=America/Toronto:20261025T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:98c98a3e3784d8deab9a8d2ee236@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2489,7 +2423,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Octobre chez Système - Oct 25
 DTSTART;TZID=America/Toronto:20261025T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f1efdbc1ac7e1f002893687e19ff@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2502,7 +2436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Proper MTL X DIALD: MORE FYAH
 DTSTART;TZID=America/Toronto:20261025T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c0dd118214333018593c5c17f07d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2515,7 +2449,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lancement de Recueil - La Steppe
 DTSTART;TZID=America/Toronto:20261026T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:65ad7fafb93db709e1f508c1320e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2529,7 +2463,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:lilac GTA release show
 DTSTART;TZID=America/Toronto:20261026T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f1df36a084b9ce4d2194010e5963@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2541,7 +2475,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LéNo & Tibao 5tet
 DTSTART;TZID=America/Toronto:20261026T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8e64ee155332613465a4245a1189@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2553,7 +2487,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:re:configuré
 DTSTART;TZID=America/Toronto:20261027T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3705749179d86c73c76a463560f6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2565,7 +2499,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANGUILLES (lancement de EP) + HÔTE
 DTSTART;TZID=America/Toronto:20261027T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:831501e51e268e34d1e22d907220@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2579,7 +2513,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOVA + Salomé Perli
 DTSTART;TZID=America/Toronto:20261027T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d1c81f3fad2312395f40327262cd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2591,7 +2525,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5:14 Sessions with ccil [All Night Long - Free]
 DTSTART;TZID=America/Toronto:20261027T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:211d52f413d527e40738723b157c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2604,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOWN2TECHNO
 DTSTART;TZID=America/Toronto:20261028T000000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:590313da4c740d44896df6a11e70@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2618,7 +2552,7 @@ BEGIN:VEVENT
 SUMMARY:Architek Percussion: a 15 year retrospective | une rétrospective 
  de 15 ans
 DTSTART;TZID=America/Toronto:20261028T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:adc7c1d37a5344d4dcf9ed896852@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2632,7 +2566,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dos Rios Live Sessions
 DTSTART;TZID=America/Toronto:20261028T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:eb06dddad850b23d1cc2e5c53dfb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2644,7 +2578,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spooky Tunes Halloween Cabaret
 DTSTART;TZID=America/Toronto:20261028T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a61b2342cb44d873b97feba40505@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2658,7 +2592,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mali Obomsawin
 DTSTART;TZID=America/Toronto:20261028T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0c8f07f6199471ea74c166ad794f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2672,7 +2606,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Down2Techno x Droplets: Babaganouschka\, Pollen\, Zarb
 DTSTART;TZID=America/Toronto:20261028T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e45b8b403d9863e0578a7a012eb8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Down2Techno x Droplets: Babaganouschka\, Pollen\, Za
@@ -2686,7 +2620,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:down2techno
 DTSTART;TZID=America/Toronto:20261028T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8863bc723b712e4812b965f1bb61@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
@@ -2699,7 +2633,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Block Party - Café SAT Terrace Closing
 DTSTART;TZID=America/Toronto:20261029T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1e340a04e9f7d92c65016d351d49@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Before officially saying goodbye to the terrace for t
@@ -2713,21 +2647,34 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:À Gogo
 DTSTART;TZID=America/Toronto:20261029T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f3171697c4ebea817cbe18e7ee79@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Electronic / nightlife listing. The event page links to the or
  iginal ticket source\, including Resident Advisor when available.\nSource:
   https://boomboom.today/events/1872
 LOCATION:Système\, 719 Rue Saint-Hubert\, Montréal\, QC
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://boomboom.today/events/1872
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open_Secret___
 DTSTART;TZID=America/Toronto:20261029T200000
+DTSTAMP:20261015T044501Z
+UID:6afed644af8070f9738690dd4c27@montreal-independent-music
+CATEGORIES:Independent Music\,Experimental Music
+DESCRIPTION:Electronic / nightlife listing. The event page links to the or
+ iginal ticket source\, including Resident Advisor when available.\nSource:
+  https://boomboom.today/events/1912
+LOCATION:Sans Soleil\, 52 rue Saint-Zotique E\, Montréal\, QC
+STATUS:CONFIRMED
+URL:https://boomboom.today/events/1912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open_Secret___
+DTSTART;TZID=America/Toronto:20261029T200000
 DTEND;TZID=America/Toronto:20261030T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bce234ce7f59fcb41eab3171248e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Open_Secret___ is a music event at Sans Soleil. Check
@@ -2738,22 +2685,9 @@ STATUS:CONFIRMED
 URL:https://www.rave.ca/en/event/57003/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open_Secret___
-DTSTART;TZID=America/Toronto:20261029T200000
-DTSTAMP:20261014T214401Z
-UID:6afed644af8070f9738690dd4c27@montreal-independent-music
-CATEGORIES:Independent Music\,Experimental Music
-DESCRIPTION:Electronic / nightlife listing. The event page links to the or
- iginal ticket source\, including Resident Advisor when available.\nSource:
-  https://boomboom.today/events/1912
-LOCATION:Sans Soleil\, 52 rue Saint-Zotique E\, Montréal\, QC
-STATUS:CANCELLED
-URL:https://boomboom.today/events/1912
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Patrick Prévost - Lancement de l'album Gribouillis
 DTSTART;TZID=America/Toronto:20261029T202500
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:862368040b0e259caf1b480d862b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2765,7 +2699,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grace Desbarats and Bennett Mitchell
 DTSTART;TZID=America/Toronto:20261029T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:916a9534e838147e27c8f953707f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2777,7 +2711,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orkestar Kriminal
 DTSTART;TZID=America/Toronto:20261029T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:40a6fc9b3b0ff1376006f2d1f848@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:ORKESTAR KRIMINAL\nGrands spécialistes de l’improvisation\,
@@ -2797,7 +2731,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Frog\, wetdogg\, Nautiluss
 DTSTART;TZID=America/Toronto:20261029T220000
 DTEND;TZID=America/Toronto:20261030T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3fd136de03fb93134b7136ce02de@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -2813,7 +2747,7 @@ BEGIN:VEVENT
 SUMMARY:Inedit By Underpulse
 DTSTART;TZID=America/Toronto:20261029T223000
 DTEND;TZID=America/Toronto:20261030T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:16ed7949f5f34103e92e4b64de02@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Inedit By Underpulse is a music event at Salon Daomé
@@ -2827,7 +2761,7 @@ BEGIN:VEVENT
 SUMMARY:Saint Willow - Album Launch & Halloween show - with Oiseau de Proi
  e and Mindreader
 DTSTART;TZID=America/Toronto:20261030T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b6de7a434f34138ef47a97bd759e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2842,7 +2776,7 @@ BEGIN:VEVENT
 SUMMARY:Ella Aslin: For the Life of Me Tour with Bella Galasso and Grace C
  lark
 DTSTART;TZID=America/Toronto:20261030T201500
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3c3ed3e47e9c54154252e38bde6c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -2857,7 +2791,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Horror Halloween : Poolgirl\, Blue Linen\, Shunk\, Best Fish
   Foreve
 DTSTART;TZID=America/Toronto:20261030T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:357a358a1a99a90016187147a04b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2869,7 +2803,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quest Master + Vespéral + more
 DTSTART;TZID=America/Toronto:20261030T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b38d7cbf61d501ba4ea9dc8c83ac@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -2882,7 +2816,7 @@ BEGIN:VEVENT
 SUMMARY:Baauer
 DTSTART;TZID=America/Toronto:20261030T220000
 DTEND;TZID=America/Toronto:20261031T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b356ef10dda78a6ea6fa075bf495@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · BAAUER INVITÉ(E)S **SERVICE ALCOOL PROLONG
@@ -2896,7 +2830,7 @@ BEGIN:VEVENT
 SUMMARY:Le Rotary Club\, ROH\, Balou
 DTSTART;TZID=America/Toronto:20261030T220000
 DTEND;TZID=America/Toronto:20261031T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:642760897c318bac50f8c12a766f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -2912,7 +2846,7 @@ BEGIN:VEVENT
 SUMMARY:Scareo's Rave Apocalypse : Napo Lugo | Manu | Colmee B2B Freeeman
 DTSTART;TZID=America/Toronto:20261030T220000
 DTEND;TZID=America/Toronto:20261031T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bf190983858a3414cafed2271bd9@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · Scareo's Rave Apocalypse : Napo Lugo | Manu | Colmee 
@@ -2929,7 +2863,7 @@ BEGIN:VEVENT
 SUMMARY:Sonora - Cabanne FR
 DTSTART;TZID=America/Toronto:20261030T220000
 DTEND;TZID=America/Toronto:20261031T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0860665cd4115648093f932544d5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Sonora - Cabanne FR is a music event at Esc.
@@ -2943,7 +2877,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween - Plaisirs Sonores
 DTSTART;TZID=America/Toronto:20261030T223000
 DTEND;TZID=America/Toronto:20261031T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a791cd2bf3a19ea7a8286b5cf275@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Halloween - Plaisirs Sonores is a music event at Salo
@@ -2957,7 +2891,7 @@ BEGIN:VEVENT
 SUMMARY:Scareo's Rave Apocalypse : Cristoph [All Night]
 DTSTART;TZID=America/Toronto:20261030T235500
 DTEND;TZID=America/Toronto:20261031T100000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:dc6dbdbdc3507c8f39cd60def319@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Deep House\, Afro House · SCAREO'S RAVE APOCALYPSE : 
@@ -2975,7 +2909,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Very IFO Halloween
 DTSTART;TZID=America/Toronto:20261031T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2770546680e886711bd71b5ac998@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -2987,7 +2921,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halloween show
 DTSTART;TZID=America/Toronto:20261031T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:744e54aa0f83802451e1ffde84dd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3001,7 +2935,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Haunted Haus
 DTSTART;TZID=America/Toronto:20261031T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8aa105cbd0e8f5833cd2f9c05ecf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · My Haunted Haus is a music event at Le Red R
@@ -3015,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:Scareo's Rave Apocalypse : Sinca | Moti
 DTSTART;TZID=America/Toronto:20261031T220000
 DTEND;TZID=America/Toronto:20261101T040000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e291a91dc7a371662da60865f755@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Scareo's Rave Apocalypse : Sinca | Moti is a music ev
@@ -3031,7 +2965,7 @@ BEGIN:VEVENT
 SUMMARY:☆ Strawberry Gothcake X Bimbo Castle Halloween 2026 ☆
 DTSTART;TZID=America/Toronto:20261031T220000
 DTEND;TZID=America/Toronto:20261101T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:08874994cd66ec9648b685679b72@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · ☆ Strawberry Gothcake X Bimbo Castle Hallo
@@ -3045,7 +2979,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baile Macabre
 DTSTART;TZID=America/Toronto:20261031T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bf298828a4a60e1097149f5e4866@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3059,7 +2993,7 @@ BEGIN:VEVENT
 SUMMARY:Punkdt - Halloween
 DTSTART;TZID=America/Toronto:20261031T223000
 DTEND;TZID=America/Toronto:20261101T070000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:11f7196f8bdc5a0b75dc75e5e5b7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Punkdt - Halloween is a music event at Salon Daomé. 
@@ -3073,7 +3007,7 @@ BEGIN:VEVENT
 SUMMARY:Jacques Greene
 DTSTART;TZID=America/Toronto:20261031T230000
 DTEND;TZID=America/Toronto:20261101T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8b4a77e333ac60fa9ad3365d5d44@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · jacques greene AUDREY BÉLANGER FIELD NOTE J
@@ -3088,7 +3022,7 @@ SUMMARY:Latex Halloween: Crissemarquer\, Lou Celsius\, Fate\, Hydra b2b Na
  sty Gloss
 DTSTART;TZID=America/Toronto:20261031T230000
 DTEND;TZID=America/Toronto:20261101T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:75d40db10a1ebbb841ec89885c77@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Buy tickets\, bottle service & guest list fo
@@ -3105,7 +3039,7 @@ BEGIN:VEVENT
 SUMMARY:Scareo's Rave Apocalypse : Danny Tenaglia | Simon Heyliger
 DTSTART;TZID=America/Toronto:20261031T235500
 DTEND;TZID=America/Toronto:20261101T170000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9d416a0b238c79282cdc1f8ff833@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · SCAREO'S RAVE APOCALYPSE : DANNY TENAGLIA | 
@@ -3123,7 +3057,7 @@ BEGIN:VEVENT
 SUMMARY:DEAD STILL DANCE
 DTSTART;TZID=America/Toronto:20261031T235900
 DTEND;TZID=America/Toronto:20261101T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5cf6c489daff60bf2a8692f7a18e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · DEAD STILL DANCE is a music event at Theatre Fairmoun
@@ -3139,7 +3073,7 @@ BEGIN:VEVENT
 SUMMARY:Scareo X Boo Yourself: Danny Tenaglia
 DTSTART;TZID=America/Toronto:20261031T235900
 DTEND;TZID=America/Toronto:20261101T120000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:12a40fe6e4e7ce13418447a355e2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Scareo X Boo Yourself: Danny Tenaglia is a music even
@@ -3155,7 +3089,7 @@ SUMMARY:Trevor Dunn (Mr. Bungle\, Trio-Convulsant\, Secret Ciefs 3\, Tomah
  arilou Craft\, Eric Craven) Album Launch - Lancement D'album: Zombiee Mugs
  hot
 DTSTART;TZID=America/Toronto:20261101T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d7bb2481fe5a7d3bf6941471c080@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3167,7 +3101,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ancrage - Alexandra Moreno (lancement)
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:982576c280cac0a02e7cda272263@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3179,7 +3113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Couvo + Kerri + Rachel Law
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9e16aeb807a2a08d25c9532f19c0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3193,7 +3127,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oscar Robertson et Philippe Noël
 DTSTART;TZID=America/Toronto:20261102T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8a0c3c221cc7b62a5cf9f0456eb1@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3205,7 +3139,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interdit Les Chiens
 DTSTART;TZID=America/Toronto:20261103T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:cd08dfb9b12b78663eaea3cd7d90@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3217,7 +3151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LCL GRL's Autumnal Instinct
 DTSTART;TZID=America/Toronto:20261103T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:57a2b84088a756e65eeab2fff4df@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3230,7 +3164,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black et Pop Montréal présentent: SWEEPING PROMI
  SES +HÉLÈNE BARBIER + KNITTING
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:138c7c09021b4e4aaff5f20b38bd@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3243,7 +3177,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: PAPER WINGS + THE PUDDING CHÔMEU
  R
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:90d89cfb11892627f069b4948ebf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3257,7 +3191,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweeping Promises
 DTSTART;TZID=America/Toronto:20261104T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9ee5e5bc93c974f8abb451f0e3a5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3270,7 +3204,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keenan Trevon: Flowers After Dark Tour
 DTSTART;TZID=America/Toronto:20261105T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:959a4c0cb04d3102e057e853c585@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3284,7 +3218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Francos vs Anglos (20 ans de slam)
 DTSTART;TZID=America/Toronto:20261105T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:804ea28801762e1a66670abd1ac2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3297,7 +3231,7 @@ BEGIN:VEVENT
 SUMMARY:Bella Galasso - Bury These Questions EP Launch
 DTSTART;TZID=America/Toronto:20261106T200000
 DTEND;TZID=America/Toronto:20261106T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b921460bfdcf1e16fe1453a367f6@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Indie · Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: 
@@ -3309,7 +3243,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JONQUILLE (lancement) + CHLOÉ JARA-BUTO
 DTSTART;TZID=America/Toronto:20261106T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:27042e5a2e2723fca5364bb8db5b@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -3322,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:Suzy Sheer
 DTSTART;TZID=America/Toronto:20261106T200000
 DTEND;TZID=America/Toronto:20261106T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3993f77adfc1496d4038b3544756@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Suzy Sheer PATCH+ · Discovered via Wherehou
@@ -3334,7 +3268,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boyhood + Julesy + Vitamin Pink
 DTSTART;TZID=America/Toronto:20261106T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c0018c5476279de63baaecff3d7f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3346,7 +3280,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Outfit EP Release Show w/ HRT + Bad Faith Actor
 DTSTART;TZID=America/Toronto:20261106T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d68cce3c08325bbe20ac5d29ceb0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3359,7 +3293,7 @@ BEGIN:VEVENT
 SUMMARY:Osunlade\, Jojoflores\, D*soul\, Kai Tht Guy
 DTSTART;TZID=America/Toronto:20261106T223000
 DTEND;TZID=America/Toronto:20261107T050000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bff6f62088576a691cd190897cb2@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House · Osunlade\, Jojoflores\, D*soul\, Kai Tht Guy is a mus
@@ -3373,7 +3307,7 @@ BEGIN:VEVENT
 SUMMARY:Smokey Bubblin' B
 DTSTART;TZID=America/Toronto:20261106T230000
 DTEND;TZID=America/Toronto:20261107T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6e458a28af75ca377fda2840a917@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Smokey Bubblin' B INVITÉ(E)S · Discovered 
@@ -3387,7 +3321,7 @@ BEGIN:VEVENT
 SUMMARY:Midwinter ''Haunt Me Forever Tour'
 DTSTART;TZID=America/Toronto:20261107T180000
 DTEND;TZID=America/Toronto:20261107T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8917e79085ae5f594d815e117493@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Midwinter WHAT LIES BELOW COLDSTATE SAWYER P
@@ -3400,7 +3334,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Long Vowel 100 - Montreal Noise Complaint
 DTSTART;TZID=America/Toronto:20261107T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:33b9ae52672edcf59d736155a47d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3413,7 +3347,7 @@ BEGIN:VEVENT
 SUMMARY:Dumb Crush Live at Ptit Ours
 DTSTART;TZID=America/Toronto:20261107T200000
 DTEND;TZID=America/Toronto:20261107T230000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:9cad9b1b9957c5d2f212ae09e8c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3426,7 +3360,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente Diles que no me maten + pascalepas
  cale + ARDO
 DTSTART;TZID=America/Toronto:20261107T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a572b1ea8fdfd7eb6332faa92441@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3438,7 +3372,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wired Mother + Czech Hotel + The Shoppe
 DTSTART;TZID=America/Toronto:20261107T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6d538a269af9adc8b42c1c9e79e0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3450,7 +3384,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF16 – LeParc + Tempête Solaire
 DTSTART;TZID=America/Toronto:20261107T213000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:28c435c338a7bbd22845424f1b25@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:CCF présente LEPARC + TEMPÊTE SOLAIRE [PLATEAU DOUBLE]\nPort
@@ -3464,7 +3398,7 @@ BEGIN:VEVENT
 SUMMARY:Arder: Sev Dah
 DTSTART;TZID=America/Toronto:20261107T220000
 DTEND;TZID=America/Toronto:20261108T080000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1414ead329fe26359ef6423158ad@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Arder: Sev Dah is a music event at NWHR. Check the o
@@ -3477,7 +3411,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kryture + more
 DTSTART;TZID=America/Toronto:20261107T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:282dc93a04077a29868bd834e82d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Kryture + more is a music event at Le Red Ro
@@ -3490,7 +3424,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tobiahs
 DTSTART;TZID=America/Toronto:20261107T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:da1226f2d6241b542c29ed430e0f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · (Avec) Courage! presents: Tobiahs · Discovered via W
@@ -3502,7 +3436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Headache and special guests
 DTSTART;TZID=America/Toronto:20261108T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b4e5e15a1c67b437771b49ab5188@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · good shows presents: Headache + special guests · Dis
@@ -3515,7 +3449,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AN_NA\, NUMONIA and AUCHTOROK (OTT)
 DTSTART;TZID=America/Toronto:20261108T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:447ebd800064f97b559cd109a01d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3527,7 +3461,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ARK IDENTITY with SUUNCAAT
 DTSTART;TZID=America/Toronto:20261108T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a59287edeb49c2ba4aa027582ddb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3539,7 +3473,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A night of music with Sam Ripat & McMillan
 DTSTART;TZID=America/Toronto:20261109T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:58bbbd159e488f9bd8eb9b3dcfff@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3551,7 +3485,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:sports. + ARMOIRE + HALF PAST APRIL
 DTSTART;TZID=America/Toronto:20261109T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7e805b0e92f9736b736e1181994e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3563,7 +3497,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NIA ARCHIVES - EMOTIONAL WORLD TOUR + BAMBII
 DTSTART;TZID=America/Toronto:20261110T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:11cc0e17e9b8ae6f1af9b5c482ea@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Drum & Bass · (Avec) Courage! presents : NIA ARCHIVES - EMOTI
@@ -3576,7 +3510,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jessica Rhaye\, Bill Preeper & Sandy MacKay
 DTSTART;TZID=America/Toronto:20261110T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c5c6eecefc421d641102b54966ea@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3588,7 +3522,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOÉ LIRA (lancement) + LAPELÚDA
 DTSTART;TZID=America/Toronto:20261110T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d6c01b8b02c1fc52ee3d7eb0c1d4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -3600,7 +3534,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Okapi (North Carolina)\, Ton-e Rêve\, and Elizabeth Anka Vajagic
 DTSTART;TZID=America/Toronto:20261110T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:85ba848b0d55860f3841fac1c8bf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3612,7 +3546,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L'homme Invisible & Laflamme
 DTSTART;TZID=America/Toronto:20261111T190000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:63ea49c01033761d4280880d3347@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3624,7 +3558,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ike Dweck
 DTSTART;TZID=America/Toronto:20261111T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:665af2948bd26fa382b02743532d@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3637,7 +3571,7 @@ BEGIN:VEVENT
 SUMMARY:BEATS x SAT - [Unfolded]
 DTSTART;TZID=America/Toronto:20261112T200000
 DTEND;TZID=America/Toronto:20261113T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:44bb68a2167e288eef71bafcc0f3@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · A roaming performance event where live and digital ar
@@ -3651,7 +3585,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duu (lancement) + Nana Quinn
 DTSTART;TZID=America/Toronto:20261112T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:091fce0af1a250f8ec9f71831594@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -3663,7 +3597,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAST WALTZON\, avec IRA GLASS\, PNOOM\, et FIONAVAIR
 DTSTART;TZID=America/Toronto:20261112T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f38a0c47986eb5f776482cf085ef@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3675,7 +3609,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Missile + Big Snit + Hallowell
 DTSTART;TZID=America/Toronto:20261112T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0de92644828301fdb9381fc48c57@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3687,7 +3621,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Future Jungle
 DTSTART;TZID=America/Toronto:20261112T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:d1eb6819299456c33f721c2ad2e8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Jungle · Future Jungle is a music event at Le Red Room. Check
@@ -3700,7 +3634,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daniel James McFadyen
 DTSTART;TZID=America/Toronto:20261113T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f15f8ef139705ec15943bf59fea8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3712,7 +3646,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marc McLaughlin + invité(e)
 DTSTART;TZID=America/Toronto:20261113T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a073cbb9f40affa1e666e8e94f70@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3724,7 +3658,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:clay pigeon & Fruit Snack Double Album Release Show
 DTSTART;TZID=America/Toronto:20261113T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:dd8c8caa0a125f0b21aba7fd7dd0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3739,7 +3673,7 @@ BEGIN:VEVENT
 SUMMARY:Biscits
 DTSTART;TZID=America/Toronto:20261113T230000
 DTEND;TZID=America/Toronto:20261114T040000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7e58d5877dfdbffe21bfe6b514bb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · biscits INVITÉ(E)S · Discovered via Whereh
@@ -3752,7 +3686,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dub Permanence
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:625f103b0229e7e69feb3201a3a8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3764,7 +3698,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KINDSIGHT avec FENCING et FIELDING
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c3a26e666c49ca94e44e5be2befb@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3776,7 +3710,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Vamp - Martin Saint - The Mirrors
 DTSTART;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0d46284aca61f97a929d7d5b3474@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3788,7 +3722,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF26 – Kat Pereira + Chénier
 DTSTART;TZID=America/Toronto:20261114T213000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:975826edfec83ccdfd94180fcc15@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:CCF présente CHÉNIER + KAT PEREIRA [PLATEAU DOUBLE]\nPortes 
@@ -3807,7 +3741,7 @@ BEGIN:VEVENT
 SUMMARY:yaego ''música electronica en vivo tour''
 DTSTART;TZID=America/Toronto:20261114T220000
 DTEND;TZID=America/Toronto:20261115T020000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2bdadc2be6cbe80b1f945987ed37@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · yaego ''música electronica en vivo tour'' I
@@ -3821,7 +3755,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ukraine Anarchists Solidarity Show
 DTSTART;TZID=America/Toronto:20261115T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3f8bd6d0772cd8aa2e4f56dcc195@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3833,7 +3767,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jon Mckiel and Isla Craig live at P'tit Ours
 DTSTART;TZID=America/Toronto:20261115T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6434a1bcfa33049f1ad93e874a64@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3845,7 +3779,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black Présente: James Ivy
 DTSTART;TZID=America/Toronto:20261116T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8a5205b88cc6f38c37160f776696@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3859,7 +3793,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Billet Journalier - Mardi
 DTSTART;TZID=America/Toronto:20261117T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:22b6c3399aea279b3c3a66282324@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://l
@@ -3871,7 +3805,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2120
 DTSTART;TZID=America/Toronto:20261118T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:87b7f2e3dc30f22da021205acf71@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3883,7 +3817,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mario2 & Cosmic Dog Fog WLS
 DTSTART;TZID=America/Toronto:20261118T221500
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:db626cad0105da6554f6f6270854@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3895,7 +3829,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:M pour Montréal / Groover Music – Museums + Basht. (IRL)
 DTSTART;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:6c5b0783b7532c18e90c9aad756e@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Groover présente :\nMuseums\nBasht (IRL) — présenté par L
@@ -3909,7 +3843,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nctrnl-001
 DTSTART;TZID=America/Toronto:20261119T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:5492ce1cc977f70b778bbac1226f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · Nctrnl-001 is a music event at Le Red Room. 
@@ -3922,7 +3856,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:blesse lancement d'album "Transit"
 DTSTART;TZID=America/Toronto:20261119T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:30ba6b5c88ceed8e2516e22d4001@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3935,7 +3869,7 @@ BEGIN:VEVENT
 SUMMARY:good shows & M Pour Montréal présentent: MARCI avec invités sp
  éciaux
 DTSTART;TZID=America/Toronto:20261119T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e8953220e46a0e6350e46b013713@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3947,7 +3881,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Royal Mountain présente : Le Ren\, Bells Larsen & Janky Bungag
 DTSTART;TZID=America/Toronto:20261119T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:1db557f4d028d27e9c13809307c8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -3960,7 +3894,7 @@ BEGIN:VEVENT
 SUMMARY:M for Mothland - Xela Edna\, Birds of Prrrey\, Still Depths\, TVOD
  \, BALACLAVA
 DTSTART;TZID=America/Toronto:20261120T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:124f251710b101745375719e9851@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://t
@@ -3975,7 +3909,7 @@ BEGIN:VEVENT
 SUMMARY:Club SAT - Turbine (Live A/V) • Musik Me Luv
 DTSTART;TZID=America/Toronto:20261120T220000
 DTEND;TZID=America/Toronto:20261121T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:7adb6d8920ac7ab7772b54440488@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Drum & Bass\, Breaks · A high-energy night of bass music\, br
@@ -3990,7 +3924,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technocid x Ascension
 DTSTART;TZID=America/Toronto:20261120T220000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:42cfdae1d47fc9da96a4cc04b625@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Technocid x Ascension is a music event at Le Red Roo
@@ -4003,7 +3937,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANYMA ORA'\, Merina Gris & papaya noon
 DTSTART;TZID=America/Toronto:20261120T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:238a7fbc39eeb3ba5a611e8fe6f0@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4015,7 +3949,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irdens Exantus\, Naïma Frank & Dori (LUX)
 DTSTART;TZID=America/Toronto:20261120T223000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3f6e61a3653e3834aaa7e88a802a@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4028,7 +3962,7 @@ BEGIN:VEVENT
 SUMMARY:FOVOS
 DTSTART;TZID=America/Toronto:20261120T230000
 DTEND;TZID=America/Toronto:20261121T040000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f03f84ec48c536057dca15a1a1ac@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · fovos INVITÉ(E)S · Discovered via Wherehou
@@ -4041,7 +3975,7 @@ BEGIN:VEVENT
 SUMMARY:Arder:
 DTSTART;TZID=America/Toronto:20261121T210000
 DTEND;TZID=America/Toronto:20261122T120000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0f9c96d9a4cadf8aab79c341c5c4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Arder: is a music event at NWHR. Check the official 
@@ -4052,10 +3986,28 @@ STATUS:CONFIRMED
 URL:https://www.rave.ca/en/event/56953/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:M Pour Montréal | Moses Belanger + Jean-Paul Groove + ODEZA
+DTSTART;TZID=America/Toronto:20261121T210000
+DTSTAMP:20261015T044501Z
+UID:81358fbaf4e5c61262778d95a28f@montreal-independent-music
+CATEGORIES:Independent Music\,Experimental Music
+DESCRIPTION:M pour Montréal\, WB Musiques\, Folivora Records et Rose Fest
+ ival ...\nSource: https://lepointdevente.com/billets/jhp261121001?lang=fr&
+ fbclid=IwY2xjawUz7wtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVB1OWVLbHZhUzNmQzBFeEhzc
+ nRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegMO3MZPj7SYtiNpjikNn10Gajz0zC53yXAk
+ UwGkueHVtUDg-CH3kM_HHbvs_aem_YZpnId2GGbzZ1ccIeoSrcA
+LOCATION:Quai des Brumes\, 4481 rue Saint-Denis\, Montréal\, QC H2J 2L2
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/jhp261121001?lang=fr&fbclid=IwY2xja
+ wUz7wtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVB1OWVLbHZhUzNmQzBFeEhzcnRjBmFwcF9pZBA
+ yMjIwMzkxNzg4MjAwODkyAAEegMO3MZPj7SYtiNpjikNn10Gajz0zC53yXAkUwGkueHVtUDg-C
+ H3kM_HHbvs_aem_YZpnId2GGbzZ1ccIeoSrcA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BEAUZ presents We Like It Bad : Chapter II
 DTSTART;TZID=America/Toronto:20261121T220000
 DTEND;TZID=America/Toronto:20261122T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:c4f06d27e0e3a0d5356941cb89a8@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · NEON & Electric Escape present BEAUZ + guests · Disc
@@ -4068,7 +4020,7 @@ BEGIN:VEVENT
 SUMMARY:On The House - Vol 007
 DTSTART;TZID=America/Toronto:20261121T220000
 DTEND;TZID=America/Toronto:20261122T060000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f4758847f943b274de71b9b1b4e5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Disco · On The House - Vol 007 is a music event at Es
@@ -4081,7 +4033,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bob Wiseman with special guest Joshua Marc Séguin
 DTSTART;TZID=America/Toronto:20261122T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:e23db20fbda27f3e0c322cf621cf@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4093,20 +4045,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noche de Flamenco
 DTSTART;TZID=America/Toronto:20261126T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3765826b13ec311a06d8d040deca@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
  ww.venuepilot.co/en/events/186925/orders/new
 LOCATION:La Sala Rossa\, 4848 boul. Saint-Laurent\, Montréal\, QC
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://www.venuepilot.co/en/events/186925/orders/new
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paper Skies
 DTSTART;TZID=America/Toronto:20261127T220000
 DTEND;TZID=America/Toronto:20261128T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:bb0038c2aa2b392d3591d47d2c81@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · paper skies INVITÉ(E)S · Discovered via Wh
@@ -4119,7 +4071,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gabriel Béland en spectacle
 DTSTART;TZID=America/Toronto:20261128T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:b0e99f5999069d47e78f63510f66@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4132,7 +4084,7 @@ BEGIN:VEVENT
 SUMMARY:SAT x EAF x Festival Triste - Leila Bordreuil • Kee Avil • Ann
  a Arrobas
 DTSTART;TZID=America/Toronto:20261128T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:2fc4eb6633aee52f73d4fd05d30f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Other · To celebrate the grand return of Festival Triste*\, E
@@ -4148,7 +4100,7 @@ BEGIN:VEVENT
 SUMMARY:Suray Sertin
 DTSTART;TZID=America/Toronto:20261128T220000
 DTEND;TZID=America/Toronto:20261129T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:8da0397642cc3f67030a4884637c@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · suray sertin Musik Me Luv (Dick Lee b2b Mele
@@ -4162,7 +4114,7 @@ BEGIN:VEVENT
 SUMMARY:David Morales
 DTSTART;TZID=America/Toronto:20261128T235900
 DTEND;TZID=America/Toronto:20261129T080000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:854aae5697431820dd0907e66af7@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Deep House · David Morales is a music event at Stereo
@@ -4175,7 +4127,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:re:mplacé
 DTSTART;TZID=America/Toronto:20261130T193000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:f60fba62b73504d35e315f248aee@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4187,7 +4139,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rachella Wred\, Couvo & Kerri
 DTSTART;TZID=America/Toronto:20261202T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:3a4294215f9e26ff0e2a6ece41a5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4199,7 +4151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black présente: WILD PINK + HIDING PLACES
 DTSTART;TZID=America/Toronto:20261203T200000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:02c639746bf9949c452efbbcf77f@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: https://w
@@ -4211,7 +4163,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Skies Turn Black et Pop Montréal présentent: SAM QUEALY
 DTSTART;TZID=America/Toronto:20261203T203000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:0d0b46aee8ac5e9489713b0dace5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Pop · Data: Has Things (hasthings.com)\, ODbL 1.0\nSource: ht
@@ -4224,7 +4176,7 @@ BEGIN:VEVENT
 SUMMARY:Loukeman
 DTSTART;TZID=America/Toronto:20261204T220000
 DTEND;TZID=America/Toronto:20261205T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:104c28861a08237b37f57c6a3f40@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · loukeman DYLTWOSIX IAN MILLS BRAT STAR (DJ S
@@ -4238,7 +4190,7 @@ BEGIN:VEVENT
 SUMMARY:Riot Ten
 DTSTART;TZID=America/Toronto:20261205T220000
 DTEND;TZID=America/Toronto:20261206T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:215dae30865f3942121d0b235dd4@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · RIOT TEN INVITÉ(E)S · Discovered via Where
@@ -4251,7 +4203,7 @@ BEGIN:VEVENT
 SUMMARY:Arder: Markus Suckut
 DTSTART;TZID=America/Toronto:20261212T220000
 DTEND;TZID=America/Toronto:20261213T080000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:fe6d189b359060117d55b0676345@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:Techno · Arder: Markus Suckut is a music event at NWHR. Check
@@ -4265,7 +4217,7 @@ BEGIN:VEVENT
 SUMMARY:Conrad Taylor
 DTSTART;TZID=America/Toronto:20261212T220000
 DTEND;TZID=America/Toronto:20261213T030000
-DTSTAMP:20261014T214401Z
+DTSTAMP:20261015T044501Z
 UID:a4cc5330d8bf246453dcab8473f5@montreal-independent-music
 CATEGORIES:Independent Music\,Experimental Music
 DESCRIPTION:House\, Techno · conrad taylor INVITÉ(E)S · Discovered via 
