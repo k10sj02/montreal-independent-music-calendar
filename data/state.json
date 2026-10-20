@@ -1,32 +1,6 @@
 {
-  "updated": "2026-10-19T18:23:44.179285-04:00",
+  "updated": "2026-10-20T00:55:27.290974-04:00",
   "events": {
-    "07b77581ca9b8539ab4035630123@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "5c1b8c0e-301f-4a72-85c1-84e368c7d59c",
-      "title": "Avshalom Quartet: Fatherofpeace",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": null,
-      "venue": "Casa del Popolo",
-      "address": "4873 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/201606/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "714d2c38ed42e332b7adbcc11316@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "fbf4f1dc-d3cb-4f13-b741-787178d680fe",
-      "title": "HESTIAA X ELLAA and BAANUMOON",
-      "start": "2026-10-18T20:30:00-04:00",
-      "end": null,
-      "venue": "P'tit Ours",
-      "address": "5589 av. du Parc, Montréal, QC",
-      "url": "https://t.venuepilot.com/e/hestiaa-x-ellaa-and-baanumoon-2026-10-18-p-tit-ours-montreal-68fcb4",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "d6869d05c0be0c6e400bca0d43c8@montreal-independent-music": {
       "source": "has-things",
       "source_id": "7c13bd65-f694-400e-96d3-fa0da9e6c958",
@@ -1392,6 +1366,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "3a4294215f9e26ff0e2a6ece41a5@montreal-independent-music": {
+      "source": "has-things",
+      "source_id": "f47703eb-21bb-4139-92e2-34520c390a52",
+      "title": "Rachella Wred, Couvo & Kerri",
+      "start": "2026-12-02T20:00:00-05:00",
+      "end": null,
+      "venue": "Casa del Popolo",
+      "address": "4873 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://www.venuepilot.co/en/events/193896/orders/new",
+      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "cb20365f200fc345908ddd5f5292@montreal-independent-music": {
       "source": "ckut",
       "source_id": "wefunk-30-year-anniversary-party-friday-october-23-2026",
@@ -1558,19 +1545,6 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://quaidesbrumes.ca/evenements/kon-fusion-halloween-rebel-fiesta-dj-oonga/",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e57cb296898f4e20ae69ac4d8bc2@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2253",
-      "title": "Sans Soleil w/ Andy Williams",
-      "start": "2026-10-19T20:00:00-04:00",
-      "end": null,
-      "venue": "Sans Soleil",
-      "address": "52 rue Saint-Zotique E, Montréal, QC",
-      "url": "https://boomboom.today/events/2253",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2783,19 +2757,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "90657fdbb061f250758107230b87@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "e746f7f5-0407-4505-9402-d8070a588a62",
-      "title": "Sans Soleil: Andy Williams",
-      "start": "2026-10-19T20:00:00-04:00",
-      "end": "2026-10-20T01:00:00-04:00",
-      "venue": "Sans Soleil",
-      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
-      "url": "https://www.rave.ca/en/event/57213/",
-      "description": "House · Sans Soleil: Andy Williams is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "73379c70db736c805f9d5cbe404b@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "e9a54324-94f6-4eda-b775-4236ad5e660d",
@@ -3589,16 +3550,29 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "3a4294215f9e26ff0e2a6ece41a5@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "f47703eb-21bb-4139-92e2-34520c390a52",
-      "title": "Rachella Wred, Couvo & Kerri",
-      "start": "2026-12-02T20:00:00-05:00",
+    "e57cb296898f4e20ae69ac4d8bc2@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2253",
+      "title": "Sans Soleil w/ Andy Williams",
+      "start": "2026-10-19T20:00:00-04:00",
       "end": null,
-      "venue": "Casa del Popolo",
-      "address": "4873 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/193896/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "venue": "Sans Soleil",
+      "address": "52 rue Saint-Zotique E, Montréal, QC",
+      "url": "https://boomboom.today/events/2253",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "90657fdbb061f250758107230b87@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "e746f7f5-0407-4505-9402-d8070a588a62",
+      "title": "Sans Soleil: Andy Williams",
+      "start": "2026-10-19T20:00:00-04:00",
+      "end": "2026-10-20T01:00:00-04:00",
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/event/57213/",
+      "description": "House · Sans Soleil: Andy Williams is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 1
     },
@@ -3612,8 +3586,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://lepointdevente.com/billets/qdb261107001?lang=fr",
       "description": "CCF présente LEPARC + TEMPÊTE SOLAIRE [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "975826edfec83ccdfd94180fcc15@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3625,8 +3599,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://lepointdevente.com/billets/qdb261114001?lang=fr&fbclid=IwY2xjawUWcNtwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5NHf2UcPbbaCbmmwsAiAaI0W1idBpnsNVywMnTI5xvo0FtEYUn4tvFr8GQMQ_aem_d0KYDZP84lhFXAyyUnDhsw",
       "description": "CCF présente CHÉNIER + KAT PEREIRA [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6c5b0783b7532c18e90c9aad756e@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3638,8 +3612,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://quaidesbrumes.ca/evenements/m-pour-montreal-groover-music-museums-basht-irl/",
       "description": "Groover présente :\r\nMuseums\r\nBasht (IRL) — présenté par LIIFT\r\n\r\nUn concert présenté ...",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "81358fbaf4e5c61262778d95a28f@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3651,8 +3625,8 @@
       "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
       "url": "https://lepointdevente.com/billets/jhp261121001?lang=fr&fbclid=IwY2xjawUz7wtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVB1OWVLbHZhUzNmQzBFeEhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegMO3MZPj7SYtiNpjikNn10Gajz0zC53yXAkUwGkueHVtUDg-CH3kM_HHbvs_aem_YZpnId2GGbzZ1ccIeoSrcA",
       "description": "M pour Montréal, WB Musiques, Folivora Records et Rose Festival ...",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "02c639746bf9949c452efbbcf77f@montreal-independent-music": {
       "source": "has-things",
@@ -3665,7 +3639,7 @@
       "url": "https://www.venuepilot.co/en/events/174999/orders/new",
       "description": "Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0d0b46aee8ac5e9489713b0dace5@montreal-independent-music": {
       "source": "has-things",
@@ -3677,97 +3651,6 @@
       "address": "4848 boul. Saint-Laurent, Montréal, QC",
       "url": "https://www.venuepilot.co/en/events/180061/orders/new",
       "description": "Pop · Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "8fc1d2569dcdabf351a6f3147c0a@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "0c7f2a58-7ddc-4f92-8d71-1e8e2857365d",
-      "title": "PHENOMENA - Cartes blanches transatlantiques",
-      "start": "2026-10-18T19:00:00-04:00",
-      "end": null,
-      "venue": "La Sala Rossa",
-      "address": "4848 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://festivalphenomena.tuxedobillet.com/Web/cartes-blanches-transatlantique?_gl=1*1n4u3g9*_ga*NjU2Mjc4MzQ0LjE3OTAyODYxMjk.*_ga_5N4GC3W5NK*czE3OTAzNjkyOTckbzIkZzEkdDE3OTAzNzE5NDYkajU0JGwwJGgw",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "a4b9d4064bdf9332249bcdf45d2c@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "5efb3849-332b-4df4-8478-df0697f215a4",
-      "title": "Eternal Cycle",
-      "start": "2026-10-18T19:30:00-04:00",
-      "end": null,
-      "venue": "La Sotterenea",
-      "address": "4848 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://tickets.venuepilot.com/e/c-pablo-ochoa-pablo-s-ochoa-g-gmail-com-2026-10-16-la-sotterenea-montreal-0ecc9b",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "0f9f41aac67203eb9c678850b9f0@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5182",
-      "title": "PIERRO + Thierry TF",
-      "start": "2026-10-18T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://thepointofsale.com/tickets/pierro-quai-des-brumes?lang=en&fbclid=IwY2xjawUWqThwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR710SaURjBaYg6xDcpdAT9TsVPqs5KiMuxmbJIlWiVxDYonpEpGt9DmHj2EyQ_aem_7JFN3HOYp_SzfUn5qEbY6Q",
-      "description": "PIERRO présente son nouvel album : Balles de plomb pour ...",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "23ef38425b68e39040763a04c26c@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1951",
-      "title": "LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": null,
-      "venue": "StereoBar",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1951",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "4ac35dcfd16ee30c2e42dfa6b33d@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2025",
-      "title": "Sans Soleil",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": null,
-      "venue": "Sans Soleil",
-      "address": "52 rue Saint-Zotique E, Montréal, QC",
-      "url": "https://boomboom.today/events/2025",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "87497d4e81896d824feb854c1df0@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1816",
-      "title": "Octobre chez Système - Oct 18",
-      "start": "2026-10-18T21:00:00-04:00",
-      "end": null,
-      "venue": "Système, 719 Rue Saint-Hubert",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1816",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "26f7893d35d142c37b155ca2e464@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2133",
-      "title": "Electro Oasis (every Sunday) *Free with RSVP ticket*",
-      "start": "2026-10-18T22:00:00-04:00",
-      "end": null,
-      "venue": "Le Red Room, 2037 Saint Denis",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2133",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
       "missing_runs": 3
     },
@@ -3782,33 +3665,7 @@
       "url": "https://boomboom.today/events/1995",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "c7d67f72c174947c61b2d1fd95be@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "1b69b87e-68d7-460f-a6b3-8435d9d25575",
-      "title": "Bodaishin | Oli Vez | Pinch & Héléna",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": "2026-10-19T03:00:00-04:00",
-      "venue": "Stereobar",
-      "address": "856 St.Catherine Est, Montreal, QC, H2L 2E3, CA",
-      "url": "https://app.discotech.me/events/38287083-bodaishin-oli-vez-pinch-and-helena-at-stereo-bar",
-      "description": "Other · Bodaishin | Oli Vez | Pinch & Héléna is a music event at Stereobar. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "bc428556160f02d7fef8f70c7241@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "bab2dba4-f08e-43fd-8bde-d4e9ad14f4f8",
-      "title": "Sans Soleil: Rhizomatic",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": "2026-10-19T03:00:00-04:00",
-      "venue": "Sans Soleil",
-      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
-      "url": "https://www.rave.ca/en/event/57080/",
-      "description": "House · Sans Soleil: Rhizomatic is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a791cd2bf3a19ea7a8286b5cf275@montreal-independent-music": {
       "source": "wherehouse",
@@ -3821,7 +3678,7 @@
       "url": "https://www.rave.ca/en/event/57136/",
       "description": "House · Halloween - Plaisirs Sonores is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3fd136de03fb93134b7136ce02de@montreal-independent-music": {
       "source": "wherehouse",
@@ -3834,7 +3691,7 @@
       "url": "https://app.discotech.me/events/38287975-dj-frog-wetdogg-nautiluss-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for DJ Frog, wetdogg, Nautiluss at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "16ed7949f5f34103e92e4b64de02@montreal-independent-music": {
       "source": "wherehouse",
@@ -3847,7 +3704,7 @@
       "url": "https://www.rave.ca/en/event/57096/",
       "description": "House · Inedit By Underpulse is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "642760897c318bac50f8c12a766f@montreal-independent-music": {
       "source": "wherehouse",
@@ -3860,7 +3717,7 @@
       "url": "https://app.discotech.me/events/38284833-le-rotary-club-roh-balou-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Le Rotary Club, ROH, Balou at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0860665cd4115648093f932544d5@montreal-independent-music": {
       "source": "wherehouse",
@@ -3873,7 +3730,7 @@
       "url": "https://www.rave.ca/en/event/57070/",
       "description": "House, Techno · Sonora - Cabanne FR is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "575621aa546132b5996149b65a36@montreal-independent-music": {
       "source": "boomboom",
@@ -3886,7 +3743,7 @@
       "url": "https://boomboom.today/events/1965",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "9d1da3b1b09feb7af52eee118a6b@montreal-independent-music": {
       "source": "wherehouse",
@@ -3899,7 +3756,7 @@
       "url": "https://sat.qc.ca/en/events/mall-grab-2026",
       "description": "Latin · (Avec) Courage! presents: Mall Grab + DJ Cinéma Quartier Latin + Lia Plutonic · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "554265472546209420f6cbbe10a0@montreal-independent-music": {
       "source": "wherehouse",
@@ -3912,7 +3769,7 @@
       "url": "https://www.theatrefairmount.com/vnements/schrotthagen-theatre-fairmount/20261023-g3bn5-a4zkr-hwk6t-44pc7-td99j",
       "description": "Hard Techno, Techno, Trance · Neon presents Schrotthagen at Théâtre Fairmount. Techno, hard techno and trance. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "217eb3192b0a5e6a617a638d0209@montreal-independent-music": {
       "source": "boomboom",
@@ -3925,7 +3782,7 @@
       "url": "https://boomboom.today/events/1865",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 14
+      "missing_runs": 15
     },
     "bce234ce7f59fcb41eab3171248e@montreal-independent-music": {
       "source": "wherehouse",
@@ -3938,7 +3795,7 @@
       "url": "https://www.rave.ca/en/event/57003/",
       "description": "House · Open_Secret___ is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "374666cfe33e5219017d82f473a2@montreal-independent-music": {
       "source": "wherehouse",
@@ -3951,7 +3808,7 @@
       "url": "https://www.rave.ca/en/event/57163/",
       "description": "House, Techno · All Your Favorites, Back Again is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 18
+      "missing_runs": 19
     },
     "ee678c9fbe21c22af677ca1d7bf7@montreal-independent-music": {
       "source": "boomboom",
@@ -3964,7 +3821,7 @@
       "url": "https://boomboom.today/events/1991",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "08719cc7b3af6627b61f99210f62@montreal-independent-music": {
       "source": "wherehouse",
@@ -3977,7 +3834,7 @@
       "url": "https://app.discotech.me/events/38287973-subnoir-yaya-noel-syana-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Subnoir: Yaya, Noel, Syana at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "2b10c056d0de32391435634ec96a@montreal-independent-music": {
       "source": "wherehouse",
@@ -3990,7 +3847,7 @@
       "url": "https://www.rave.ca/en/event/57095/",
       "description": "House · Kinetic is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "36c3ab5bb89aa5ec56370f019665@montreal-independent-music": {
       "source": "wherehouse",
@@ -4003,7 +3860,7 @@
       "url": "https://www.rave.ca/en/event/56606/",
       "description": "Disco · Mundo Disko X Stereo: Horse Meat Disco (Day Dance) is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "ebaac8b33fbb913476bb828ba065@montreal-independent-music": {
       "source": "wherehouse",
@@ -4016,7 +3873,7 @@
       "url": "https://www.rave.ca/en/event/56897/",
       "description": "House · Canned Heat With Roland Gonzales is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "9d0dacb7763285a1e2747fa81175@montreal-independent-music": {
       "source": "wherehouse",
@@ -4029,7 +3886,7 @@
       "url": "https://www.rave.ca/en/event/57094/",
       "description": "House, Techno, Bass · Rave It Like The '90s (Extended) is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "4955daeefc5107c2a51262b50109@montreal-independent-music": {
       "source": "wherehouse",
@@ -4042,7 +3899,7 @@
       "url": "https://app.discotech.me/events/38287972-datcha-nonstop-ramzilla-gi-gi-tess-roby-and-numa-gama-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Datcha NONSTOP: Ramzilla, Gi Gi, Tess Roby & Numa Gama at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 31
+      "missing_runs": 32
     }
   }
 }
