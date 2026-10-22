@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T17:45:38.424001-04:00",
-  "count": 284,
-  "cancelled": 34,
+  "generated": "2026-10-22T00:53:35.518899-04:00",
+  "count": 296,
+  "cancelled": 25,
   "sources": {
-    "venues-and-festivals": 108,
+    "venues-and-festivals": 115,
     "ckut": 1,
     "quai-des-brumes": 12,
-    "electronic-and-raves": 95,
-    "underground-venues": 83
+    "electronic-and-raves": 93,
+    "underground-venues": 81
   },
   "errors": {}
 }
