@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:39:25.326057-04:00",
+  "updated": "2026-10-23T00:56:04.167787-04:00",
   "events": {
     "cb20365f200fc345908ddd5f5292@montreal-independent-music": {
       "source": "ckut",
@@ -11,32 +11,6 @@
       "address": "4848 boul. Saint-Laurent, Montréal, QC",
       "url": "https://ckut.ca/events/wefunk-30-year-anniversary-party-friday-october-23-2026/",
       "description": "CKUT's legendary hip-hop show, WEFUNK is turning 30 and we're throwing a party to celebrate!",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "1c7f47e052ebeabe292f06efbf88@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5178",
-      "title": "5@7 David Höff + invités – Lancement Aucun Regret",
-      "start": "2026-10-22T17:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/57-david-hoff-invites-lancement-aucun-regret/",
-      "description": "Où était David ?\r\n\"Su'a 20 entre Baie-St-Paul et St-Hyacinthe!\r\nQuelque part ...",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4cf81da172395a9b20ba48c4202c@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5261",
-      "title": "Mycelium + Canette",
-      "start": "2026-10-22T21:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://quaidesbrumes.ca/evenements/mycelium-canette/",
-      "description": "Mycelium: https://myceliumm.bandcamp.com/album/lenracinement\r\nCANETTE: https://canetteband.bandcamp.com/album/consignecore ...",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -170,133 +144,29 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ec5ec0342ebeae19a96c9be645c9@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1988",
-      "title": "EUPHORIUM: AMAZONIA",
-      "start": "2026-10-22T00:00:00-04:00",
+    "3691be8682eb2eb0043d50effd70@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5277",
+      "title": "Hestiaa x Ellaa + Cadmium",
+      "start": "2026-11-02T21:00:00-05:00",
       "end": null,
-      "venue": "Le Red Room, 2037 Saint Denis",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1988",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://www.eventbrite.ca/e/hestiaa-x-ellaa-and-cadmium-quai-des-brumes-tickets-2003320007069",
+      "description": "Après une tournée dans l’Est canadien cet été, Hestiaa x ...",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5f2dd11a8e433247440901be66bf@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1777",
-      "title": "___pet___ avec ladyliana",
-      "start": "2026-10-22T19:00:00-04:00",
+    "59fa0a1de7156a32c8fac9d6ee07@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5279",
+      "title": "5@7 L’écho du Quai | Erwan + Maude Loue + Sébastien Côté",
+      "start": "2026-11-03T17:00:00-05:00",
       "end": null,
-      "venue": "Théâtre Fairmount, 5240 Avenue du Parc, Montréal, QC H2V 4G7",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1777",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4da2ad08946bd7ee2e5a65243a4b@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1817",
-      "title": "Drink n Draw",
-      "start": "2026-10-22T19:00:00-04:00",
-      "end": null,
-      "venue": "Système, 719 Rue Saint-Hubert",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1817",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5ea77273e33c2f204813afe91809@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2275",
-      "title": "Salon Badin: Dusty FingerZ",
-      "start": "2026-10-22T19:00:00-04:00",
-      "end": null,
-      "venue": "Salon Badin",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2275",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5a810405c5b400b8d8bb4790ab9e@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2134",
-      "title": "Vino Disco THURSDAY: Alléa, Eldi, Legare",
-      "start": "2026-10-22T20:00:00-04:00",
-      "end": null,
-      "venue": "Vino Disco",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2134",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4473c5f30d63a70445c2c82f9706@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2256",
-      "title": "Sans Soleil w/ Silktits + Cidoine",
-      "start": "2026-10-22T20:00:00-04:00",
-      "end": null,
-      "venue": "Sans Soleil",
-      "address": "52 rue Saint-Zotique E, Montréal, QC",
-      "url": "https://boomboom.today/events/2256",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6017694b0d9d61ae5df7a96b7777@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1818",
-      "title": "Octobre chez Système - Oct 22",
-      "start": "2026-10-22T22:00:00-04:00",
-      "end": null,
-      "venue": "Système, 719 Rue Saint-Hubert",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1818",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ebadcae811f856c22b5a06a53799@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1819",
-      "title": "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt",
-      "start": "2026-10-22T22:00:00-04:00",
-      "end": null,
-      "venue": "Bar Datcha",
-      "address": "98 av. Laurier O, Montréal, QC",
-      "url": "https://boomboom.today/events/1819",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ea318fe88bcc2d90ee55b0c2e64e@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2301",
-      "title": "FERMENTA 002",
-      "start": "2026-10-22T22:00:00-04:00",
-      "end": null,
-      "venue": "Taverne La Remise",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2301",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "989ab0f00f57221085972ddc0455@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2291",
-      "title": "Kostello, Elicia Martin, Hopecore",
-      "start": "2026-10-22T22:30:00-04:00",
-      "end": null,
-      "venue": "Salon Daomé",
-      "address": "4465 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://boomboom.today/events/2291",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/57-lecho-du-quai-erwan-maude-loue-sebastien-cote/",
+      "description": "Erwan\r\nForce tranquille, Erwan fait du folk alternatif qui caresse puis ...",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -1379,55 +1249,133 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "509c982992a29b7a6347c719a734@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "f6261b27-4bc5-405e-aa97-a65990ea3bfe",
-      "title": "james K and Eliana Glass",
-      "start": "2026-10-22T19:00:00-04:00",
-      "end": "2026-10-22T22:30:00-04:00",
-      "venue": "Theatre Fairmount",
-      "address": "5240 Avenue du Parc, Montreal, QC",
-      "url": "https://palomosa.com/en/event/2026-palomosa-presente-22-10-2026",
-      "description": "Other · james K and Eliana Glass at Théâtre Fairmount. Official Palomosa Presents show. · Discovered via Wherehouse",
+    "262db86e52ffdb7d479991ea3e42@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2190",
+      "title": "Blueroom x Waterfront (Backwater) Halloween All night Special",
+      "start": "2026-10-31T19:00:00-04:00",
+      "end": null,
+      "venue": "Blue Room",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2190",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "754ee7a4e0ba9e66ab22c9001a07@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "2c1ec91f-4038-4125-aa22-965484e1c150",
-      "title": "SUR MESURE, DANS LE DÔME x ICI Musique - ANYMA ORA’",
-      "start": "2026-10-22T19:30:00-04:00",
-      "end": "2026-10-22T23:00:00-04:00",
-      "venue": "SAT",
-      "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
-      "url": "https://sat.qc.ca/en/events/sur-mesure-dans-le-dome-x-ici-musique-anyma-ora-2026",
-      "description": "Other · On October 22, Radio-Canada and the SAT invite you to step into the magnetic world of ANYMA ORA’, one of Radio-Canada’s 2026-2027 Revelations, for a one-of-a-kind “Sur Mesure” concert. The artist will take over the dome... · Discovered via Wherehouse",
+    "1ddbf957771451e5f864d214a550@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2285",
+      "title": "Salon Badin: Desbike",
+      "start": "2026-10-31T19:00:00-04:00",
+      "end": null,
+      "venue": "Salon Badin",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2285",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "1cf44cfda93fd6912e42942dc1e5@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "e6ae2e9c-6059-41df-8b8c-548c225598eb",
-      "title": "Sans Soleil: Silktits, Cidoine",
-      "start": "2026-10-22T20:00:00-04:00",
-      "end": "2026-10-23T03:00:00-04:00",
-      "venue": "Sans Soleil",
-      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
-      "url": "https://www.rave.ca/en/event/57216/",
-      "description": "House · Sans Soleil: Silktits, Cidoine is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
+    "3ebe54b1480ce482578bbe9d6195@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2200",
+      "title": "REQUIEM V: The Hands of Time | FrontRite Halloween",
+      "start": "2026-10-31T19:30:00-04:00",
+      "end": null,
+      "venue": "Le Sainte-Catherine Hall",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2200",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9ea25b3265f380dfb87d43e72873@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "008d0e43-315d-4c2a-9fbc-04631b5684cb",
-      "title": "G L O W Z I, Raylhem & Jey Syano",
-      "start": "2026-10-22T22:00:00-04:00",
-      "end": "2026-10-23T03:00:00-04:00",
-      "venue": "Bar Datcha",
-      "address": "98 Av. Laurier O, Montreal, QC, CA",
-      "url": "https://app.discotech.me/events/38284832-g-l-o-w-z-i-raylhem-and-jey-syano-at-bar-datcha",
-      "description": "House, Techno · Buy tickets, bottle service & guest list for G L O W Z I, Raylhem & Jey Syano at Bar Datcha in Montreal · Discovered via Wherehouse",
+    "fca4be8cd758dae629b64f1d8fb4@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2189",
+      "title": "HALLOWEEN: UNE NUIT AU Vino Disco (EXTENDED 6AM)",
+      "start": "2026-10-31T20:00:00-04:00",
+      "end": null,
+      "venue": "Vino Disco",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2189",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "04364ba019b0941b2bcddd7aca4f@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2237",
+      "title": "Spectre",
+      "start": "2026-10-31T20:00:00-04:00",
+      "end": null,
+      "venue": "La Gare Dalhousie",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2237",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b7a70e01c25ca8056f9f86d40ce5@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2012",
+      "title": "Halloween with Martial Canterel, Aalan Harman, Liz Wendelbo b2b L.Sangre & Void Republic",
+      "start": "2026-10-31T21:00:00-04:00",
+      "end": null,
+      "venue": "Red Roof Church",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2012",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "18e63c678f0b8a4ef6cee541ae0a@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2286",
+      "title": "⭐️SANCTUARY 2026 ⭐️ SOLD OUT ⭐️",
+      "start": "2026-10-31T21:00:00-04:00",
+      "end": null,
+      "venue": "Bain Mathieu",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2286",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "8d4cc44ac8af6156fa91259ed5a9@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1917",
+      "title": "ApologIA - Slop Horror Edition",
+      "start": "2026-10-31T22:00:00-04:00",
+      "end": null,
+      "venue": "TBA",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1917",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e50f2e7863a7d70ae28a5750e30a@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1966",
+      "title": "Ferias Halloween 'Til Sunrise",
+      "start": "2026-10-31T22:00:00-04:00",
+      "end": null,
+      "venue": "TBA - down by the water",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1966",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "eb14a677c3f4134b030407b600f6@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2005",
+      "title": "Octobre chez Système - Oct 31",
+      "start": "2026-10-31T22:00:00-04:00",
+      "end": null,
+      "venue": "Système, 719 Rue Saint-Hubert",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2005",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2276,31 +2224,200 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "67f1618579de2b99819f0658f32e@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "694d05cf-357e-4747-a1a5-3cd769388044",
-      "title": "Blue Skies Turn Black Présente: Dead Gowns + Sunray Minor",
-      "start": "2026-10-21T20:00:00-04:00",
+    "1c7f47e052ebeabe292f06efbf88@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5178",
+      "title": "5@7 David Höff + invités – Lancement Aucun Regret",
+      "start": "2026-10-22T17:00:00-04:00",
       "end": null,
-      "venue": "P'tit Ours",
-      "address": "5589 av. du Parc, Montréal, QC",
-      "url": "https://t.venuepilot.com/e/blue-skies-turn-black-presente-dead-gowns-2026-10-21-p-tit-ours-montreal-25dec8",
-      "description": "Folk · Data: Has Things (hasthings.com), ODbL 1.0",
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/57-david-hoff-invites-lancement-aucun-regret/",
+      "description": "Où était David ?\r\n\"Su'a 20 entre Baie-St-Paul et St-Hyacinthe!\r\nQuelque part ...",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 1
     },
-    "80fce4fc78f43d3198496ae76bcc@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "0ccf895f-3be4-4dcf-bbf6-5fd55b9673d0",
-      "title": "Édouard Tremblay-Grenier , Francois Roberge",
-      "start": "2026-10-21T20:00:00-04:00",
+    "4cf81da172395a9b20ba48c4202c@montreal-independent-music": {
+      "source": "quai-des-brumes",
+      "source_id": "5261",
+      "title": "Mycelium + Canette",
+      "start": "2026-10-22T21:00:00-04:00",
       "end": null,
-      "venue": "Casa del Popolo",
-      "address": "4873 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/180806/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "venue": "Quai des Brumes",
+      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
+      "url": "https://quaidesbrumes.ca/evenements/mycelium-canette/",
+      "description": "Mycelium: https://myceliumm.bandcamp.com/album/lenracinement\r\nCANETTE: https://canetteband.bandcamp.com/album/consignecore ...",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 1
+    },
+    "5f2dd11a8e433247440901be66bf@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1777",
+      "title": "___pet___ avec ladyliana",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": null,
+      "venue": "Théâtre Fairmount, 5240 Avenue du Parc, Montréal, QC H2V 4G7",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1777",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "4da2ad08946bd7ee2e5a65243a4b@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1817",
+      "title": "Drink n Draw",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": null,
+      "venue": "Système, 719 Rue Saint-Hubert",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1817",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5ea77273e33c2f204813afe91809@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2275",
+      "title": "Salon Badin: Dusty FingerZ",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": null,
+      "venue": "Salon Badin",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2275",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5a810405c5b400b8d8bb4790ab9e@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2134",
+      "title": "Vino Disco THURSDAY: Alléa, Eldi, Legare",
+      "start": "2026-10-22T20:00:00-04:00",
+      "end": null,
+      "venue": "Vino Disco",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2134",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "4473c5f30d63a70445c2c82f9706@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2256",
+      "title": "Sans Soleil w/ Silktits + Cidoine",
+      "start": "2026-10-22T20:00:00-04:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "52 rue Saint-Zotique E, Montréal, QC",
+      "url": "https://boomboom.today/events/2256",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6017694b0d9d61ae5df7a96b7777@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1818",
+      "title": "Octobre chez Système - Oct 22",
+      "start": "2026-10-22T22:00:00-04:00",
+      "end": null,
+      "venue": "Système, 719 Rue Saint-Hubert",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/1818",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ebadcae811f856c22b5a06a53799@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "1819",
+      "title": "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt",
+      "start": "2026-10-22T22:00:00-04:00",
+      "end": null,
+      "venue": "Bar Datcha",
+      "address": "98 av. Laurier O, Montréal, QC",
+      "url": "https://boomboom.today/events/1819",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ea318fe88bcc2d90ee55b0c2e64e@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2301",
+      "title": "FERMENTA 002",
+      "start": "2026-10-22T22:00:00-04:00",
+      "end": null,
+      "venue": "Taverne La Remise",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2301",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "989ab0f00f57221085972ddc0455@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2291",
+      "title": "Kostello, Elicia Martin, Hopecore",
+      "start": "2026-10-22T22:30:00-04:00",
+      "end": null,
+      "venue": "Salon Daomé",
+      "address": "4465 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://boomboom.today/events/2291",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "509c982992a29b7a6347c719a734@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "f6261b27-4bc5-405e-aa97-a65990ea3bfe",
+      "title": "james K and Eliana Glass",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": "2026-10-22T22:30:00-04:00",
+      "venue": "Theatre Fairmount",
+      "address": "5240 Avenue du Parc, Montreal, QC",
+      "url": "https://palomosa.com/en/event/2026-palomosa-presente-22-10-2026",
+      "description": "Other · james K and Eliana Glass at Théâtre Fairmount. Official Palomosa Presents show. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "754ee7a4e0ba9e66ab22c9001a07@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "2c1ec91f-4038-4125-aa22-965484e1c150",
+      "title": "SUR MESURE, DANS LE DÔME x ICI Musique - ANYMA ORA’",
+      "start": "2026-10-22T19:30:00-04:00",
+      "end": "2026-10-22T23:00:00-04:00",
+      "venue": "SAT",
+      "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
+      "url": "https://sat.qc.ca/en/events/sur-mesure-dans-le-dome-x-ici-musique-anyma-ora-2026",
+      "description": "Other · On October 22, Radio-Canada and the SAT invite you to step into the magnetic world of ANYMA ORA’, one of Radio-Canada’s 2026-2027 Revelations, for a one-of-a-kind “Sur Mesure” concert. The artist will take over the dome... · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "1cf44cfda93fd6912e42942dc1e5@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "e6ae2e9c-6059-41df-8b8c-548c225598eb",
+      "title": "Sans Soleil: Silktits, Cidoine",
+      "start": "2026-10-22T20:00:00-04:00",
+      "end": "2026-10-23T03:00:00-04:00",
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/event/57216/",
+      "description": "House · Sans Soleil: Silktits, Cidoine is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9ea25b3265f380dfb87d43e72873@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "008d0e43-315d-4c2a-9fbc-04631b5684cb",
+      "title": "G L O W Z I, Raylhem & Jey Syano",
+      "start": "2026-10-22T22:00:00-04:00",
+      "end": "2026-10-23T03:00:00-04:00",
+      "venue": "Bar Datcha",
+      "address": "98 Av. Laurier O, Montreal, QC, CA",
+      "url": "https://app.discotech.me/events/38284832-g-l-o-w-z-i-raylhem-and-jey-syano-at-bar-datcha",
+      "description": "House, Techno · Buy tickets, bottle service & guest list for G L O W Z I, Raylhem & Jey Syano at Bar Datcha in Montreal · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
     "84fe491223b73a4494076f44dc72@montreal-independent-music": {
       "source": "has-things",
@@ -2313,7 +2430,7 @@
       "url": "https://www.venuepilot.co/en/events/174251/orders/new",
       "description": "Folk · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f1d884fa75db5cf3e997c8942501@montreal-independent-music": {
       "source": "has-things",
@@ -2326,7 +2443,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-alexy-prefontaine-madridexit-outlook-com-2026-10-22-la-sotterenea-montreal-5b84f7",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d879e8239c632d1067b97b4831b4@montreal-independent-music": {
       "source": "has-things",
@@ -2339,7 +2456,7 @@
       "url": "https://www.venuepilot.co/en/events/189431/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4aed824928b5595763e6081cd22f@montreal-independent-music": {
       "source": "has-things",
@@ -2352,7 +2469,7 @@
       "url": "https://www.venuepilot.co/en/events/173729/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "279349aa52bfe74eedff6de224fe@montreal-independent-music": {
       "source": "has-things",
@@ -2365,7 +2482,7 @@
       "url": "https://www.venuepilot.co/en/events/199667/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d1e7e20ca2d5c89cffc04d646df7@montreal-independent-music": {
       "source": "has-things",
@@ -2378,7 +2495,7 @@
       "url": "https://www.venuepilot.co/en/events/200998/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "17a1f24e9912ce14201637a9cd1e@montreal-independent-music": {
       "source": "has-things",
@@ -2391,7 +2508,7 @@
       "url": "https://wf30.eventbrite.com/",
       "description": "Hip Hop / Rap · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c5b25739b039c0c19d7885a625f8@montreal-independent-music": {
       "source": "has-things",
@@ -2404,7 +2521,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-good-question-goodquestn-gmail-com-2026-10-24-la-sala-rossa-montreal-ca0084",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "541d9bceb3e80b33aa277b43a84e@montreal-independent-music": {
       "source": "has-things",
@@ -2417,7 +2534,7 @@
       "url": "https://www.venuepilot.co/en/events/168572/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4de65d04f2f0f9e1fbd8ee62249f@montreal-independent-music": {
       "source": "has-things",
@@ -2430,7 +2547,7 @@
       "url": "https://www.venuepilot.co/en/events/183937/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6b6fc943758cfdb377746a18f914@montreal-independent-music": {
       "source": "has-things",
@@ -2443,7 +2560,7 @@
       "url": "https://www.venuepilot.co/en/events/168369/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "223351448714cc3b167a29ce7678@montreal-independent-music": {
       "source": "has-things",
@@ -2456,7 +2573,7 @@
       "url": "https://www.venuepilot.co/en/events/184906/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c898fd676c5128ad7a65f05df6f3@montreal-independent-music": {
       "source": "has-things",
@@ -2469,7 +2586,7 @@
       "url": "https://www.venuepilot.co/en/events/183502/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "98c98a3e3784d8deab9a8d2ee236@montreal-independent-music": {
       "source": "has-things",
@@ -2482,7 +2599,7 @@
       "url": "https://www.venuepilot.co/en/events/184522/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "65ad7fafb93db709e1f508c1320e@montreal-independent-music": {
       "source": "has-things",
@@ -2495,7 +2612,7 @@
       "url": "https://t.venuepilot.com/e/lancement-de-recueil-la-steppe-2026-10-26-la-sala-rossa-montreal-cf5c86",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f1df36a084b9ce4d2194010e5963@montreal-independent-music": {
       "source": "has-things",
@@ -2508,7 +2625,7 @@
       "url": "https://www.venuepilot.co/en/events/190347/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8e64ee155332613465a4245a1189@montreal-independent-music": {
       "source": "has-things",
@@ -2521,7 +2638,7 @@
       "url": "https://www.venuepilot.co/en/events/200560/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3705749179d86c73c76a463560f6@montreal-independent-music": {
       "source": "has-things",
@@ -2534,7 +2651,7 @@
       "url": "https://www.venuepilot.co/en/events/177637/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "831501e51e268e34d1e22d907220@montreal-independent-music": {
       "source": "has-things",
@@ -2547,7 +2664,7 @@
       "url": "https://t.venuepilot.com/e/anguilles-lancement-de-ep-hote-2026-10-27-la-sotterenea-montreal-e8866f",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d1c81f3fad2312395f40327262cd@montreal-independent-music": {
       "source": "has-things",
@@ -2560,7 +2677,7 @@
       "url": "https://www.venuepilot.co/en/events/186291/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "adc7c1d37a5344d4dcf9ed896852@montreal-independent-music": {
       "source": "has-things",
@@ -2573,7 +2690,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-alexander-haupt-aks-haupt-gmail-com-2026-10-28-la-sala-rossa-montreal-7cd2a6",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "eb06dddad850b23d1cc2e5c53dfb@montreal-independent-music": {
       "source": "has-things",
@@ -2586,7 +2703,7 @@
       "url": "https://www.venuepilot.co/en/events/193888/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a61b2342cb44d873b97feba40505@montreal-independent-music": {
       "source": "has-things",
@@ -2599,7 +2716,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-naomi-silver-vezina-naomi-sv-outlook-com-2026-10-28-casa-del-popolo-montreal-de57fd",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0c8f07f6199471ea74c166ad794f@montreal-independent-music": {
       "source": "has-things",
@@ -2612,7 +2729,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-mali-obomsawin-mgmt-maliobomsawin-com-2026-10-28-la-sotterenea-montreal-7fff51",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "862368040b0e259caf1b480d862b@montreal-independent-music": {
       "source": "has-things",
@@ -2625,7 +2742,7 @@
       "url": "https://www.venuepilot.co/en/events/189887/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "916a9534e838147e27c8f953707f@montreal-independent-music": {
       "source": "has-things",
@@ -2638,7 +2755,7 @@
       "url": "https://www.venuepilot.co/en/events/197071/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b6de7a434f34138ef47a97bd759e@montreal-independent-music": {
       "source": "has-things",
@@ -2651,7 +2768,7 @@
       "url": "https://tickets.venuepilot.com/e/3h-saint-willow-soundofwillows-gmail-com-2026-10-30-casa-del-popolo-montreal-5c0ff3",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3c3ed3e47e9c54154252e38bde6c@montreal-independent-music": {
       "source": "has-things",
@@ -2664,7 +2781,7 @@
       "url": "https://t.venuepilot.com/e/ella-aslin-for-the-life-of-me-tour-with-bella-galasso-and-grace-clark-2026-10-30-p-tit-ours-montreal-a76fdd",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "357a358a1a99a90016187147a04b@montreal-independent-music": {
       "source": "has-things",
@@ -2677,7 +2794,7 @@
       "url": "https://www.venuepilot.co/en/events/187167/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b38d7cbf61d501ba4ea9dc8c83ac@montreal-independent-music": {
       "source": "has-things",
@@ -2690,7 +2807,7 @@
       "url": "https://lepointdevente.com/billets/i9b261031001?lang=fr",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2770546680e886711bd71b5ac998@montreal-independent-music": {
       "source": "has-things",
@@ -2703,7 +2820,7 @@
       "url": "https://www.venuepilot.co/en/events/169300/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "744e54aa0f83802451e1ffde84dd@montreal-independent-music": {
       "source": "has-things",
@@ -2716,7 +2833,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-inprosperous-girouard-inprosperousgirouard-gmail-com-2026-10-31-casa-del-popolo-montreal-609d04",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "bf298828a4a60e1097149f5e4866@montreal-independent-music": {
       "source": "has-things",
@@ -2729,7 +2846,7 @@
       "url": "https://t.venuepilot.com/e/baile-macabre-2026-10-31-la-sotterenea-montreal-e487c7",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d7bb2481fe5a7d3bf6941471c080@montreal-independent-music": {
       "source": "has-things",
@@ -2742,7 +2859,7 @@
       "url": "https://www.venuepilot.co/en/events/174776/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "85140399594d68ba49496b6b8c47@montreal-independent-music": {
       "source": "has-things",
@@ -2755,7 +2872,7 @@
       "url": "https://www.venuepilot.co/en/events/199228/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "982576c280cac0a02e7cda272263@montreal-independent-music": {
       "source": "has-things",
@@ -2768,7 +2885,7 @@
       "url": "https://tickets.venuepilot.com/e/ancrage-alexandra-moreno-lancement-2026-11-02-la-sala-rossa-montreal-dcb495",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "9e16aeb807a2a08d25c9532f19c0@montreal-independent-music": {
       "source": "has-things",
@@ -2781,7 +2898,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-matthew-hawkins-mattmhawkins14-gmail-com-2026-11-02-casa-del-popolo-montreal-ec0439",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8a0c3c221cc7b62a5cf9f0456eb1@montreal-independent-music": {
       "source": "has-things",
@@ -2794,7 +2911,7 @@
       "url": "https://www.venuepilot.co/en/events/193763/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "cd08dfb9b12b78663eaea3cd7d90@montreal-independent-music": {
       "source": "has-things",
@@ -2807,7 +2924,7 @@
       "url": "https://www.venuepilot.co/en/events/194446/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "57a2b84088a756e65eeab2fff4df@montreal-independent-music": {
       "source": "has-things",
@@ -2820,7 +2937,7 @@
       "url": "https://www.venuepilot.co/en/events/196381/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "90d89cfb11892627f069b4948ebf@montreal-independent-music": {
       "source": "has-things",
@@ -2833,7 +2950,7 @@
       "url": "https://tickets.venuepilot.com/e/blue-skies-turn-black-presente-paper-wings-2026-11-04-casa-del-popolo-montreal-65127a",
       "description": "Folk · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "138c7c09021b4e4aaff5f20b38bd@montreal-independent-music": {
       "source": "has-things",
@@ -2846,7 +2963,7 @@
       "url": "https://www.venuepilot.co/en/events/173910/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "9ee5e5bc93c974f8abb451f0e3a5@montreal-independent-music": {
       "source": "has-things",
@@ -2859,7 +2976,7 @@
       "url": "https://www.universe.com/events/sweeping-promises-tickets-CHLYW8?ref=ticketmaster",
       "description": "Alternative · Indie Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "7a7e10043fae0d6f8288be7dface@montreal-independent-music": {
       "source": "has-things",
@@ -2872,7 +2989,7 @@
       "url": "https://www.venuepilot.co/en/events/176445/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "959a4c0cb04d3102e057e853c585@montreal-independent-music": {
       "source": "has-things",
@@ -2885,7 +3002,7 @@
       "url": "https://t.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "804ea28801762e1a66670abd1ac2@montreal-independent-music": {
       "source": "has-things",
@@ -2898,7 +3015,7 @@
       "url": "https://www.venuepilot.co/en/events/170363/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b921460bfdcf1e16fe1453a367f6@montreal-independent-music": {
       "source": "has-things",
@@ -2911,7 +3028,7 @@
       "url": "https://www.venuepilot.co/en/events/194976/orders/new",
       "description": "Indie · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "27042e5a2e2723fca5364bb8db5b@montreal-independent-music": {
       "source": "has-things",
@@ -2924,7 +3041,7 @@
       "url": "https://lepointdevente.com/billets/ccf26-jonquille-chloejb",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c0018c5476279de63baaecff3d7f@montreal-independent-music": {
       "source": "has-things",
@@ -2937,7 +3054,7 @@
       "url": "https://www.venuepilot.co/en/events/191979/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d68cce3c08325bbe20ac5d29ceb0@montreal-independent-music": {
       "source": "has-things",
@@ -2950,7 +3067,7 @@
       "url": "https://www.venuepilot.co/en/events/190982/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "33b9ae52672edcf59d736155a47d@montreal-independent-music": {
       "source": "has-things",
@@ -2963,7 +3080,7 @@
       "url": "https://www.venuepilot.co/en/events/173241/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "9cad9b1b9957c5d2f212ae09e8c8@montreal-independent-music": {
       "source": "has-things",
@@ -2976,7 +3093,7 @@
       "url": "https://www.venuepilot.co/en/events/183409/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a572b1ea8fdfd7eb6332faa92441@montreal-independent-music": {
       "source": "has-things",
@@ -2989,7 +3106,7 @@
       "url": "https://www.venuepilot.co/en/events/176457/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6d538a269af9adc8b42c1c9e79e0@montreal-independent-music": {
       "source": "has-things",
@@ -3002,7 +3119,7 @@
       "url": "https://www.venuepilot.co/en/events/189696/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "788ee552a00b8e9777258eb93de5@montreal-independent-music": {
       "source": "has-things",
@@ -3015,7 +3132,7 @@
       "url": "https://www.venuepilot.co/en/events/186970/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "447ebd800064f97b559cd109a01d@montreal-independent-music": {
       "source": "has-things",
@@ -3028,7 +3145,7 @@
       "url": "https://www.venuepilot.co/en/events/190172/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a59287edeb49c2ba4aa027582ddb@montreal-independent-music": {
       "source": "has-things",
@@ -3041,7 +3158,7 @@
       "url": "https://www.venuepilot.co/en/events/191656/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "58bbbd159e488f9bd8eb9b3dcfff@montreal-independent-music": {
       "source": "has-things",
@@ -3054,7 +3171,7 @@
       "url": "https://www.venuepilot.co/en/events/190462/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d6c01b8b02c1fc52ee3d7eb0c1d4@montreal-independent-music": {
       "source": "has-things",
@@ -3067,7 +3184,7 @@
       "url": "https://lepointdevente.com/billets/ccf26-noelira-lapeluda",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d2d40aa859c9e0148a3e9ea073aa@montreal-independent-music": {
       "source": "has-things",
@@ -3080,7 +3197,7 @@
       "url": "https://www.venuepilot.co/en/events/193504/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a62ca7d9dd2783e8ed907157537c@montreal-independent-music": {
       "source": "has-things",
@@ -3093,7 +3210,7 @@
       "url": "https://www.venuepilot.co/en/events/202643/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c5c6eecefc421d641102b54966ea@montreal-independent-music": {
       "source": "has-things",
@@ -3106,7 +3223,7 @@
       "url": "https://www.venuepilot.co/en/events/176252/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "85ba848b0d55860f3841fac1c8bf@montreal-independent-music": {
       "source": "has-things",
@@ -3119,7 +3236,7 @@
       "url": "https://www.venuepilot.co/en/events/191986/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "cf2e9dd57fd8e1e410a8eb4f1043@montreal-independent-music": {
       "source": "has-things",
@@ -3132,7 +3249,7 @@
       "url": "https://www.venuepilot.co/en/events/202626/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "63ea49c01033761d4280880d3347@montreal-independent-music": {
       "source": "has-things",
@@ -3145,7 +3262,7 @@
       "url": "https://www.venuepilot.co/en/events/188682/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "665af2948bd26fa382b02743532d@montreal-independent-music": {
       "source": "has-things",
@@ -3158,7 +3275,7 @@
       "url": "https://www.venuepilot.co/en/events/171508/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "5165ff593635c831737ce9e4fd04@montreal-independent-music": {
       "source": "has-things",
@@ -3171,7 +3288,7 @@
       "url": "https://www.venuepilot.co/en/events/193502/orders/new",
       "description": "Alternative · Indie Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "091fce0af1a250f8ec9f71831594@montreal-independent-music": {
       "source": "has-things",
@@ -3184,7 +3301,7 @@
       "url": "https://lepointdevente.com/billets/duu-nanaquinn-ccf26",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f38a0c47986eb5f776482cf085ef@montreal-independent-music": {
       "source": "has-things",
@@ -3197,7 +3314,7 @@
       "url": "https://www.venuepilot.co/en/events/186366/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0de92644828301fdb9381fc48c57@montreal-independent-music": {
       "source": "has-things",
@@ -3210,7 +3327,7 @@
       "url": "https://www.venuepilot.co/en/events/193915/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e27579d5c720ff35956bc844b9b7@montreal-independent-music": {
       "source": "has-things",
@@ -3223,7 +3340,7 @@
       "url": "https://www.venuepilot.co/en/events/191296/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f15f8ef139705ec15943bf59fea8@montreal-independent-music": {
       "source": "has-things",
@@ -3236,7 +3353,7 @@
       "url": "https://www.venuepilot.co/en/events/180576/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a073cbb9f40affa1e666e8e94f70@montreal-independent-music": {
       "source": "has-things",
@@ -3249,7 +3366,7 @@
       "url": "https://www.venuepilot.co/en/events/177001/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "dd8c8caa0a125f0b21aba7fd7dd0@montreal-independent-music": {
       "source": "has-things",
@@ -3262,7 +3379,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-clay-jamesclaytoninfo-gmail-com-2026-11-13-la-sala-rossa-montreal-2d266b",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "625f103b0229e7e69feb3201a3a8@montreal-independent-music": {
       "source": "has-things",
@@ -3275,7 +3392,7 @@
       "url": "https://www.venuepilot.co/en/events/157738/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c3a26e666c49ca94e44e5be2befb@montreal-independent-music": {
       "source": "has-things",
@@ -3288,7 +3405,7 @@
       "url": "https://www.venuepilot.co/en/events/174131/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0d46284aca61f97a929d7d5b3474@montreal-independent-music": {
       "source": "has-things",
@@ -3301,7 +3418,7 @@
       "url": "https://www.venuepilot.co/en/events/200414/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f13282a152a877c9f4ae8144b956@montreal-independent-music": {
       "source": "has-things",
@@ -3314,7 +3431,7 @@
       "url": "https://www.venuepilot.co/en/events/133569/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3f8bd6d0772cd8aa2e4f56dcc195@montreal-independent-music": {
       "source": "has-things",
@@ -3327,7 +3444,7 @@
       "url": "https://www.venuepilot.co/en/events/193571/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6434a1bcfa33049f1ad93e874a64@montreal-independent-music": {
       "source": "has-things",
@@ -3340,7 +3457,7 @@
       "url": "https://www.venuepilot.co/en/events/188680/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "7881a2b632d350afe0055ea79136@montreal-independent-music": {
       "source": "has-things",
@@ -3353,7 +3470,7 @@
       "url": "https://www.venuepilot.co/en/events/200729/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2e4db28c79683dd4e6596e4455ed@montreal-independent-music": {
       "source": "has-things",
@@ -3366,7 +3483,7 @@
       "url": "https://www.venuepilot.co/en/events/193385/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8a5205b88cc6f38c37160f776696@montreal-independent-music": {
       "source": "has-things",
@@ -3379,7 +3496,7 @@
       "url": "https://tickets.venuepilot.com/e/6h-james-ivy-david-blueskiesturnblack-com-2026-11-16-la-sotterenea-montreal-d71544",
       "description": "Alternative · Alternative Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "22b6c3399aea279b3c3a66282324@montreal-independent-music": {
       "source": "has-things",
@@ -3392,7 +3509,7 @@
       "url": "https://lepointdevente.com/billets/z6q261117003",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a4652a2098731d1355c4234eb2ee@montreal-independent-music": {
       "source": "has-things",
@@ -3405,7 +3522,7 @@
       "url": "https://www.venuepilot.co/en/events/196816/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "87b7f2e3dc30f22da021205acf71@montreal-independent-music": {
       "source": "has-things",
@@ -3418,7 +3535,7 @@
       "url": "https://www.venuepilot.co/en/events/197554/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "db626cad0105da6554f6f6270854@montreal-independent-music": {
       "source": "has-things",
@@ -3431,7 +3548,7 @@
       "url": "https://www.venuepilot.co/en/events/197444/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "30ba6b5c88ceed8e2516e22d4001@montreal-independent-music": {
       "source": "has-things",
@@ -3444,7 +3561,7 @@
       "url": "https://www.venuepilot.co/en/events/197443/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e8953220e46a0e6350e46b013713@montreal-independent-music": {
       "source": "has-things",
@@ -3457,7 +3574,7 @@
       "url": "https://www.venuepilot.co/en/events/192457/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "1db557f4d028d27e9c13809307c8@montreal-independent-music": {
       "source": "has-things",
@@ -3470,7 +3587,7 @@
       "url": "https://www.venuepilot.co/en/events/195107/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "124f251710b101745375719e9851@montreal-independent-music": {
       "source": "has-things",
@@ -3483,7 +3600,7 @@
       "url": "https://tickets.venuepilot.com/e/c-laurie-thibault-laurie-avalancheprod-com-2026-11-20-la-sala-rossa-montreal-337fbc",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "238a7fbc39eeb3ba5a611e8fe6f0@montreal-independent-music": {
       "source": "has-things",
@@ -3496,7 +3613,7 @@
       "url": "https://www.venuepilot.co/en/events/195108/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3f6e61a3653e3834aaa7e88a802a@montreal-independent-music": {
       "source": "has-things",
@@ -3509,7 +3626,7 @@
       "url": "https://www.venuepilot.co/en/events/189688/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e23db20fbda27f3e0c322cf621cf@montreal-independent-music": {
       "source": "has-things",
@@ -3522,7 +3639,7 @@
       "url": "https://www.venuepilot.co/en/events/192464/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3765826b13ec311a06d8d040deca@montreal-independent-music": {
       "source": "has-things",
@@ -3535,7 +3652,7 @@
       "url": "https://www.venuepilot.co/en/events/186925/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b0e99f5999069d47e78f63510f66@montreal-independent-music": {
       "source": "has-things",
@@ -3548,7 +3665,7 @@
       "url": "https://www.venuepilot.co/en/events/169093/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "71f7157bff3ec9f0b3048e9216f5@montreal-independent-music": {
       "source": "has-things",
@@ -3561,7 +3678,7 @@
       "url": "https://www.venuepilot.co/en/events/178334/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f60fba62b73504d35e315f248aee@montreal-independent-music": {
       "source": "has-things",
@@ -3574,7 +3691,7 @@
       "url": "https://www.venuepilot.co/en/events/191940/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0dd3fd7c8efa06aa99a838d2cc72@montreal-independent-music": {
       "source": "has-things",
@@ -3587,7 +3704,7 @@
       "url": "https://www.venuepilot.co/en/events/200864/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3a4294215f9e26ff0e2a6ece41a5@montreal-independent-music": {
       "source": "has-things",
@@ -3600,7 +3717,7 @@
       "url": "https://www.venuepilot.co/en/events/193896/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "02c639746bf9949c452efbbcf77f@montreal-independent-music": {
       "source": "has-things",
@@ -3613,7 +3730,7 @@
       "url": "https://www.venuepilot.co/en/events/174999/orders/new",
       "description": "Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0d0b46aee8ac5e9489713b0dace5@montreal-independent-music": {
       "source": "has-things",
@@ -3626,7 +3743,7 @@
       "url": "https://www.venuepilot.co/en/events/180061/orders/new",
       "description": "Pop · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "7a82ece350112f2f49fcceb10f28@montreal-independent-music": {
       "source": "has-things",
@@ -3639,7 +3756,7 @@
       "url": "https://www.venuepilot.co/en/events/185844/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "13ad7beb29c9e6a5b8926d84abec@montreal-independent-music": {
       "source": "has-things",
@@ -3652,7 +3769,7 @@
       "url": "https://www.venuepilot.co/en/events/170903/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "5b34eeb4a190bbdb1e18e12ec34f@montreal-independent-music": {
       "source": "has-things",
@@ -3665,7 +3782,7 @@
       "url": "https://www.venuepilot.co/en/events/170903/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d9d80fae7c3a2f70563294e5ada7@montreal-independent-music": {
       "source": "has-things",
@@ -3678,7 +3795,7 @@
       "url": "https://www.venuepilot.co/en/events/192311/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a2c69ebaef7e761d3ab681ca278f@montreal-independent-music": {
       "source": "has-things",
@@ -3691,7 +3808,7 @@
       "url": "https://www.venuepilot.co/en/events/192153/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "bcdf2978573d84b94cad16e314f1@montreal-independent-music": {
       "source": "has-things",
@@ -3704,7 +3821,7 @@
       "url": "https://www.venuepilot.co/en/events/182719/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4a1682fb577679c3b311e03c02d3@montreal-independent-music": {
       "source": "has-things",
@@ -3717,7 +3834,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-michael-bernard-fitzgerald-david-blueskiesturnblack-com-2026-12-06-casa-del-popolo-montreal-04c7a3",
       "description": "Pop · Rock · Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e66ca0a402351a5a952595016d57@montreal-independent-music": {
       "source": "has-things",
@@ -3730,7 +3847,7 @@
       "url": "https://www.venuepilot.co/en/events/170903/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4c88812a840f3024a5d130f55980@montreal-independent-music": {
       "source": "has-things",
@@ -3743,7 +3860,7 @@
       "url": "https://www.venuepilot.co/en/events/190615/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "aa86598e07ecbe7b46b1a2330ec2@montreal-independent-music": {
       "source": "has-things",
@@ -3756,7 +3873,7 @@
       "url": "https://www.venuepilot.co/en/events/200382/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "161d67821b765728e65d3aaa8a1d@montreal-independent-music": {
       "source": "has-things",
@@ -3769,7 +3886,7 @@
       "url": "https://www.venuepilot.co/en/events/199839/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "78ea9c2d1c355fbc38086c00f8d5@montreal-independent-music": {
       "source": "boomboom",
@@ -3781,123 +3898,6 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1994",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "262db86e52ffdb7d479991ea3e42@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2190",
-      "title": "Blueroom x Waterfront (Backwater) Halloween All night Special",
-      "start": "2026-10-31T19:00:00-04:00",
-      "end": null,
-      "venue": "Blue Room",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2190",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "88a761e08a82ce371fb58cb87fc6@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5170",
-      "title": "Kaëlla",
-      "start": "2026-10-21T20:00:00-04:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://thepointofsale.com/tickets/kaella-qdb-octobre?lang=fr",
-      "description": "Venez à la rencontre de l’autrice-compositrice-interprète Kaëlla. C’est l’occasion à ...",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "634a57509e9984f5e492587c5410@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "1766",
-      "title": "Festival Akousma",
-      "start": "2026-10-21T19:30:00-04:00",
-      "end": null,
-      "venue": "Usine C",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/1766",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "331c5293910161b482ad5404a3d3@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2255",
-      "title": "Sans Soleil w/ Groceries + Jordan Gardner",
-      "start": "2026-10-21T20:00:00-04:00",
-      "end": null,
-      "venue": "Sans Soleil",
-      "address": "52 rue Saint-Zotique E, Montréal, QC",
-      "url": "https://boomboom.today/events/2255",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "03b1da6791d488455da3f140c255@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2029",
-      "title": "down2techno",
-      "start": "2026-10-21T22:00:00-04:00",
-      "end": null,
-      "venue": "Le Red Room",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2029",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "1417b3fc2e18a134760520037727@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2218",
-      "title": "0MIZS X PALMEER (FR)",
-      "start": "2026-10-21T22:00:00-04:00",
-      "end": null,
-      "venue": "Vino Disco",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2218",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "74e82e7e5e3d789a3d58a2355137@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2250",
-      "title": "Octobre chez Système - Oct 21",
-      "start": "2026-10-21T22:00:00-04:00",
-      "end": null,
-      "venue": "Système, 719 Rue Saint-Hubert",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2250",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "24b0d2cdb4dcbfcd2bac56f234d5@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "59e2efc9-75af-47a1-976f-232bbceec5ea",
-      "title": "Sans Soleil: Groceries, Jordan Gardner",
-      "start": "2026-10-21T20:00:00-04:00",
-      "end": "2026-10-22T03:00:00-04:00",
-      "venue": "Sans Soleil",
-      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
-      "url": "https://www.rave.ca/en/event/57215/",
-      "description": "House · Sans Soleil: Groceries, Jordan Gardner is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CANCELLED",
-      "missing_runs": 4
-    },
-    "865fb946c1d53007b904998d48a9@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "314f956f-0f51-47ed-b9dc-0f83c258529b",
-      "title": "Down2Techno: K657, Kazar, Vaselina",
-      "start": "2026-10-21T22:00:00-04:00",
-      "end": null,
-      "venue": "Le Red Room",
-      "address": "2037 Rue Saint-Denis, Montreal, QC",
-      "url": "https://leredroom.com/evenements/",
-      "description": "Techno · Down2Techno: K657, Kazar, Vaselina is a music event at Le Red Room. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
       "missing_runs": 4
     },
@@ -3912,7 +3912,7 @@
       "url": "https://boomboom.today/events/2283",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "6abf18158bb872612d0c3ec5c125@montreal-independent-music": {
       "source": "boomboom",
@@ -3925,7 +3925,7 @@
       "url": "https://boomboom.today/events/1874",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "a791cd2bf3a19ea7a8286b5cf275@montreal-independent-music": {
       "source": "wherehouse",
@@ -3938,7 +3938,7 @@
       "url": "https://www.rave.ca/en/event/57136/",
       "description": "House · Halloween - Plaisirs Sonores is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "7e805b0e92f9736b736e1181994e@montreal-independent-music": {
       "source": "has-things",
@@ -3951,7 +3951,7 @@
       "url": "https://www.venuepilot.co/en/events/199342/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "28c435c338a7bbd22845424f1b25@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3964,7 +3964,7 @@
       "url": "https://lepointdevente.com/billets/qdb261107001?lang=fr",
       "description": "CCF présente LEPARC + TEMPÊTE SOLAIRE [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "975826edfec83ccdfd94180fcc15@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3977,7 +3977,7 @@
       "url": "https://lepointdevente.com/billets/qdb261114001?lang=fr&fbclid=IwY2xjawUWcNtwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5NHf2UcPbbaCbmmwsAiAaI0W1idBpnsNVywMnTI5xvo0FtEYUn4tvFr8GQMQ_aem_d0KYDZP84lhFXAyyUnDhsw",
       "description": "CCF présente CHÉNIER + KAT PEREIRA [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "6c5b0783b7532c18e90c9aad756e@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -3990,7 +3990,7 @@
       "url": "https://quaidesbrumes.ca/evenements/m-pour-montreal-groover-music-museums-basht-irl/",
       "description": "Groover présente :\r\nMuseums\r\nBasht (IRL) — présenté par LIIFT\r\n\r\nUn concert présenté ...",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "81358fbaf4e5c61262778d95a28f@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -4003,7 +4003,7 @@
       "url": "https://lepointdevente.com/billets/jhp261121001?lang=fr&fbclid=IwY2xjawUz7wtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVB1OWVLbHZhUzNmQzBFeEhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegMO3MZPj7SYtiNpjikNn10Gajz0zC53yXAkUwGkueHVtUDg-CH3kM_HHbvs_aem_YZpnId2GGbzZ1ccIeoSrcA",
       "description": "M pour Montréal, WB Musiques, Folivora Records et Rose Festival ...",
       "status": "CANCELLED",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "a66f356a007ff746148a554aa2a5@montreal-independent-music": {
       "source": "boomboom",
@@ -4016,7 +4016,7 @@
       "url": "https://boomboom.today/events/1995",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "3fd136de03fb93134b7136ce02de@montreal-independent-music": {
       "source": "wherehouse",
@@ -4029,7 +4029,7 @@
       "url": "https://app.discotech.me/events/38287975-dj-frog-wetdogg-nautiluss-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for DJ Frog, wetdogg, Nautiluss at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "16ed7949f5f34103e92e4b64de02@montreal-independent-music": {
       "source": "wherehouse",
@@ -4042,7 +4042,7 @@
       "url": "https://www.rave.ca/en/event/57096/",
       "description": "House · Inedit By Underpulse is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "642760897c318bac50f8c12a766f@montreal-independent-music": {
       "source": "wherehouse",
@@ -4055,7 +4055,7 @@
       "url": "https://app.discotech.me/events/38284833-le-rotary-club-roh-balou-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Le Rotary Club, ROH, Balou at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "0860665cd4115648093f932544d5@montreal-independent-music": {
       "source": "wherehouse",
@@ -4068,7 +4068,7 @@
       "url": "https://www.rave.ca/en/event/57070/",
       "description": "House, Techno · Sonora - Cabanne FR is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "575621aa546132b5996149b65a36@montreal-independent-music": {
       "source": "boomboom",
@@ -4081,7 +4081,7 @@
       "url": "https://boomboom.today/events/1965",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 22
+      "missing_runs": 23
     },
     "9d1da3b1b09feb7af52eee118a6b@montreal-independent-music": {
       "source": "wherehouse",
@@ -4094,7 +4094,7 @@
       "url": "https://sat.qc.ca/en/events/mall-grab-2026",
       "description": "Latin · (Avec) Courage! presents: Mall Grab + DJ Cinéma Quartier Latin + Lia Plutonic · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "554265472546209420f6cbbe10a0@montreal-independent-music": {
       "source": "wherehouse",
@@ -4107,7 +4107,7 @@
       "url": "https://www.theatrefairmount.com/vnements/schrotthagen-theatre-fairmount/20261023-g3bn5-a4zkr-hwk6t-44pc7-td99j",
       "description": "Hard Techno, Techno, Trance · Neon presents Schrotthagen at Théâtre Fairmount. Techno, hard techno and trance. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 25
+      "missing_runs": 26
     },
     "bce234ce7f59fcb41eab3171248e@montreal-independent-music": {
       "source": "wherehouse",
@@ -4120,7 +4120,7 @@
       "url": "https://www.rave.ca/en/event/57003/",
       "description": "House · Open_Secret___ is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "374666cfe33e5219017d82f473a2@montreal-independent-music": {
       "source": "wherehouse",
@@ -4133,7 +4133,7 @@
       "url": "https://www.rave.ca/en/event/57163/",
       "description": "House, Techno · All Your Favorites, Back Again is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 30
+      "missing_runs": 31
     },
     "ee678c9fbe21c22af677ca1d7bf7@montreal-independent-music": {
       "source": "boomboom",
@@ -4146,7 +4146,7 @@
       "url": "https://boomboom.today/events/1991",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 39
+      "missing_runs": 40
     },
     "08719cc7b3af6627b61f99210f62@montreal-independent-music": {
       "source": "wherehouse",
@@ -4159,7 +4159,7 @@
       "url": "https://app.discotech.me/events/38287973-subnoir-yaya-noel-syana-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Subnoir: Yaya, Noel, Syana at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 40
+      "missing_runs": 41
     },
     "2b10c056d0de32391435634ec96a@montreal-independent-music": {
       "source": "wherehouse",
@@ -4172,7 +4172,7 @@
       "url": "https://www.rave.ca/en/event/57095/",
       "description": "House · Kinetic is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 40
+      "missing_runs": 41
     },
     "36c3ab5bb89aa5ec56370f019665@montreal-independent-music": {
       "source": "wherehouse",
@@ -4185,7 +4185,7 @@
       "url": "https://www.rave.ca/en/event/56606/",
       "description": "Disco · Mundo Disko X Stereo: Horse Meat Disco (Day Dance) is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 40
+      "missing_runs": 41
     },
     "ebaac8b33fbb913476bb828ba065@montreal-independent-music": {
       "source": "wherehouse",
@@ -4198,7 +4198,7 @@
       "url": "https://www.rave.ca/en/event/56897/",
       "description": "House · Canned Heat With Roland Gonzales is a music event at Sans Soleil. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 40
+      "missing_runs": 41
     },
     "9d0dacb7763285a1e2747fa81175@montreal-independent-music": {
       "source": "wherehouse",
@@ -4211,7 +4211,7 @@
       "url": "https://www.rave.ca/en/event/57094/",
       "description": "House, Techno, Bass · Rave It Like The '90s (Extended) is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     },
     "4955daeefc5107c2a51262b50109@montreal-independent-music": {
       "source": "wherehouse",
@@ -4224,7 +4224,7 @@
       "url": "https://app.discotech.me/events/38287972-datcha-nonstop-ramzilla-gi-gi-tess-roby-and-numa-gama-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Datcha NONSTOP: Ramzilla, Gi Gi, Tess Roby & Numa Gama at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     }
   }
 }
