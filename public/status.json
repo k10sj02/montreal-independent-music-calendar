@@ -1,14 +1,13 @@
 {
-  "generated": "2026-10-24T00:41:16.682113-04:00",
-  "count": 299,
-  "cancelled": 26,
+  "generated": "2026-10-24T07:06:29.276765-04:00",
+  "count": 290,
+  "cancelled": 53,
   "sources": {
+    "venues-and-festivals": 124,
     "ckut": 0,
-    "quai-des-brumes": 11,
+    "quai-des-brumes": 12,
     "electronic-and-raves": 93,
     "underground-venues": 74
   },
-  "errors": {
-    "venues-and-festivals": "Server error '500 Internal Server Error' for url 'https://montreal.hasthings.com/api/events?from=2026-10-24&to=2026-12-23&category=music&limit=500'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
-  }
+  "errors": {}
 }
