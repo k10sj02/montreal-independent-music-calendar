@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:49:11.360552-04:00",
+  "updated": "2026-10-31T08:38:16.856127-04:00",
   "events": {
     "b6de7a434f34138ef47a97bd759e@montreal-independent-music": {
       "source": "has-things",
@@ -3651,8 +3651,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2282",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2ac1976a3af2c465c20036329168@montreal-independent-music": {
       "source": "boomboom",
@@ -3664,8 +3664,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2123",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "33f9ec74b09ee1d1ec1d46e716e4@montreal-independent-music": {
       "source": "boomboom",
@@ -3677,8 +3677,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2186",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "19260d7106045a786bed199a1855@montreal-independent-music": {
       "source": "boomboom",
@@ -3690,8 +3690,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2392",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c9b0c7063829f3eb070df996370d@montreal-independent-music": {
       "source": "boomboom",
@@ -3703,8 +3703,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2038",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "00f30f08764c2f6129dc2c314918@montreal-independent-music": {
       "source": "boomboom",
@@ -3716,8 +3716,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1228",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ca1c920e086a040936acb2490baf@montreal-independent-music": {
       "source": "boomboom",
@@ -3729,8 +3729,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1957",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b6ec571f47913b7e9035ba33aab4@montreal-independent-music": {
       "source": "boomboom",
@@ -3742,8 +3742,8 @@
       "address": "98 av. Laurier O, Montréal, QC",
       "url": "https://boomboom.today/events/1958",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "85193a10adbe18a61e963f0b4a4c@montreal-independent-music": {
       "source": "boomboom",
@@ -3755,8 +3755,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1959",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "33239a62eb534a892acaba75c21a@montreal-independent-music": {
       "source": "boomboom",
@@ -3768,8 +3768,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1961",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "40a114c7b60888ca8c601336d509@montreal-independent-music": {
       "source": "boomboom",
@@ -3781,8 +3781,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1962",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3190769815c5c5cacc7b0531409f@montreal-independent-music": {
       "source": "boomboom",
@@ -3794,8 +3794,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2004",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9d123422f9da05755d093ddf01fe@montreal-independent-music": {
       "source": "boomboom",
@@ -3807,8 +3807,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2121",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "628e324e671eda42348eac6b288c@montreal-independent-music": {
       "source": "boomboom",
@@ -3820,8 +3820,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2149",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0fefd2a804fccb0ca158747b0523@montreal-independent-music": {
       "source": "boomboom",
@@ -3833,8 +3833,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2174",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a74c973b2ab5ed5f44abc65d0af1@montreal-independent-music": {
       "source": "boomboom",
@@ -3846,8 +3846,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2187",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "327578a7eef876cc39eeb43552dd@montreal-independent-music": {
       "source": "boomboom",
@@ -3859,8 +3859,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2260",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fbb357da37810a1774ced2d03417@montreal-independent-music": {
       "source": "boomboom",
@@ -3872,8 +3872,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2265",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "04fcd078a881366eb339c7a8de91@montreal-independent-music": {
       "source": "boomboom",
@@ -3885,8 +3885,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2360",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "65669d63212cafedc1d15b29c6aa@montreal-independent-music": {
       "source": "boomboom",
@@ -3898,8 +3898,8 @@
       "address": "4465 boul. Saint-Laurent, Montréal, QC",
       "url": "https://boomboom.today/events/2148",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3ab00e5f212e4b9ee034bf03e718@montreal-independent-music": {
       "source": "boomboom",
@@ -3911,8 +3911,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2244",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8ed6d63292af0035b021f7888fa4@montreal-independent-music": {
       "source": "boomboom",
@@ -3924,8 +3924,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1963",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "119a84e8a4e1c14cad06e5fbc9ce@montreal-independent-music": {
       "source": "boomboom",
@@ -3937,8 +3937,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2122",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b356ef10dda78a6ea6fa075bf495@montreal-independent-music": {
       "source": "wherehouse",
@@ -3950,8 +3950,8 @@
       "address": "1403 Rue Sainte-Elisabeth, Montreal, QC",
       "url": "https://www.newspeakmtl.com/evenements/2026-10-30-baauer",
       "description": "House, Techno · BAAUER Lunice NAË · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d91e73c62a2cca99bd1b36441c47@montreal-independent-music": {
       "source": "wherehouse",
@@ -3963,8 +3963,8 @@
       "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
       "url": "https://www.wheretoparty.co/en/event-calendar/halloween-30-10---31-10-danny-daze-dj-stingray-313-clarisa-kimskii-carlos-souffront-suze-ijo-mor-elian-ehua",
       "description": "House, Techno, Electro · On October 30 and 31, the entire SAT goes into Halloween mode for an all-night marathon like nowhere else. Two nights, two floors and a line-up bringing together some of the bigge... · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c4e844083a828bb6f45095585c94@montreal-independent-music": {
       "source": "wherehouse",
@@ -3976,8 +3976,8 @@
       "address": "2037 Rue Saint-Denis, Montreal, QC",
       "url": "https://www.wheretoparty.co/en/event-calendar/redrum-halloween-special-techno-all-night",
       "description": "Techno · This Halloween, SupporTechnique brings you RedRum - a dark melodic techno marathon for all of you rave goblins. RSVP This is some text inside of a div block. RedRum Halloween Spec... · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bf190983858a3414cafed2271bd9@montreal-independent-music": {
       "source": "wherehouse",
@@ -3989,8 +3989,8 @@
       "address": "856 St.Catherine Est, Montreal, QC, H2L 2E3, CA",
       "url": "https://app.discotech.me/events/38292695-scareos-rave-apocalypse-napo-lugo-manu-colmee-b2b-freeeman-at-stereo-bar",
       "description": "Other · Scareo's Rave Apocalypse : Napo Lugo | Manu | Colmee B2B Freeeman is a music event at Stereobar. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d031572a42db5ce85ec91434c913@montreal-independent-music": {
       "source": "wherehouse",
@@ -4002,8 +4002,8 @@
       "address": "2023 Boulevard Saint-Laurent, Montreal, QC",
       "url": "https://www.wheretoparty.co/en/event-calendar/sonora-cabanne-yoyaku-fr",
       "description": "Other · A sonorous halloween evening will happen at ESC with one of the leaders of french minimal for over two decades playing for 3 hours. Cabanne's meticulous attention to detail, playf... · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "dc6dbdbdc3507c8f39cd60def319@montreal-independent-music": {
       "source": "wherehouse",
@@ -4015,8 +4015,8 @@
       "address": "858 Rue Sainte-Catherine E, Montreal, QC",
       "url": "https://app.discotech.me/events/38292031-scareos-rave-apocalypse-cristoph-all-night-at-stereo",
       "description": "House, Deep House, Afro House · SCAREO'S RAVE APOCALYPSE : CRISTOPH [ALL NIGHT] • Veuillez noter que les numéros de \"tier\" indiquent uniquement le niveau de prix pour un type de billet spécifique. Tous les \"tiers\" (par exemple, \"Phase 1\", \"Phase 2 \", etc.) pour un type de billet spécifique... · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ae7e6125531d1e18fecfda715ff2@montreal-independent-music": {
       "source": "wherehouse",
@@ -4028,8 +4028,8 @@
       "address": "2023 Boulevard Saint-Laurent, Montreal, QC",
       "url": "https://www.rave.ca/en/event/57327/",
       "description": "Techno, Breaks, Electro · Techno Crudo X ESC Presents Miss Oana is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "dcf3a4de27fb45ccd565f6cd9ed2@montreal-independent-music": {
       "source": "wherehouse",
@@ -4041,8 +4041,8 @@
       "address": "141 Avenue Mont-Royal E, Montreal, QC",
       "url": "https://www.rave.ca/en/event/57302/",
       "description": "House · Kontrast Montreal is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "375c10d1dc46363bafda3ccef5aa@montreal-independent-music": {
       "source": "wherehouse",
@@ -4054,8 +4054,8 @@
       "address": "98 Av. Laurier O, Montreal, QC, CA",
       "url": "https://app.discotech.me/events/38301501-andie-b2b-dj-cooldad-melek-b2b-nad-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Andie b2b DJ Cooldad, Melek b2b Nad at Bar Datcha in Montreal · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "456da8f312c05f971ae196303b36@montreal-independent-music": {
       "source": "wherehouse",
@@ -4067,8 +4067,8 @@
       "address": "98 Av. Laurier O, Montreal, QC, CA",
       "url": "https://app.discotech.me/events/38303243-nae-no-police-shadya-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for NAE, No Police , Shadya at Bar Datcha in Montreal · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0a2e9c5cf6d121b2a618c6e0f380@montreal-independent-music": {
       "source": "wherehouse",
@@ -4080,8 +4080,8 @@
       "address": "141 Avenue Mont-Royal E, Montreal, QC",
       "url": "https://www.rave.ca/en/event/57303/",
       "description": "House · Satoshi Tomiie, Ohm Hourani is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "cbf387e5ec516ed94f70a1494b83@montreal-independent-music": {
       "source": "wherehouse",
@@ -4093,8 +4093,8 @@
       "address": "98 Av. Laurier O, Montreal, QC, CA",
       "url": "https://app.discotech.me/events/38301502-fence-hop-mlle-cee-uyaz-softwarewolfe-ldriivy-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy at Bar Datcha in Montreal · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "e27579d5c720ff35956bc844b9b7@montreal-independent-music": {
       "source": "has-things",
@@ -4107,7 +4107,7 @@
       "url": "https://www.venuepilot.co/en/events/191296/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "612574a84cea473bb3d7307ea5fc@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -4120,7 +4120,7 @@
       "url": "https://quaidesbrumes.ca/evenements/kon-fusion-halloween-rebel-fiesta-dj-oonga/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7adb6d8920ac7ab7772b54440488@montreal-independent-music": {
       "source": "wherehouse",
@@ -4133,7 +4133,7 @@
       "url": "https://sat.qc.ca/en/events/club-sat-turbine-musik-me-luv-2026",
       "description": "Drum & Bass, Breaks · A high-energy night of bass music, breakbeat, and drum and bass featuring Turbine (Live A/V) and Melek, Dick Lee, and nad from Montreal collective Musik Me Luv! · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "dc55b8c9c7a9dce7c2169ada8ceb@montreal-independent-music": {
       "source": "wherehouse",
@@ -4146,7 +4146,7 @@
       "url": "https://www.rave.ca/en/event/57301/",
       "description": "House · Akufen, Cristobal Urbina is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "44bb68a2167e288eef71bafcc0f3@montreal-independent-music": {
       "source": "wherehouse",
@@ -4159,7 +4159,7 @@
       "url": "https://sat.qc.ca/en/events/beats-unfolded-2026",
       "description": "Other · A roaming performance event where live and digital arts take over the space in various forms: performances, interactive objects, visual environments, and DJ sets. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "959a4c0cb04d3102e057e853c585@montreal-independent-music": {
       "source": "has-things",
@@ -4172,7 +4172,7 @@
       "url": "https://t.venuepilot.com/e/keenan-trevon-make-it-make-sense-tour-2026-11-05-la-sotterenea-montreal-bcc1f9",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "262db86e52ffdb7d479991ea3e42@montreal-independent-music": {
       "source": "boomboom",
@@ -4185,7 +4185,7 @@
       "url": "https://boomboom.today/events/2190",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "9e16aeb807a2a08d25c9532f19c0@montreal-independent-music": {
       "source": "has-things",
@@ -4198,7 +4198,7 @@
       "url": "https://tickets.venuepilot.com/e/1h-matthew-hawkins-mattmhawkins14-gmail-com-2026-11-02-casa-del-popolo-montreal-ec0439",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "d2d40aa859c9e0148a3e9ea073aa@montreal-independent-music": {
       "source": "has-things",
@@ -4211,7 +4211,7 @@
       "url": "https://www.venuepilot.co/en/events/193504/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "a62ca7d9dd2783e8ed907157537c@montreal-independent-music": {
       "source": "has-things",
@@ -4224,7 +4224,7 @@
       "url": "https://www.venuepilot.co/en/events/202643/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "cf2e9dd57fd8e1e410a8eb4f1043@montreal-independent-music": {
       "source": "has-things",
@@ -4237,7 +4237,7 @@
       "url": "https://www.venuepilot.co/en/events/202626/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "bff6f62088576a691cd190897cb2@montreal-independent-music": {
       "source": "wherehouse",
@@ -4250,7 +4250,7 @@
       "url": "https://www.rave.ca/en/event/56994/",
       "description": "House · Osunlade, Jojoflores, D*soul, Kai Tht Guy is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "1414ead329fe26359ef6423158ad@montreal-independent-music": {
       "source": "wherehouse",
@@ -4263,7 +4263,7 @@
       "url": "https://www.rave.ca/en/event/56952/",
       "description": "Techno · Arder: Sev Dah is a music event at NWHR. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "08874994cd66ec9648b685679b72@montreal-independent-music": {
       "source": "wherehouse",
@@ -4276,7 +4276,7 @@
       "url": "https://www.rave.ca/en/event/57127/",
       "description": "House, Techno · ☆ Strawberry Gothcake X Bimbo Castle Halloween 2026 ☆ is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "11f7196f8bdc5a0b75dc75e5e5b7@montreal-independent-music": {
       "source": "wherehouse",
@@ -4289,7 +4289,7 @@
       "url": "https://www.rave.ca/en/event/57097/",
       "description": "House · Punkdt - Halloween is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "75d40db10a1ebbb841ec89885c77@montreal-independent-music": {
       "source": "wherehouse",
@@ -4302,7 +4302,7 @@
       "url": "https://app.discotech.me/events/38290890-latex-halloween-crissemarquer-lou-celsius-fate-hydra-b2b-nasty-gloss-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Latex Halloween: Crissemarquer, Lou Celsius, Fate, Hydra b2b Nasty Gloss at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "12a40fe6e4e7ce13418447a355e2@montreal-independent-music": {
       "source": "wherehouse",
@@ -4315,7 +4315,7 @@
       "url": "https://www.rave.ca/en/event/56607/",
       "description": "House · Scareo X Boo Yourself: Danny Tenaglia is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "7881a2b632d350afe0055ea79136@montreal-independent-music": {
       "source": "has-things",
@@ -4328,7 +4328,7 @@
       "url": "https://www.venuepilot.co/en/events/200729/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "e19ce255b7cc30045727d4c11327@montreal-independent-music": {
       "source": "boomboom",
@@ -4341,7 +4341,7 @@
       "url": "https://boomboom.today/events/2283",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 34
+      "missing_runs": 35
     },
     "a791cd2bf3a19ea7a8286b5cf275@montreal-independent-music": {
       "source": "wherehouse",
@@ -4354,7 +4354,7 @@
       "url": "https://www.rave.ca/en/event/57136/",
       "description": "House · Halloween - Plaisirs Sonores is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 36
+      "missing_runs": 37
     },
     "975826edfec83ccdfd94180fcc15@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -4367,7 +4367,7 @@
       "url": "https://lepointdevente.com/billets/qdb261114001?lang=fr&fbclid=IwY2xjawUWcNtwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5NHf2UcPbbaCbmmwsAiAaI0W1idBpnsNVywMnTI5xvo0FtEYUn4tvFr8GQMQ_aem_d0KYDZP84lhFXAyyUnDhsw",
       "description": "CCF présente CHÉNIER + KAT PEREIRA [PLATEAU DOUBLE]\r\nPortes : 20h30Spectacle ...",
       "status": "CANCELLED",
-      "missing_runs": 41
+      "missing_runs": 42
     },
     "6c5b0783b7532c18e90c9aad756e@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -4380,7 +4380,7 @@
       "url": "https://quaidesbrumes.ca/evenements/m-pour-montreal-groover-music-museums-basht-irl/",
       "description": "Groover présente :\r\nMuseums\r\nBasht (IRL) — présenté par LIIFT\r\n\r\nUn concert présenté ...",
       "status": "CANCELLED",
-      "missing_runs": 41
+      "missing_runs": 42
     },
     "81358fbaf4e5c61262778d95a28f@montreal-independent-music": {
       "source": "quai-des-brumes",
@@ -4393,7 +4393,7 @@
       "url": "https://lepointdevente.com/billets/jhp261121001?lang=fr&fbclid=IwY2xjawUz7wtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVB1OWVLbHZhUzNmQzBFeEhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegMO3MZPj7SYtiNpjikNn10Gajz0zC53yXAkUwGkueHVtUDg-CH3kM_HHbvs_aem_YZpnId2GGbzZ1ccIeoSrcA",
       "description": "M pour Montréal, WB Musiques, Folivora Records et Rose Festival ...",
       "status": "CANCELLED",
-      "missing_runs": 41
+      "missing_runs": 42
     },
     "642760897c318bac50f8c12a766f@montreal-independent-music": {
       "source": "wherehouse",
@@ -4406,7 +4406,7 @@
       "url": "https://app.discotech.me/events/38284833-le-rotary-club-roh-balou-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Le Rotary Club, ROH, Balou at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 47
+      "missing_runs": 48
     },
     "0860665cd4115648093f932544d5@montreal-independent-music": {
       "source": "wherehouse",
@@ -4419,7 +4419,7 @@
       "url": "https://www.rave.ca/en/event/57070/",
       "description": "House, Techno · Sonora - Cabanne FR is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 47
+      "missing_runs": 48
     }
   }
 }
