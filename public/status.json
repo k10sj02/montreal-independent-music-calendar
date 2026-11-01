@@ -1,14 +1,13 @@
 {
-  "generated": "2026-10-31T17:39:07.631533-04:00",
-  "count": 280,
-  "cancelled": 60,
+  "generated": "2026-11-01T01:12:29.905639-05:00",
+  "count": 307,
+  "cancelled": 26,
   "sources": {
-    "venues-and-festivals": 102,
+    "venues-and-festivals": 99,
     "ckut": 3,
-    "electronic-and-raves": 97,
-    "underground-venues": 82
+    "quai-des-brumes": 12,
+    "electronic-and-raves": 99,
+    "underground-venues": 74
   },
-  "errors": {
-    "quai-des-brumes": "No current Quai des Brumes events found"
-  }
+  "errors": {}
 }
