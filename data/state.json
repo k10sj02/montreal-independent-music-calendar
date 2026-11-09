@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T01:40:09.639111-05:00",
+  "updated": "2026-11-09T17:25:22.954872-05:00",
   "events": {
     "788ee552a00b8e9777258eb93de5@montreal-independent-music": {
       "source": "has-things",
@@ -664,6 +664,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "4ac5900d0c5d2900856aaff8b52d@montreal-independent-music": {
+      "source": "has-things",
+      "source_id": "c26bcf9b-c1cd-47bb-9217-a9a11581a721",
+      "title": "WESTELAKEN \"IN IT FOR THE LACK\" Album Launch with TALEL MCBRIAR & KELLY ELIZABETH",
+      "start": "2026-11-26T20:30:00-05:00",
+      "end": null,
+      "venue": "Casa del Popolo",
+      "address": "4873 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://www.venuepilot.co/en/events/203206/orders/new",
+      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b364afe20920d07706abd58f29ee@montreal-independent-music": {
       "source": "has-things",
       "source_id": "2e5d510b-7cc1-4d8f-9565-24d5da980e18",
@@ -1015,6 +1028,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "4d67a66967da1e5e4648ea9cf140@montreal-independent-music": {
+      "source": "has-things",
+      "source_id": "37bb019a-ea26-4bcb-8825-da069974e65d",
+      "title": "The Blogs + Bradford Barker + The Vauxhalls",
+      "start": "2026-12-07T20:00:00-05:00",
+      "end": null,
+      "venue": "La Sotterenea",
+      "address": "4848 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://www.venuepilot.co/en/events/200145/orders/new",
+      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "161d67821b765728e65d3aaa8a1d@montreal-independent-music": {
       "source": "has-things",
       "source_id": "f95ba4da-ef3f-4b60-b224-c01a8670b52d",
@@ -1193,6 +1219,19 @@
       "venue": "La Sala Rossa",
       "address": "4848 boul. Saint-Laurent, Montréal, QC",
       "url": "https://lepointdevente.com/billets/lpc261218001",
+      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9e5787fd260020442f3770e29915@montreal-independent-music": {
+      "source": "has-things",
+      "source_id": "7d2f7c92-4481-41fc-9016-b5af6c2b9173",
+      "title": "A Christmas Honky Tonk Dance Night",
+      "start": "2026-12-22T20:00:00-05:00",
+      "end": null,
+      "venue": "La Sala Rossa",
+      "address": "4848 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://www.venuepilot.co/en/events/181041/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -1908,6 +1947,19 @@
       "venue": "Système",
       "address": "7119 rue Saint-Hubert, Montréal, QC H2S 2N1",
       "url": "https://boomboom.today/events/2289",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c40014c0c4bf86486f1677e2d89b@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2449",
+      "title": "Transmasc Thursday: 90s Edition",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": null,
+      "venue": "Club Dd's",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2449",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -2640,19 +2692,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b341d2d6f06a5bd03a162ba7b646@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2384",
-      "title": "Interdependence Sunset Session Montréal",
-      "start": "2026-11-28T18:00:00-05:00",
-      "end": null,
-      "venue": "Café Social B Hive",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2384",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "11cc0e17e9b8ae6f1af9b5c482ea@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "58950b59-5e59-4b88-86eb-d39328295876",
@@ -3082,6 +3121,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "c02af887d9814e07e1132d3dfb15@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "fcc4f120-6b3f-4735-8d4c-73d2423cee3b",
+      "title": "Club SAT x GABA collective",
+      "start": "2026-12-04T22:00:00-05:00",
+      "end": "2026-12-05T04:00:00-05:00",
+      "venue": "SAT",
+      "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
+      "url": "https://sat.qc.ca/en/events/club-sat-gaba-collective-2026",
+      "description": "Other · Montreal collective GABA returns to SAT on December 4 for the AM: SERIES finale. For the occasion, Club SAT invites them to take over for an extended edition from 10 PM to 4 AM. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "104c28861a08237b37f57c6a3f40@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "e928d3d5-6524-4036-9490-93880661bb80",
@@ -3212,28 +3264,15 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9b17cf109af754c7c36b961cb0c1@montreal-independent-music": {
-      "source": "quai-des-brumes",
-      "source_id": "5306",
-      "title": "CCF16 – 5@7 Malaimé Soleil (duo)",
-      "start": "2026-11-08T17:00:00-05:00",
-      "end": null,
-      "venue": "Quai des Brumes",
-      "address": "4481 rue Saint-Denis, Montréal, QC H2J 2L2",
-      "url": "https://lepointdevente.com/billets/ccf26-malaime-soleil-duo?fbclid=IwY2xjawVCao1leHRuA2FlbQIxMABwZG9mAWJyaWQRMXlTVkwzMUZUaUlFZWNZSnlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeYqopAgthaJOvTJvkkZlMZjlJ-cI9UKofbYwSfcSVzVaJnEqSV1z_GnS-oPw_aem_XvsgoBeSpnIbY9-6X8_7TA",
-      "description": "Spectacle présenté dans le cadre d'une soirée Déplogue!\r\n\r\n\r\n\r\n\r\nUne proximité exceptionnelle ...",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "2bbacf3949757cb567b4d2e804ae@montreal-independent-music": {
+    "b341d2d6f06a5bd03a162ba7b646@montreal-independent-music": {
       "source": "boomboom",
-      "source_id": "2245",
-      "title": "Nina Kraviz [DAY RAVE]",
-      "start": "2026-11-08T14:00:00-05:00",
+      "source_id": "2384",
+      "title": "Interdependence Sunset Session Montréal",
+      "start": "2026-11-28T18:00:00-05:00",
       "end": null,
-      "venue": "L'Olympia",
+      "venue": "Café Social B Hive",
       "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2245",
+      "url": "https://boomboom.today/events/2384",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CONFIRMED",
       "missing_runs": 1
@@ -3248,8 +3287,8 @@
       "address": "7119 rue Saint-Hubert, Montréal, QC H2S 2N1",
       "url": "https://boomboom.today/events/2404",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b4e5e15a1c67b437771b49ab5188@montreal-independent-music": {
       "source": "wherehouse",
@@ -3261,8 +3300,8 @@
       "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
       "url": "https://sat.qc.ca/en/events/headache-and-special-guests",
       "description": "Other · good shows presents: Headache (Vegyn + Francis Hornsby Clark) with Laura Krieg and AMR* · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "74e5f3337320a3fb703eba5366f8@montreal-independent-music": {
       "source": "wherehouse",
@@ -3275,7 +3314,7 @@
       "url": "https://app.discotech.me/events/38309471-emil-paquin-jamvvis-donalda-live-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Emil Paquin, Jamvvis, Donalda (live) at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "dc1cd0f5052f0a9dde6b67f78625@montreal-independent-music": {
       "source": "wherehouse",
@@ -3288,7 +3327,7 @@
       "url": "https://www.rave.ca/en/event/57308/",
       "description": "House · Inedit By Underpulse is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "9be21ac152433caaecb327a8b2cd@montreal-independent-music": {
       "source": "wherehouse",
@@ -3301,7 +3340,7 @@
       "url": "https://sat.qc.ca/en/events/all-night-dure-vie-2026",
       "description": "House, Techno · SAT is teaming up with Dure Vie, a leading French electronic music media platform, for a special edition of ALL NIGHT featuring Jen Cardini, Olympe4000, Metizo and Evita. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "441bbe4fc4237a1ea68443395fc6@montreal-independent-music": {
       "source": "wherehouse",
@@ -3314,7 +3353,7 @@
       "url": "https://app.discotech.me/events/38309472-gaba-collective-invites-ume-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Gaba Collective Invites Ume at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "2dcbdc5b032e869c932c2855c35d@montreal-independent-music": {
       "source": "wherehouse",
@@ -3327,7 +3366,7 @@
       "url": "https://app.discotech.me/events/38309589-monitors-b2b-napo-lugo-kressel-live-stazia-at-stereo-bar",
       "description": "Other · Monitors B2B Napo Lugo | Kressel [Live] | Staziä is a music event at Stereobar. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "bbb3d54cd2395b9b693bf62d8c4c@montreal-independent-music": {
       "source": "wherehouse",
@@ -3340,7 +3379,7 @@
       "url": "https://www.rave.ca/en/event/57309/",
       "description": "House · Zeina, Ostrich is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "854aae5697431820dd0907e66af7@montreal-independent-music": {
       "source": "wherehouse",
@@ -3353,7 +3392,7 @@
       "url": "https://www.rave.ca/en/event/56912/",
       "description": "House, Deep House · 27 Years Of Stereo: David Morales (All Night Long) is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "b300244304f4d63066e402a0eeed@montreal-independent-music": {
       "source": "wherehouse",
@@ -3366,7 +3405,7 @@
       "url": "https://www.wheretoparty.co/en/event-calendar/off-domesicle-x-m-pour-mtl-juju-le-moko-moaad-bkr-et-cpr-annie",
       "description": "Techno, Disco, Afrobeat · An Off Dômesicle presented by SAT x M for Montreal, blending electronic sounds, club explorations and immersive 360° visuals with Juju Le Moko, Moaad BKR and CPR Annie. Juju Le Mo... · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "f4758847f943b274de71b9b1b4e5@montreal-independent-music": {
       "source": "wherehouse",
@@ -3379,7 +3418,7 @@
       "url": "https://www.rave.ca/en/event/57159/",
       "description": "House, Disco · On The House - Vol 007 is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "b921190141e1024202c897a5987a@montreal-independent-music": {
       "source": "wherehouse",
@@ -3392,7 +3431,7 @@
       "url": "https://www.rave.ca/en/event/57307/",
       "description": "House · In Too Deep - 2nd Anniversary is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "87b7f2e3dc30f22da021205acf71@montreal-independent-music": {
       "source": "has-things",
@@ -3405,7 +3444,7 @@
       "url": "https://www.venuepilot.co/en/events/197554/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "0f9c96d9a4cadf8aab79c341c5c4@montreal-independent-music": {
       "source": "wherehouse",
@@ -3418,7 +3457,7 @@
       "url": "https://www.rave.ca/en/event/56953/",
       "description": "Techno · Arder: is a music event at NWHR. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "793fcbdc6889673008575283d061@montreal-independent-music": {
       "source": "boomboom",
@@ -3431,7 +3470,7 @@
       "url": "https://boomboom.today/events/2290",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "472b9bc009b323937fc19e63608d@montreal-independent-music": {
       "source": "wherehouse",
@@ -3444,7 +3483,7 @@
       "url": "https://www.rave.ca/en/event/57304/",
       "description": "House · Nathan Burns, Erikel, ROUDY is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "5492ce1cc977f70b778bbac1226f@montreal-independent-music": {
       "source": "wherehouse",
@@ -3457,7 +3496,7 @@
       "url": "https://leredroom.com/evenements/",
       "description": "House, Techno · Nctrnl-001 is a music event at Le Red Room. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "3a4e3f66e950c676a83756552a6c@montreal-independent-music": {
       "source": "wherehouse",
@@ -3470,7 +3509,7 @@
       "url": "https://www.rave.ca/en/event/57305/",
       "description": "House · Unhrd is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "1e1c5d6adec28ce4139e05988dc6@montreal-independent-music": {
       "source": "wherehouse",
@@ -3483,7 +3522,7 @@
       "url": "https://www.wheretoparty.co/en/event-calendar/club-sat----turbine-live-a-v-musik-me-luv-melek-b3b-dick-lee-b3b-nad",
       "description": "House, Drum & Bass, Jungle · A high-energy night of bass music, breakbeat, and drum and bass featuring Turbine (Live A/V) and Melek, Dick Lee, and nad from Montreal collective Musik Me Luv! Get ready for Turb... · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "36fc110b78a0c7bb938cd5ce7feb@montreal-independent-music": {
       "source": "wherehouse",
@@ -3496,7 +3535,7 @@
       "url": "https://www.rave.ca/en/event/57306/",
       "description": "House · Kinetic 5 Year Anniversary is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "ae7e6125531d1e18fecfda715ff2@montreal-independent-music": {
       "source": "wherehouse",
@@ -3509,7 +3548,7 @@
       "url": "https://www.rave.ca/en/event/57327/",
       "description": "Techno, Breaks, Electro · Techno Crudo X ESC Presents Miss Oana is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "dcf3a4de27fb45ccd565f6cd9ed2@montreal-independent-music": {
       "source": "wherehouse",
@@ -3522,7 +3561,7 @@
       "url": "https://www.rave.ca/en/event/57302/",
       "description": "House · Kontrast Montreal is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "375c10d1dc46363bafda3ccef5aa@montreal-independent-music": {
       "source": "wherehouse",
@@ -3535,7 +3574,7 @@
       "url": "https://app.discotech.me/events/38301501-andie-b2b-dj-cooldad-melek-b2b-nad-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Andie b2b DJ Cooldad, Melek b2b Nad at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "456da8f312c05f971ae196303b36@montreal-independent-music": {
       "source": "wherehouse",
@@ -3548,7 +3587,7 @@
       "url": "https://app.discotech.me/events/38303243-nae-no-police-shadya-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for NAE, No Police , Shadya at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "0a2e9c5cf6d121b2a618c6e0f380@montreal-independent-music": {
       "source": "wherehouse",
@@ -3561,7 +3600,7 @@
       "url": "https://www.rave.ca/en/event/57303/",
       "description": "House · Satoshi Tomiie, Ohm Hourani is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "cbf387e5ec516ed94f70a1494b83@montreal-independent-music": {
       "source": "wherehouse",
@@ -3574,7 +3613,7 @@
       "url": "https://app.discotech.me/events/38301502-fence-hop-mlle-cee-uyaz-softwarewolfe-ldriivy-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "e27579d5c720ff35956bc844b9b7@montreal-independent-music": {
       "source": "has-things",
@@ -3587,7 +3626,7 @@
       "url": "https://www.venuepilot.co/en/events/191296/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 25
+      "missing_runs": 26
     },
     "7adb6d8920ac7ab7772b54440488@montreal-independent-music": {
       "source": "wherehouse",
@@ -3600,7 +3639,7 @@
       "url": "https://sat.qc.ca/en/events/club-sat-turbine-musik-me-luv-2026",
       "description": "Drum & Bass, Breaks · A high-energy night of bass music, breakbeat, and drum and bass featuring Turbine (Live A/V) and Melek, Dick Lee, and nad from Montreal collective Musik Me Luv! · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 25
+      "missing_runs": 26
     },
     "44bb68a2167e288eef71bafcc0f3@montreal-independent-music": {
       "source": "wherehouse",
@@ -3613,7 +3652,7 @@
       "url": "https://sat.qc.ca/en/events/beats-unfolded-2026",
       "description": "Other · A roaming performance event where live and digital arts take over the space in various forms: performances, interactive objects, visual environments, and DJ sets. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "d2d40aa859c9e0148a3e9ea073aa@montreal-independent-music": {
       "source": "has-things",
@@ -3626,7 +3665,7 @@
       "url": "https://www.venuepilot.co/en/events/193504/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     },
     "a62ca7d9dd2783e8ed907157537c@montreal-independent-music": {
       "source": "has-things",
@@ -3639,7 +3678,7 @@
       "url": "https://www.venuepilot.co/en/events/202643/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     },
     "cf2e9dd57fd8e1e410a8eb4f1043@montreal-independent-music": {
       "source": "has-things",
@@ -3652,7 +3691,7 @@
       "url": "https://www.venuepilot.co/en/events/202626/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     },
     "7881a2b632d350afe0055ea79136@montreal-independent-music": {
       "source": "has-things",
@@ -3665,7 +3704,7 @@
       "url": "https://www.venuepilot.co/en/events/200729/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 54
+      "missing_runs": 55
     }
   }
 }
