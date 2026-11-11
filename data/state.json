@@ -1,45 +1,6 @@
 {
-  "updated": "2026-11-10T14:46:23.172646-05:00",
+  "updated": "2026-11-11T01:30:37.509904-05:00",
   "events": {
-    "58bbbd159e488f9bd8eb9b3dcfff@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "59359837-130d-47c3-9d62-ca131fd53e6b",
-      "title": "A night of music with Sam Ripat & McMillan",
-      "start": "2026-11-09T19:30:00-05:00",
-      "end": null,
-      "venue": "P'tit Ours",
-      "address": "5589 av. du Parc, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/190462/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7e805b0e92f9736b736e1181994e@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "0068d979-b712-4050-bdf0-be4113186d4e",
-      "title": "sports. + ARMOIRE + HALF PAST APRIL",
-      "start": "2026-11-09T20:00:00-05:00",
-      "end": null,
-      "venue": "Casa del Popolo",
-      "address": "4873 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/199342/orders/new",
-      "description": "Club Dance · Dance/Electronic · Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "0799ab5fcab6b4d6ea9350c5aef3@montreal-independent-music": {
-      "source": "has-things",
-      "source_id": "11850dd8-51b2-49cb-ae40-41f663059a6e",
-      "title": "Off Flux: Air Contains Honey + Eli Tareq El Bechelany-Lynch",
-      "start": "2026-11-09T20:00:00-05:00",
-      "end": null,
-      "venue": "La Sala Rossa",
-      "address": "4848 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://www.venuepilot.co/en/events/177657/orders/new",
-      "description": "Data: Has Things (hasthings.com), ODbL 1.0",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "d6c01b8b02c1fc52ee3d7eb0c1d4@montreal-independent-music": {
       "source": "has-things",
       "source_id": "959f9e48-8c5b-4df2-9ed5-ea6c393a5c38",
@@ -1431,19 +1392,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "27530727ee6bad75388d8994e362@montreal-independent-music": {
-      "source": "boomboom",
-      "source_id": "2212",
-      "title": "Nia Archives - Montréal",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": null,
-      "venue": "SAT Montreal, 1201 St Laurent Blvd, Montreal, QC H2X 2S6",
-      "address": "Montréal, QC",
-      "url": "https://boomboom.today/events/2212",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3935cfd630f1081bd948119edfea@montreal-independent-music": {
       "source": "boomboom",
       "source_id": "2431",
@@ -2718,16 +2666,29 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "11cc0e17e9b8ae6f1af9b5c482ea@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "58950b59-5e59-4b88-86eb-d39328295876",
-      "title": "NIA ARCHIVES - EMOTIONAL WORLD TOUR + BAMBII",
-      "start": "2026-11-10T19:00:00-05:00",
+    "4a7630d4d8b2be6fe337ea13faf2@montreal-independent-music": {
+      "source": "boomboom",
+      "source_id": "2354",
+      "title": "Zeina, Ostrich",
+      "start": "2026-11-27T22:30:00-05:00",
       "end": null,
-      "venue": "SAT",
-      "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
-      "url": "https://sat.qc.ca/en/events/nia-archives-2026",
-      "description": "Drum & Bass · (Avec) Courage! presents : NIA ARCHIVES - EMOTIONAL WORLD TOUR + BAMBII · Discovered via Wherehouse",
+      "venue": "Salon Daomé",
+      "address": "4465 boul. Saint-Laurent, Montréal, QC",
+      "url": "https://boomboom.today/events/2354",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5b3c9a98e3ce7e476c69b5c3f8aa@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "1adaa12a-1bf5-495e-918b-c67292537fce",
+      "title": "Sans Soleil: FICCILIO + BREAKCHECK",
+      "start": "2026-11-11T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-11",
+      "description": "Other · Sans Soleil: FICCILIO + BREAKCHECK at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2767,6 +2728,19 @@
       "address": "2037 Rue Saint-Denis, Montreal, QC",
       "url": "https://leredroom.com/evenements/",
       "description": "Jungle · Future Jungle is a music event at Le Red Room. Check the official event page for full details. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7a8cdf963c3a19f8f037acb927f9@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "ada95336-8a6f-473b-a508-8f515b6413f2",
+      "title": "Sans Soleil: LEXIS",
+      "start": "2026-11-13T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-13",
+      "description": "Other · Sans Soleil: LEXIS at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2835,6 +2809,32 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "025d627a1ca07c98bbb1b2f9d497@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "bd2b7ee1-e146-47a4-a1c1-e2bf1c783b28",
+      "title": "Sans Soleil: LS DALTON + SPENCE",
+      "start": "2026-11-15T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-15",
+      "description": "Other · Sans Soleil: LS DALTON + SPENCE at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c5f09957f6a2065a67be33d32765@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "fcbf1eb0-c793-4e40-b834-1d14b792693f",
+      "title": "Sans Soleil: HDI",
+      "start": "2026-11-17T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-17",
+      "description": "Other · Sans Soleil: HDI at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "05bbd5c2399926c3a8c8601d2567@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "9710dd39-c808-4567-960a-140f9bbd6e25",
@@ -2845,6 +2845,19 @@
       "address": "2037 Rue Saint-Denis, Montreal, QC",
       "url": "https://leredroom.com/evenements/",
       "description": "Techno · Down2Techno: C4k3, Kymøraa, Naë is a music event at Le Red Room. Check the official event page for full details. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1e7083192bcebb275d6fcece5025@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "382df89f-e2f3-4b6e-94cd-3ff929bd9ae7",
+      "title": "Sans Soleil: MICKEY PEREZ",
+      "start": "2026-11-19T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-19",
+      "description": "Other · Sans Soleil: MICKEY PEREZ at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3004,6 +3017,32 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "86cef1f422042cea8bc34d80b3fa@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "392120cc-a910-4bcb-a465-090b1e5df214",
+      "title": "Sans Soleil: GAB. REI",
+      "start": "2026-11-23T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-23",
+      "description": "Other · Sans Soleil: GAB. REI at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f1b5f12b49b740555305efbf1a26@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "c14b0ed5-1b74-4c12-b18c-3e851bf5112f",
+      "title": "Sans Soleil: SEER RECORD CO",
+      "start": "2026-11-25T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-25",
+      "description": "Other · Sans Soleil: SEER RECORD CO at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "fb76233b5bc9e2166b76444add7c@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "fa51924b-37bb-4be4-a284-45e37bded3a7",
@@ -3030,6 +3069,19 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "d080f0b4b2c99c85221c9d623e3d@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "6dcb4290-b5eb-435c-ac30-d064c37400ef",
+      "title": "Sans Soleil: ARAM + LA RAMA",
+      "start": "2026-11-27T20:00:00-05:00",
+      "end": null,
+      "venue": "Sans Soleil",
+      "address": "1002 Rue Saint-Urbain, Montreal, QC H2Z 1K6",
+      "url": "https://www.rave.ca/en/flyers_image/478851/#2026-11-27",
+      "description": "Other · Sans Soleil: ARAM + LA RAMA at Sans Soleil. Monthly schedule flyer parsed from Afterhour. · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "bb0038c2aa2b392d3591d47d2c81@montreal-independent-music": {
       "source": "wherehouse",
       "source_id": "77c8133b-74aa-4163-8fe7-415b55cee4cc",
@@ -3040,19 +3092,6 @@
       "address": "1403 Rue Sainte-Elisabeth, Montreal, QC",
       "url": "https://www.newspeakmtl.com/evenements/2026-11-27-paper-skies",
       "description": "Other · paper skies INVITÉ(E)S · Discovered via Wherehouse",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "bbb3d54cd2395b9b693bf62d8c4c@montreal-independent-music": {
-      "source": "wherehouse",
-      "source_id": "73353512-5652-4aa5-911f-ab1c9f152862",
-      "title": "Zeina, Ostrich",
-      "start": "2026-11-27T22:30:00-05:00",
-      "end": "2026-11-28T03:00:00-05:00",
-      "venue": "Salon Daomé",
-      "address": "141 Avenue Mont-Royal E, Montreal, QC",
-      "url": "https://www.rave.ca/en/event/57309/",
-      "description": "Techno · Zeina, Ostrich is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3316,16 +3355,42 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4a7630d4d8b2be6fe337ea13faf2@montreal-independent-music": {
+    "27530727ee6bad75388d8994e362@montreal-independent-music": {
       "source": "boomboom",
-      "source_id": "2354",
+      "source_id": "2212",
+      "title": "Nia Archives - Montréal",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": null,
+      "venue": "SAT Montreal, 1201 St Laurent Blvd, Montreal, QC H2X 2S6",
+      "address": "Montréal, QC",
+      "url": "https://boomboom.today/events/2212",
+      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "11cc0e17e9b8ae6f1af9b5c482ea@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "58950b59-5e59-4b88-86eb-d39328295876",
+      "title": "NIA ARCHIVES - EMOTIONAL WORLD TOUR + BAMBII",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": null,
+      "venue": "SAT",
+      "address": "1201 Boulevard Saint-Laurent, Montreal, QC",
+      "url": "https://sat.qc.ca/en/events/nia-archives-2026",
+      "description": "Drum & Bass · (Avec) Courage! presents : NIA ARCHIVES - EMOTIONAL WORLD TOUR + BAMBII · Discovered via Wherehouse",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "bbb3d54cd2395b9b693bf62d8c4c@montreal-independent-music": {
+      "source": "wherehouse",
+      "source_id": "73353512-5652-4aa5-911f-ab1c9f152862",
       "title": "Zeina, Ostrich",
       "start": "2026-11-27T22:30:00-05:00",
-      "end": null,
+      "end": "2026-11-28T03:00:00-05:00",
       "venue": "Salon Daomé",
-      "address": "4465 boul. Saint-Laurent, Montréal, QC",
-      "url": "https://boomboom.today/events/2354",
-      "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
+      "address": "141 Avenue Mont-Royal E, Montreal, QC",
+      "url": "https://www.rave.ca/en/event/57309/",
+      "description": "Techno · Zeina, Ostrich is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CONFIRMED",
       "missing_runs": 1
     },
@@ -3339,8 +3404,8 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/2356",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "e094846656d5ce6945a206ded10a@montreal-independent-music": {
       "source": "boomboom",
@@ -3352,19 +3417,6 @@
       "address": "Montréal, QC",
       "url": "https://boomboom.today/events/1967",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "7d26836554b19d3a1b7c2fdc85df@montreal-independent-music": {
-      "source": "ckut",
-      "source_id": "small-little-foot-soldiers-launch",
-      "title": "Small Little Foot Soldiers: A People’s History of the Anti-Apartheid Movement in Canada | Launch Event",
-      "start": "2026-11-09T18:00:00-05:00",
-      "end": "2026-11-09T20:00:00-05:00",
-      "venue": "CKUT event",
-      "address": "Montréal, QC",
-      "url": "https://ckut.ca/events/small-little-foot-soldiers-launch/",
-      "description": "Small Little Foot Soldiers: A People's History of the Anti-Apartheid Movement in Canada launch celebration: Monday, November 9, at 6 p.m., Dawson College, Montreal. Free, open to all!",
       "status": "CANCELLED",
       "missing_runs": 2
     },
@@ -3379,7 +3431,7 @@
       "url": "https://boomboom.today/events/2384",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "74e5f3337320a3fb703eba5366f8@montreal-independent-music": {
       "source": "wherehouse",
@@ -3392,7 +3444,7 @@
       "url": "https://app.discotech.me/events/38309471-emil-paquin-jamvvis-donalda-live-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Emil Paquin, Jamvvis, Donalda (live) at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "dc1cd0f5052f0a9dde6b67f78625@montreal-independent-music": {
       "source": "wherehouse",
@@ -3405,7 +3457,7 @@
       "url": "https://www.rave.ca/en/event/57308/",
       "description": "House · Inedit By Underpulse is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "9be21ac152433caaecb327a8b2cd@montreal-independent-music": {
       "source": "wherehouse",
@@ -3418,7 +3470,7 @@
       "url": "https://sat.qc.ca/en/events/all-night-dure-vie-2026",
       "description": "House, Techno · SAT is teaming up with Dure Vie, a leading French electronic music media platform, for a special edition of ALL NIGHT featuring Jen Cardini, Olympe4000, Metizo and Evita. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "441bbe4fc4237a1ea68443395fc6@montreal-independent-music": {
       "source": "wherehouse",
@@ -3431,7 +3483,7 @@
       "url": "https://app.discotech.me/events/38309472-gaba-collective-invites-ume-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Gaba Collective Invites Ume at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "2dcbdc5b032e869c932c2855c35d@montreal-independent-music": {
       "source": "wherehouse",
@@ -3444,7 +3496,7 @@
       "url": "https://app.discotech.me/events/38309589-monitors-b2b-napo-lugo-kressel-live-stazia-at-stereo-bar",
       "description": "Other · Monitors B2B Napo Lugo | Kressel [Live] | Staziä is a music event at Stereobar. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "854aae5697431820dd0907e66af7@montreal-independent-music": {
       "source": "wherehouse",
@@ -3457,7 +3509,7 @@
       "url": "https://www.rave.ca/en/event/56912/",
       "description": "House, Deep House · 27 Years Of Stereo: David Morales (All Night Long) is a music event at Stereo. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "b300244304f4d63066e402a0eeed@montreal-independent-music": {
       "source": "wherehouse",
@@ -3470,7 +3522,7 @@
       "url": "https://www.wheretoparty.co/en/event-calendar/off-domesicle-x-m-pour-mtl-juju-le-moko-moaad-bkr-et-cpr-annie",
       "description": "Techno, Disco, Afrobeat · An Off Dômesicle presented by SAT x M for Montreal, blending electronic sounds, club explorations and immersive 360° visuals with Juju Le Moko, Moaad BKR and CPR Annie. Juju Le Mo... · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "f4758847f943b274de71b9b1b4e5@montreal-independent-music": {
       "source": "wherehouse",
@@ -3483,7 +3535,7 @@
       "url": "https://www.rave.ca/en/event/57159/",
       "description": "House, Disco · On The House - Vol 007 is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "b921190141e1024202c897a5987a@montreal-independent-music": {
       "source": "wherehouse",
@@ -3496,7 +3548,7 @@
       "url": "https://www.rave.ca/en/event/57307/",
       "description": "House · In Too Deep - 2nd Anniversary is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "87b7f2e3dc30f22da021205acf71@montreal-independent-music": {
       "source": "has-things",
@@ -3509,7 +3561,7 @@
       "url": "https://www.venuepilot.co/en/events/197554/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "0f9c96d9a4cadf8aab79c341c5c4@montreal-independent-music": {
       "source": "wherehouse",
@@ -3522,7 +3574,7 @@
       "url": "https://www.rave.ca/en/event/56953/",
       "description": "Techno · Arder: is a music event at NWHR. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "793fcbdc6889673008575283d061@montreal-independent-music": {
       "source": "boomboom",
@@ -3535,7 +3587,7 @@
       "url": "https://boomboom.today/events/2290",
       "description": "Electronic / nightlife listing. The event page links to the original ticket source, including Resident Advisor when available.",
       "status": "CANCELLED",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "472b9bc009b323937fc19e63608d@montreal-independent-music": {
       "source": "wherehouse",
@@ -3548,7 +3600,7 @@
       "url": "https://www.rave.ca/en/event/57304/",
       "description": "House · Nathan Burns, Erikel, ROUDY is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "5492ce1cc977f70b778bbac1226f@montreal-independent-music": {
       "source": "wherehouse",
@@ -3561,7 +3613,7 @@
       "url": "https://leredroom.com/evenements/",
       "description": "House, Techno · Nctrnl-001 is a music event at Le Red Room. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "3a4e3f66e950c676a83756552a6c@montreal-independent-music": {
       "source": "wherehouse",
@@ -3574,7 +3626,7 @@
       "url": "https://www.rave.ca/en/event/57305/",
       "description": "House · Unhrd is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "1e1c5d6adec28ce4139e05988dc6@montreal-independent-music": {
       "source": "wherehouse",
@@ -3587,7 +3639,7 @@
       "url": "https://www.wheretoparty.co/en/event-calendar/club-sat----turbine-live-a-v-musik-me-luv-melek-b3b-dick-lee-b3b-nad",
       "description": "House, Drum & Bass, Jungle · A high-energy night of bass music, breakbeat, and drum and bass featuring Turbine (Live A/V) and Melek, Dick Lee, and nad from Montreal collective Musik Me Luv! Get ready for Turb... · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "36fc110b78a0c7bb938cd5ce7feb@montreal-independent-music": {
       "source": "wherehouse",
@@ -3600,7 +3652,7 @@
       "url": "https://www.rave.ca/en/event/57306/",
       "description": "House · Kinetic 5 Year Anniversary is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "ae7e6125531d1e18fecfda715ff2@montreal-independent-music": {
       "source": "wherehouse",
@@ -3613,7 +3665,7 @@
       "url": "https://www.rave.ca/en/event/57327/",
       "description": "Techno, Breaks, Electro · Techno Crudo X ESC Presents Miss Oana is a music event at Esc. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "dcf3a4de27fb45ccd565f6cd9ed2@montreal-independent-music": {
       "source": "wherehouse",
@@ -3626,7 +3678,7 @@
       "url": "https://www.rave.ca/en/event/57302/",
       "description": "House · Kontrast Montreal is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "375c10d1dc46363bafda3ccef5aa@montreal-independent-music": {
       "source": "wherehouse",
@@ -3639,7 +3691,7 @@
       "url": "https://app.discotech.me/events/38301501-andie-b2b-dj-cooldad-melek-b2b-nad-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Andie b2b DJ Cooldad, Melek b2b Nad at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "456da8f312c05f971ae196303b36@montreal-independent-music": {
       "source": "wherehouse",
@@ -3652,7 +3704,7 @@
       "url": "https://app.discotech.me/events/38303243-nae-no-police-shadya-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for NAE, No Police , Shadya at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "0a2e9c5cf6d121b2a618c6e0f380@montreal-independent-music": {
       "source": "wherehouse",
@@ -3665,7 +3717,7 @@
       "url": "https://www.rave.ca/en/event/57303/",
       "description": "House · Satoshi Tomiie, Ohm Hourani is a music event at Salon Daomé. Check the official event page for full details. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "cbf387e5ec516ed94f70a1494b83@montreal-independent-music": {
       "source": "wherehouse",
@@ -3678,7 +3730,7 @@
       "url": "https://app.discotech.me/events/38301502-fence-hop-mlle-cee-uyaz-softwarewolfe-ldriivy-at-bar-datcha",
       "description": "House, Techno · Buy tickets, bottle service & guest list for Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy at Bar Datcha in Montreal · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "e27579d5c720ff35956bc844b9b7@montreal-independent-music": {
       "source": "has-things",
@@ -3691,7 +3743,7 @@
       "url": "https://www.venuepilot.co/en/events/191296/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "7adb6d8920ac7ab7772b54440488@montreal-independent-music": {
       "source": "wherehouse",
@@ -3704,7 +3756,7 @@
       "url": "https://sat.qc.ca/en/events/club-sat-turbine-musik-me-luv-2026",
       "description": "Drum & Bass, Breaks · A high-energy night of bass music, breakbeat, and drum and bass featuring Turbine (Live A/V) and Melek, Dick Lee, and nad from Montreal collective Musik Me Luv! · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "44bb68a2167e288eef71bafcc0f3@montreal-independent-music": {
       "source": "wherehouse",
@@ -3717,7 +3769,7 @@
       "url": "https://sat.qc.ca/en/events/beats-unfolded-2026",
       "description": "Other · A roaming performance event where live and digital arts take over the space in various forms: performances, interactive objects, visual environments, and DJ sets. · Discovered via Wherehouse",
       "status": "CANCELLED",
-      "missing_runs": 30
+      "missing_runs": 31
     },
     "d2d40aa859c9e0148a3e9ea073aa@montreal-independent-music": {
       "source": "has-things",
@@ -3730,7 +3782,7 @@
       "url": "https://www.venuepilot.co/en/events/193504/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 46
+      "missing_runs": 47
     },
     "a62ca7d9dd2783e8ed907157537c@montreal-independent-music": {
       "source": "has-things",
@@ -3743,7 +3795,7 @@
       "url": "https://www.venuepilot.co/en/events/202643/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 46
+      "missing_runs": 47
     },
     "cf2e9dd57fd8e1e410a8eb4f1043@montreal-independent-music": {
       "source": "has-things",
@@ -3756,7 +3808,7 @@
       "url": "https://www.venuepilot.co/en/events/202626/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 46
+      "missing_runs": 47
     },
     "7881a2b632d350afe0055ea79136@montreal-independent-music": {
       "source": "has-things",
@@ -3769,7 +3821,7 @@
       "url": "https://www.venuepilot.co/en/events/200729/orders/new",
       "description": "Data: Has Things (hasthings.com), ODbL 1.0",
       "status": "CANCELLED",
-      "missing_runs": 57
+      "missing_runs": 58
     }
   }
 }
