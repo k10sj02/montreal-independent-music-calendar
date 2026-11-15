@@ -1,14 +1,13 @@
 {
-  "generated": "2026-11-15T01:39:23.885797-05:00",
-  "count": 271,
-  "cancelled": 27,
+  "generated": "2026-11-15T13:53:56.328817-05:00",
+  "count": 253,
+  "cancelled": 50,
   "sources": {
-    "venues-and-festivals": 87,
+    "venues-and-festivals": 88,
     "ckut": 0,
+    "quai-des-brumes": 12,
     "electronic-and-raves": 99,
-    "underground-venues": 69
+    "underground-venues": 73
   },
-  "errors": {
-    "quai-des-brumes": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'quaidesbrumes.ca'. (_ssl.c:1011)"
-  }
+  "errors": {}
 }
