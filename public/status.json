@@ -1,14 +1,13 @@
 {
-  "generated": "2026-11-27T03:40:41.371588-05:00",
-  "count": 262,
-  "cancelled": 18,
+  "generated": "2026-11-27T16:21:15.153427-05:00",
+  "count": 261,
+  "cancelled": 29,
   "sources": {
+    "venues-and-festivals": 76,
     "ckut": 0,
     "quai-des-brumes": 4,
-    "underground-venues": 76
+    "electronic-and-raves": 99,
+    "underground-venues": 85
   },
-  "errors": {
-    "venues-and-festivals": "The read operation timed out",
-    "electronic-and-raves": "Server error '520 <none>' for url 'https://boomboom.today/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/520"
-  }
+  "errors": {}
 }
